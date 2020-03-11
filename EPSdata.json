@@ -1,0 +1,1641 @@
+[
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2020-01-28T21:30:00.000Z ",
+        "EPS_Estimate": "4.55",
+        "EPS": "4.99",
+        "EPS_Surprise": "9.67"
+    },
+
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2018-02-01T21:00:00.000Z ",
+        "EPS_Estimate": "3.86",
+        "EPS": "3.89",
+        "EPS_Surprise": "0.78"
+    },
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2019-01-29T21:30:00.000Z ",
+        "EPS_Estimate": "4.17",
+        "EPS": "4.18",
+        "EPS_Surprise": "0.24"
+    },
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2017-11-02T20:00:00.000Z ",
+        "EPS_Estimate": "1.87",
+        "EPS": "2.07",
+        "EPS_Surprise": "10.7"
+    },
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2018-11-01T20:30:00.000Z ",
+        "EPS_Estimate": "2.78",
+        "EPS": "2.91",
+        "EPS_Surprise": "4.68"
+    },
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2019-10-30T20:30:00.000Z ",
+        "EPS_Estimate": "2.84",
+        "EPS": "3.03",
+        "EPS_Surprise": "6.69"
+    },
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2017-08-01T20:00:00.000Z ",
+        "EPS_Estimate": "1.57",
+        "EPS": "1.67",
+        "EPS_Surprise": "6.37"
+    },
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2018-07-31T20:30:00.000Z ",
+        "EPS_Estimate": "2.18",
+        "EPS": "2.34",
+        "EPS_Surprise": "7.34"
+    },
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2019-07-30T20:30:00.000Z ",
+        "EPS_Estimate": "2.1",
+        "EPS": "2.18",
+        "EPS_Surprise": "3.81"
+    },
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2017-05-02T20:00:00.000Z ",
+        "EPS_Estimate": "2.02",
+        "EPS": "2.1",
+        "EPS_Surprise": "3.96"
+    },
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2018-05-01T20:30:00.000Z ",
+        "EPS_Estimate": "2.67",
+        "EPS": "2.73",
+        "EPS_Surprise": "2.25"
+    },
+    {
+        "Ticker": "AAPL ",
+        "Date": " 2019-04-30T20:30:00.000Z ",
+        "EPS_Estimate": "2.36",
+        "EPS": "2.46",
+        "EPS_Surprise": "4.24"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2020-01-28T21:15:10.000Z ",
+        "EPS_Estimate": "0.31",
+        "EPS": "0.32",
+        "EPS_Surprise": "3.23"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2018-01-30T21:00:00.000Z ",
+        "EPS_Estimate": "0.05",
+        "EPS": "0.08",
+        "EPS_Surprise": "60"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2019-01-29T21:15:06.000Z ",
+        "EPS_Estimate": "0.08",
+        "EPS": "0.08",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2017-10-24T20:00:00.000Z ",
+        "EPS_Estimate": "0.08",
+        "EPS": "0.1",
+        "EPS_Surprise": "25"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2018-10-24T20:30:12.000Z ",
+        "EPS_Estimate": "0.12",
+        "EPS": "0.13",
+        "EPS_Surprise": "8.33"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2019-10-29T20:15:11.000Z ",
+        "EPS_Estimate": "0.18",
+        "EPS": "0.18",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2017-07-25T20:00:00.000Z ",
+        "EPS_Estimate": "0",
+        "EPS": "0.02",
+        "EPS_Surprise": " 0"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2018-07-25T20:40:42.000Z ",
+        "EPS_Estimate": "0.13",
+        "EPS": "0.14",
+        "EPS_Surprise": "7.69"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2019-07-30T20:20:01.000Z ",
+        "EPS_Estimate": "0.08",
+        "EPS": "0.08",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2017-05-01T20:00:00.000Z ",
+        "EPS_Estimate": "-0.04",
+        "EPS": "-0.04",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2018-04-25T20:15:06.000Z ",
+        "EPS_Estimate": "0.09",
+        "EPS": "0.11",
+        "EPS_Surprise": "22.22"
+    },
+    {
+        "Ticker": "AMD ",
+        "Date": " 2019-04-30T20:20:11.000Z ",
+        "EPS_Estimate": "0.05",
+        "EPS": "0.06",
+        "EPS_Surprise": "20"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2020-01-30T21:01:05.000Z ",
+        "EPS_Estimate": "3.46",
+        "EPS": "3.64",
+        "EPS_Surprise": "5.2"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2017-02-02T21:00:00.000Z ",
+        "EPS_Estimate": "2.79",
+        "EPS": "2.89",
+        "EPS_Surprise": "3.58"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2018-02-01T21:00:00.000Z ",
+        "EPS_Estimate": "3.03",
+        "EPS": "2.89",
+        "EPS_Surprise": "-4.62"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2019-01-29T21:01:05.000Z ",
+        "EPS_Estimate": "3.27",
+        "EPS": "3.42",
+        "EPS_Surprise": "4.59"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2017-10-25T20:00:00.000Z ",
+        "EPS_Estimate": "3.11",
+        "EPS": "3.27",
+        "EPS_Surprise": "5.14"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2018-10-30T20:01:04.000Z ",
+        "EPS_Estimate": "3.45",
+        "EPS": "3.69",
+        "EPS_Surprise": "6.96"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2019-10-29T20:01:04.000Z ",
+        "EPS_Estimate": "3.53",
+        "EPS": "3.66",
+        "EPS_Surprise": "3.68"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2018-07-26T20:01:04.000Z ",
+        "EPS_Estimate": "3.54",
+        "EPS": "3.83",
+        "EPS_Surprise": "8.19"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2019-07-30T20:01:05.000Z ",
+        "EPS_Estimate": "3.59",
+        "EPS": "3.97",
+        "EPS_Surprise": "10.58"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2017-04-26T20:00:00.000Z ",
+        "EPS_Estimate": "3",
+        "EPS": "3.15",
+        "EPS_Surprise": "5"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2018-04-24T20:01:05.000Z ",
+        "EPS_Estimate": "3.24",
+        "EPS": "3.47",
+        "EPS_Surprise": "7.1"
+    },
+    {
+        "Ticker": "AMGN ",
+        "Date": " 2019-04-30T20:01:04.000Z ",
+        "EPS_Estimate": "3.48",
+        "EPS": "3.56",
+        "EPS_Surprise": "2.3"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2020-01-30T21:01:00.000Z ",
+        "EPS_Estimate": "4.03",
+        "EPS": "6.47",
+        "EPS_Surprise": "60.55"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2017-02-02T21:00:00.000Z ",
+        "EPS_Estimate": "1.35",
+        "EPS": "1.54",
+        "EPS_Surprise": "14.07"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2018-02-01T21:00:00.000Z ",
+        "EPS_Estimate": "1.84",
+        "EPS": "2.16",
+        "EPS_Surprise": "17.39"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2019-01-31T21:01:00.000Z ",
+        "EPS_Estimate": "5.68",
+        "EPS": "6.04",
+        "EPS_Surprise": "6.34"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2017-10-26T20:00:00.000Z ",
+        "EPS_Estimate": "0.03",
+        "EPS": "0.52",
+        "EPS_Surprise": "1633.33"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2018-10-25T20:01:00.000Z ",
+        "EPS_Estimate": "3.14",
+        "EPS": "5.75",
+        "EPS_Surprise": "83.12"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2019-10-24T20:01:00.000Z ",
+        "EPS_Estimate": "4.62",
+        "EPS": "4.23",
+        "EPS_Surprise": "-8.44"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2017-07-27T20:00:00.000Z ",
+        "EPS_Estimate": "1.42",
+        "EPS": "0.4",
+        "EPS_Surprise": "-71.83"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2018-07-26T20:01:00.000Z ",
+        "EPS_Estimate": "2.54",
+        "EPS": "5.07",
+        "EPS_Surprise": "99.61"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2019-07-25T20:01:00.000Z ",
+        "EPS_Estimate": "5.57",
+        "EPS": "5.22",
+        "EPS_Surprise": "-6.28"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2017-04-27T20:00:00.000Z ",
+        "EPS_Estimate": "1.09",
+        "EPS": "1.48",
+        "EPS_Surprise": "35.78"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2018-04-26T20:01:00.000Z ",
+        "EPS_Estimate": "1.26",
+        "EPS": "3.27",
+        "EPS_Surprise": "159.52"
+    },
+    {
+        "Ticker": "AMZN ",
+        "Date": " 2019-04-25T20:01:00.000Z ",
+        "EPS_Estimate": "4.72",
+        "EPS": "7.09",
+        "EPS_Surprise": "50.21"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2018-01-16T13:30:00.000Z ",
+        "EPS_Estimate": "1.19",
+        "EPS": "1.28",
+        "EPS_Surprise": "7.56"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2019-01-14T12:59:00.000Z ",
+        "EPS_Estimate": "1.55",
+        "EPS": "1.61",
+        "EPS_Surprise": "3.87"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2017-10-12T12:30:00.000Z ",
+        "EPS_Estimate": "1.32",
+        "EPS": "1.42",
+        "EPS_Surprise": "7.58"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2018-10-12T11:59:00.000Z ",
+        "EPS_Estimate": "1.69",
+        "EPS": "1.73",
+        "EPS_Surprise": "2.37"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2019-10-15T11:59:00.000Z ",
+        "EPS_Estimate": "1.95",
+        "EPS": "2.07",
+        "EPS_Surprise": "6.15"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2017-07-14T12:30:00.000Z ",
+        "EPS_Estimate": "1.21",
+        "EPS": "1.28",
+        "EPS_Surprise": "5.79"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2018-07-13T12:00:00.000Z ",
+        "EPS_Estimate": "1.56",
+        "EPS": "1.63",
+        "EPS_Surprise": "4.49"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2019-07-15T11:59:00.000Z ",
+        "EPS_Estimate": "1.8",
+        "EPS": "1.95",
+        "EPS_Surprise": "8.33"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2017-04-13T12:30:00.000Z ",
+        "EPS_Estimate": "1.24",
+        "EPS": "1.35",
+        "EPS_Surprise": "8.87"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2018-04-13T16:30:00.000Z ",
+        "EPS_Estimate": "1.61",
+        "EPS": "1.68",
+        "EPS_Surprise": "4.35"
+    },
+    {
+        "Ticker": "C ",
+        "Date": " 2019-04-15T11:59:00.000Z ",
+        "EPS_Estimate": "1.8",
+        "EPS": "1.87",
+        "EPS_Surprise": "3.89"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2020-01-29T21:05:04.000Z ",
+        "EPS_Estimate": "2.53",
+        "EPS": "2.56",
+        "EPS_Surprise": "1.19"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2017-02-01T21:00:00.000Z ",
+        "EPS_Estimate": "1.31",
+        "EPS": "1.21",
+        "EPS_Surprise": "-7.63"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2018-01-31T21:00:00.000Z ",
+        "EPS_Estimate": "1.95",
+        "EPS": "1.44",
+        "EPS_Surprise": "-26.15"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2019-01-30T21:05:07.000Z ",
+        "EPS_Estimate": "2.19",
+        "EPS": "2.38",
+        "EPS_Surprise": "8.68"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2017-11-01T20:00:00.000Z ",
+        "EPS_Estimate": "1.28",
+        "EPS": "1.59",
+        "EPS_Surprise": "24.22"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2018-10-30T20:05:08.000Z ",
+        "EPS_Estimate": "1.47",
+        "EPS": "1.76",
+        "EPS_Surprise": "19.73"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2019-10-30T20:05:03.000Z ",
+        "EPS_Estimate": "1.91",
+        "EPS": "2.12",
+        "EPS_Surprise": "10.99"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2017-07-26T20:00:00.000Z ",
+        "EPS_Estimate": "1.13",
+        "EPS": "1.32",
+        "EPS_Surprise": "16.81"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2018-07-25T20:05:07.000Z ",
+        "EPS_Estimate": "1.72",
+        "EPS": "1.74",
+        "EPS_Surprise": "1.16"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2019-07-24T20:05:06.000Z ",
+        "EPS_Estimate": "1.88",
+        "EPS": "0.91",
+        "EPS_Surprise": "-51.6"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2017-05-03T20:00:00.000Z ",
+        "EPS_Estimate": "1.12",
+        "EPS": "1.04",
+        "EPS_Surprise": "-7.14"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2018-04-25T20:05:04.000Z ",
+        "EPS_Estimate": "1.35",
+        "EPS": "1.69",
+        "EPS_Surprise": "25.19"
+    },
+    {
+        "Ticker": "FB ",
+        "Date": " 2019-04-24T20:05:05.000Z ",
+        "EPS_Estimate": "1.63",
+        "EPS": "0.85",
+        "EPS_Surprise": "-47.85"
+    },
+    {
+        "Ticker": "HON ",
+        "Date": " 2020-01-31T11:30:09.000Z ",
+        "EPS_Estimate": "2.04",
+        "EPS": "2.06",
+        "EPS_Surprise": "0.98"
+    },
+    {
+        "Ticker": "HON ",
+        "Date": " 2018-01-26T13:30:00.000Z ",
+        "EPS_Estimate": "1.84",
+        "EPS": "1.85",
+        "EPS_Surprise": "0.54"
+    },
+    {
+        "Ticker": "HON ",
+        "Date": " 2019-02-01T11:30:09.000Z ",
+        "EPS_Estimate": "1.89",
+        "EPS": "1.91",
+        "EPS_Surprise": "1.06"
+    },
+    {
+        "Ticker": "HON ",
+        "Date": " 2018-10-19T10:30:34.000Z ",
+        "EPS_Estimate": "1.99",
+        "EPS": "2.03",
+        "EPS_Surprise": "2.01"
+    },
+    {
+        "Ticker": "HON ",
+        "Date": " 2019-10-17T10:30:11.000Z ",
+        "EPS_Estimate": "2.01",
+        "EPS": "2.08",
+        "EPS_Surprise": "3.48"
+    },
+    {
+        "Ticker": "HON ",
+        "Date": " 2018-07-20T10:30:35.000Z ",
+        "EPS_Estimate": "2.01",
+        "EPS": "2.12",
+        "EPS_Surprise": "5.47"
+    },
+    {
+        "Ticker": "HON ",
+        "Date": " 2019-07-18T10:30:05.000Z ",
+        "EPS_Estimate": "2.08",
+        "EPS": "2.1",
+        "EPS_Surprise": "0.96"
+    },
+    {
+        "Ticker": "HON ",
+        "Date": " 2017-04-21T12:30:00.000Z ",
+        "EPS_Estimate": "1.62",
+        "EPS": "1.71",
+        "EPS_Surprise": "5.56"
+    },
+    {
+        "Ticker": "HON ",
+        "Date": " 2018-04-20T16:30:00.000Z ",
+        "EPS_Estimate": "1.9",
+        "EPS": "1.95",
+        "EPS_Surprise": "2.63"
+    },
+    {
+        "Ticker": "HON ",
+        "Date": " 2019-04-18T10:31:14.000Z ",
+        "EPS_Estimate": "1.83",
+        "EPS": "1.92",
+        "EPS_Surprise": "4.92"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2020-01-24T02:00:00.000Z ",
+        "EPS_Estimate": "1.25",
+        "EPS": "1.52",
+        "EPS_Surprise": "21.6"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2018-01-25T21:00:00.000Z ",
+        "EPS_Estimate": "0.87",
+        "EPS": "1.08",
+        "EPS_Surprise": "24.14"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2019-01-25T02:00:00.000Z ",
+        "EPS_Estimate": "1.22",
+        "EPS": "1.28",
+        "EPS_Surprise": "4.92"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2017-10-26T20:00:00.000Z ",
+        "EPS_Estimate": "0.8",
+        "EPS": "1.01",
+        "EPS_Surprise": "26.25"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2018-10-26T00:00:00.000Z ",
+        "EPS_Estimate": "1.15",
+        "EPS": "1.4",
+        "EPS_Surprise": "21.74"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2019-10-25T00:00:00.000Z ",
+        "EPS_Estimate": "1.24",
+        "EPS": "1.42",
+        "EPS_Surprise": "14.52"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2017-07-27T20:00:00.000Z ",
+        "EPS_Estimate": "0.68",
+        "EPS": "0.72",
+        "EPS_Surprise": "5.88"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2018-07-27T00:00:00.000Z ",
+        "EPS_Estimate": "0.96",
+        "EPS": "1.04",
+        "EPS_Surprise": "8.33"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2019-07-26T00:00:00.000Z ",
+        "EPS_Estimate": "0.89",
+        "EPS": "1.06",
+        "EPS_Surprise": "19.1"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2017-04-27T20:00:00.000Z ",
+        "EPS_Estimate": "0.65",
+        "EPS": "0.66",
+        "EPS_Surprise": "1.54"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2018-04-27T00:00:00.000Z ",
+        "EPS_Estimate": "0.72",
+        "EPS": "0.87",
+        "EPS_Surprise": "20.83"
+    },
+    {
+        "Ticker": "INTC ",
+        "Date": " 2019-04-26T00:00:00.000Z ",
+        "EPS_Estimate": "0.87",
+        "EPS": "0.89",
+        "EPS_Surprise": "2.3"
+    },
+    {
+        "Ticker": "JNJ ",
+        "Date": " 2020-01-22T11:30:09.000Z ",
+        "EPS_Estimate": "1.87",
+        "EPS": "1.88",
+        "EPS_Surprise": "0.53"
+    },
+    {
+        "Ticker": "JNJ ",
+        "Date": " 2019-01-22T11:40:07.000Z ",
+        "EPS_Estimate": "1.95",
+        "EPS": "1.97",
+        "EPS_Surprise": "1.03"
+    },
+    {
+        "Ticker": "JNJ ",
+        "Date": " 2018-10-16T10:40:08.000Z ",
+        "EPS_Estimate": "2.03",
+        "EPS": "2.05",
+        "EPS_Surprise": "0.99"
+    },
+    {
+        "Ticker": "JNJ ",
+        "Date": " 2019-10-15T10:43:56.000Z ",
+        "EPS_Estimate": "2.01",
+        "EPS": "2.12",
+        "EPS_Surprise": "5.47"
+    },
+    {
+        "Ticker": "JNJ ",
+        "Date": " 2017-07-18T12:30:00.000Z ",
+        "EPS_Estimate": "1.8",
+        "EPS": "1.83",
+        "EPS_Surprise": "1.67"
+    },
+    {
+        "Ticker": "JNJ ",
+        "Date": " 2018-07-17T10:40:07.000Z ",
+        "EPS_Estimate": "2.07",
+        "EPS": "2.1",
+        "EPS_Surprise": "1.45"
+    },
+    {
+        "Ticker": "JNJ ",
+        "Date": " 2019-07-16T10:40:09.000Z ",
+        "EPS_Estimate": "2.46",
+        "EPS": "2.58",
+        "EPS_Surprise": "4.88"
+    },
+    {
+        "Ticker": "JNJ ",
+        "Date": " 2017-04-18T12:30:00.000Z ",
+        "EPS_Estimate": "1.77",
+        "EPS": "1.83",
+        "EPS_Surprise": "3.39"
+    },
+    {
+        "Ticker": "JNJ ",
+        "Date": " 2019-04-16T10:40:05.000Z ",
+        "EPS_Estimate": "2.03",
+        "EPS": "2.1",
+        "EPS_Surprise": "3.45"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2020-01-30T11:55:00.000Z ",
+        "EPS_Estimate": "0.44",
+        "EPS": "0.44",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2017-02-09T13:30:00.000Z ",
+        "EPS_Estimate": "0.37",
+        "EPS": "0.37",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2017-10-25T12:30:00.000Z ",
+        "EPS_Estimate": "0.49",
+        "EPS": "0.5",
+        "EPS_Surprise": "2.04"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2018-10-30T10:55:00.000Z ",
+        "EPS_Estimate": "0.55",
+        "EPS": "0.57",
+        "EPS_Surprise": "3.64"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2019-10-18T10:55:00.000Z ",
+        "EPS_Estimate": "0.56",
+        "EPS": "0.56",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2017-07-26T12:30:00.000Z ",
+        "EPS_Estimate": "0.58",
+        "EPS": "0.59",
+        "EPS_Surprise": "1.72"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2018-07-25T10:55:00.000Z ",
+        "EPS_Estimate": "0.6",
+        "EPS": "0.6",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2019-07-23T10:55:00.000Z ",
+        "EPS_Estimate": "0.61",
+        "EPS": "0.63",
+        "EPS_Surprise": "3.28"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2017-04-25T12:30:00.000Z ",
+        "EPS_Estimate": "0.44",
+        "EPS": "0.43",
+        "EPS_Surprise": "-2.27"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2018-04-24T10:55:00.000Z ",
+        "EPS_Estimate": "0.46",
+        "EPS": "0.47",
+        "EPS_Surprise": "2.17"
+    },
+    {
+        "Ticker": "KO ",
+        "Date": " 2019-04-23T10:55:00.000Z ",
+        "EPS_Estimate": "0.46",
+        "EPS": "0.48",
+        "EPS_Surprise": "4.35"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2020-01-29T13:02:00.000Z ",
+        "EPS_Estimate": "1.87",
+        "EPS": "1.96",
+        "EPS_Surprise": "4.81"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2018-02-01T13:30:00.000Z ",
+        "EPS_Estimate": "1.12",
+        "EPS": "1.14",
+        "EPS_Surprise": "1.79"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2019-01-31T13:02:00.000Z ",
+        "EPS_Estimate": "1.52",
+        "EPS": "1.55",
+        "EPS_Surprise": "1.97"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2017-10-31T12:30:00.000Z ",
+        "EPS_Estimate": "1.23",
+        "EPS": "1.34",
+        "EPS_Surprise": "8.94"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2018-10-30T16:30:00.000Z ",
+        "EPS_Estimate": "1.68",
+        "EPS": "1.78",
+        "EPS_Surprise": "5.95"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2019-10-29T16:30:00.000Z ",
+        "EPS_Estimate": "2.01",
+        "EPS": "2.15",
+        "EPS_Surprise": "6.97"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2017-07-27T12:30:00.000Z ",
+        "EPS_Estimate": "1.04",
+        "EPS": "1.1",
+        "EPS_Surprise": "5.77"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2018-07-26T12:04:00.000Z ",
+        "EPS_Estimate": "1.53",
+        "EPS": "1.66",
+        "EPS_Surprise": "8.5"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2019-07-30T11:50:00.000Z ",
+        "EPS_Estimate": "1.82",
+        "EPS": "1.89",
+        "EPS_Surprise": "3.85"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2017-05-02T12:30:00.000Z ",
+        "EPS_Estimate": "0.95",
+        "EPS": "1.01",
+        "EPS_Surprise": "6.32"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2018-05-02T16:30:00.000Z ",
+        "EPS_Estimate": "1.25",
+        "EPS": "1.5",
+        "EPS_Surprise": "20"
+    },
+    {
+        "Ticker": "MA ",
+        "Date": " 2019-04-30T12:03:00.000Z ",
+        "EPS_Estimate": "1.66",
+        "EPS": "1.78",
+        "EPS_Surprise": "7.23"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2020-01-29T11:58:03.000Z ",
+        "EPS_Estimate": "1.96",
+        "EPS": "1.97",
+        "EPS_Surprise": "0.51"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2018-01-30T13:30:00.000Z ",
+        "EPS_Estimate": "1.59",
+        "EPS": "1.71",
+        "EPS_Surprise": "7.55"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2019-01-30T12:58:03.000Z ",
+        "EPS_Estimate": "1.89",
+        "EPS": "1.97",
+        "EPS_Surprise": "4.23"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2017-10-24T12:30:00.000Z ",
+        "EPS_Estimate": "1.77",
+        "EPS": "1.76",
+        "EPS_Surprise": "-0.56"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2018-10-23T11:58:02.000Z ",
+        "EPS_Estimate": "1.99",
+        "EPS": "2.1",
+        "EPS_Surprise": "5.53"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2019-10-22T11:58:02.000Z ",
+        "EPS_Estimate": "2.21",
+        "EPS": "2.11",
+        "EPS_Surprise": "-4.52"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2017-07-25T12:30:00.000Z ",
+        "EPS_Estimate": "1.62",
+        "EPS": "1.7",
+        "EPS_Surprise": "4.94"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2018-07-26T16:30:00.000Z ",
+        "EPS_Estimate": "1.92",
+        "EPS": "1.99",
+        "EPS_Surprise": "3.65"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2019-07-26T11:58:03.000Z ",
+        "EPS_Estimate": "2.05",
+        "EPS": "2.05",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2017-04-25T12:30:00.000Z ",
+        "EPS_Estimate": "1.33",
+        "EPS": "1.47",
+        "EPS_Surprise": "10.53"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2018-04-30T11:58:41.000Z ",
+        "EPS_Estimate": "1.67",
+        "EPS": "1.79",
+        "EPS_Surprise": "7.19"
+    },
+    {
+        "Ticker": "MCD ",
+        "Date": " 2019-04-30T11:58:02.000Z ",
+        "EPS_Estimate": "1.75",
+        "EPS": "1.72",
+        "EPS_Surprise": "-1.71"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2020-01-29T21:20:39.000Z ",
+        "EPS_Estimate": "1.32",
+        "EPS": "1.51",
+        "EPS_Surprise": "14.39"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2018-01-31T21:00:00.000Z ",
+        "EPS_Estimate": "0.87",
+        "EPS": "0.96",
+        "EPS_Surprise": "10.34"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2019-01-30T21:06:43.000Z ",
+        "EPS_Estimate": "1.09",
+        "EPS": "1.1",
+        "EPS_Surprise": "0.92"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2017-10-26T20:00:00.000Z ",
+        "EPS_Estimate": "0.72",
+        "EPS": "0.84",
+        "EPS_Surprise": "16.67"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2018-10-24T20:12:23.000Z ",
+        "EPS_Estimate": "0.96",
+        "EPS": "1.14",
+        "EPS_Surprise": "18.75"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2019-10-23T20:08:39.000Z ",
+        "EPS_Estimate": "1.24",
+        "EPS": "1.38",
+        "EPS_Surprise": "11.29"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2017-07-20T20:00:00.000Z ",
+        "EPS_Estimate": "0.71",
+        "EPS": "1.06",
+        "EPS_Surprise": "49.3"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2018-07-19T20:34:39.000Z ",
+        "EPS_Estimate": "1.08",
+        "EPS": "1.13",
+        "EPS_Surprise": "4.63"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2019-07-18T20:07:15.000Z ",
+        "EPS_Estimate": "1.21",
+        "EPS": "1.37",
+        "EPS_Surprise": "13.22"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2017-04-27T20:00:00.000Z ",
+        "EPS_Estimate": "0.7",
+        "EPS": "0.73",
+        "EPS_Surprise": "4.29"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2018-04-26T20:06:50.000Z ",
+        "EPS_Estimate": "0.85",
+        "EPS": "0.95",
+        "EPS_Surprise": "11.76"
+    },
+    {
+        "Ticker": "MSFT ",
+        "Date": " 2019-04-24T20:07:22.000Z ",
+        "EPS_Estimate": "1",
+        "EPS": "1.14",
+        "EPS_Surprise": "14"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2020-01-21T21:00:03.000Z ",
+        "EPS_Estimate": "0.53",
+        "EPS": "1.3",
+        "EPS_Surprise": "145.28"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2018-01-22T16:05:00.000Z ",
+        "EPS_Estimate": "0.41",
+        "EPS": "0.41",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2019-01-17T21:00:00.000Z ",
+        "EPS_Estimate": "0.24",
+        "EPS": "0.3",
+        "EPS_Surprise": "25"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2017-10-16T20:00:00.000Z ",
+        "EPS_Estimate": "0.32",
+        "EPS": "0.29",
+        "EPS_Surprise": "-9.38"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2018-10-16T20:05:00.000Z ",
+        "EPS_Estimate": "0.68",
+        "EPS": "0.89",
+        "EPS_Surprise": "30.88"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2019-10-16T20:00:00.000Z ",
+        "EPS_Estimate": "1.04",
+        "EPS": "1.47",
+        "EPS_Surprise": "41.35"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2017-07-17T20:00:00.000Z ",
+        "EPS_Estimate": "0.15",
+        "EPS": "0.15",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2018-07-16T20:05:00.000Z ",
+        "EPS_Estimate": "0.79",
+        "EPS": "0.85",
+        "EPS_Surprise": "7.59"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2019-07-17T20:00:00.000Z ",
+        "EPS_Estimate": "0.56",
+        "EPS": "0.6",
+        "EPS_Surprise": "7.14"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2017-04-17T20:00:00.000Z ",
+        "EPS_Estimate": "0.37",
+        "EPS": "0.4",
+        "EPS_Surprise": "8.11"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2018-04-16T20:05:00.000Z ",
+        "EPS_Estimate": "0.64",
+        "EPS": "0.64",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "NFLX ",
+        "Date": " 2019-04-16T20:00:00.000Z ",
+        "EPS_Estimate": "0.57",
+        "EPS": "0.76",
+        "EPS_Surprise": "33.33"
+    },
+    {
+        "Ticker": "PFE ",
+        "Date": " 2020-01-28T11:45:00.000Z ",
+        "EPS_Estimate": "0.57",
+        "EPS": "0.55",
+        "EPS_Surprise": "-3.51"
+    },
+    {
+        "Ticker": "PFE ",
+        "Date": " 2018-01-30T13:30:00.000Z ",
+        "EPS_Estimate": "0.56",
+        "EPS": "0.62",
+        "EPS_Surprise": "10.71"
+    },
+    {
+        "Ticker": "PFE ",
+        "Date": " 2019-01-29T11:45:00.000Z ",
+        "EPS_Estimate": "0.63",
+        "EPS": "0.64",
+        "EPS_Surprise": "1.59"
+    },
+    {
+        "Ticker": "PFE ",
+        "Date": " 2018-10-30T10:45:00.000Z ",
+        "EPS_Estimate": "0.75",
+        "EPS": "0.78",
+        "EPS_Surprise": "4"
+    },
+    {
+        "Ticker": "PFE ",
+        "Date": " 2019-10-29T10:45:00.000Z ",
+        "EPS_Estimate": "0.62",
+        "EPS": "0.75",
+        "EPS_Surprise": "20.97"
+    },
+    {
+        "Ticker": "PFE ",
+        "Date": " 2017-08-01T12:30:00.000Z ",
+        "EPS_Estimate": "0.66",
+        "EPS": "0.67",
+        "EPS_Surprise": "1.52"
+    },
+    {
+        "Ticker": "PFE ",
+        "Date": " 2018-07-31T10:45:00.000Z ",
+        "EPS_Estimate": "0.74",
+        "EPS": "0.81",
+        "EPS_Surprise": "9.46"
+    },
+    {
+        "Ticker": "PFE ",
+        "Date": " 2019-07-29T10:50:00.000Z ",
+        "EPS_Estimate": "0.75",
+        "EPS": "0.8",
+        "EPS_Surprise": "6.67"
+    },
+    {
+        "Ticker": "PFE ",
+        "Date": " 2018-05-01T10:45:00.000Z ",
+        "EPS_Estimate": "0.75",
+        "EPS": "0.77",
+        "EPS_Surprise": "2.67"
+    },
+    {
+        "Ticker": "PFE ",
+        "Date": " 2019-04-30T10:45:00.000Z ",
+        "EPS_Estimate": "0.75",
+        "EPS": "0.85",
+        "EPS_Surprise": "13.33"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2020-01-23T12:00:00.000Z ",
+        "EPS_Estimate": "1.37",
+        "EPS": "1.42",
+        "EPS_Surprise": "3.65"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2018-01-23T13:30:00.000Z ",
+        "EPS_Estimate": "1.14",
+        "EPS": "1.19",
+        "EPS_Surprise": "4.39"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2019-01-23T12:00:00.000Z ",
+        "EPS_Estimate": "1.21",
+        "EPS": "1.25",
+        "EPS_Surprise": "3.31"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2017-10-20T12:30:00.000Z ",
+        "EPS_Estimate": "1.08",
+        "EPS": "1.09",
+        "EPS_Surprise": "0.93"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2018-10-19T11:00:00.000Z ",
+        "EPS_Estimate": "1.09",
+        "EPS": "1.12",
+        "EPS_Surprise": "2.75"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2019-10-22T10:55:00.000Z ",
+        "EPS_Estimate": "1.24",
+        "EPS": "1.37",
+        "EPS_Surprise": "10.48"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2017-07-27T12:30:00.000Z ",
+        "EPS_Estimate": "0.78",
+        "EPS": "0.85",
+        "EPS_Surprise": "8.97"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2018-07-31T11:00:00.000Z ",
+        "EPS_Estimate": "0.9",
+        "EPS": "0.94",
+        "EPS_Surprise": "4.44"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2019-07-30T10:55:00.000Z ",
+        "EPS_Estimate": "1.05",
+        "EPS": "1.1",
+        "EPS_Surprise": "4.76"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2017-04-26T12:30:00.000Z ",
+        "EPS_Estimate": "0.94",
+        "EPS": "0.96",
+        "EPS_Surprise": "2.13"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2018-04-19T16:30:00.000Z ",
+        "EPS_Estimate": "0.98",
+        "EPS": "1",
+        "EPS_Surprise": "2.04"
+    },
+    {
+        "Ticker": "PG ",
+        "Date": " 2019-04-23T11:00:00.000Z ",
+        "EPS_Estimate": "1.03",
+        "EPS": "1.06",
+        "EPS_Surprise": "2.91"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2020-01-30T05:00:00.000Z ",
+        "EPS_Estimate": "0.83",
+        "EPS": "0.86",
+        "EPS_Surprise": "3.61"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2018-01-31T16:30:00.000Z ",
+        "EPS_Estimate": "0.52",
+        "EPS": "0.55",
+        "EPS_Surprise": "5.77"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2019-01-30T21:15:00.000Z ",
+        "EPS_Estimate": "0.67",
+        "EPS": "0.69",
+        "EPS_Surprise": "2.99"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2017-10-19T15:30:00.000Z ",
+        "EPS_Estimate": "0.43",
+        "EPS": "0.46",
+        "EPS_Surprise": "6.98"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2018-10-18T20:15:00.000Z ",
+        "EPS_Estimate": "0.54",
+        "EPS": "0.58",
+        "EPS_Surprise": "7.41"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2019-10-24T03:00:00.000Z ",
+        "EPS_Estimate": "0.52",
+        "EPS": "0.61",
+        "EPS_Surprise": "17.31"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2017-07-26T15:30:00.000Z ",
+        "EPS_Estimate": "0.43",
+        "EPS": "0.46",
+        "EPS_Surprise": "6.98"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2018-07-25T20:15:00.000Z ",
+        "EPS_Estimate": "0.57",
+        "EPS": "0.58",
+        "EPS_Surprise": "1.75"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2019-07-24T20:15:04.000Z ",
+        "EPS_Estimate": "0.74",
+        "EPS": "0.86",
+        "EPS_Surprise": "16.22"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2017-04-26T15:30:00.000Z ",
+        "EPS_Estimate": "0.41",
+        "EPS": "0.44",
+        "EPS_Surprise": "7.32"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2018-04-25T20:15:00.000Z ",
+        "EPS_Estimate": "0.54",
+        "EPS": "0.57",
+        "EPS_Surprise": "5.56"
+    },
+    {
+        "Ticker": "PYPL ",
+        "Date": " 2019-04-24T20:15:00.000Z ",
+        "EPS_Estimate": "0.68",
+        "EPS": "0.78",
+        "EPS_Surprise": "14.71"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2020-01-28T21:05:00.000Z ",
+        "EPS_Estimate": "0.76",
+        "EPS": "0.79",
+        "EPS_Surprise": "3.95"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2018-01-25T21:00:00.000Z ",
+        "EPS_Estimate": "0.57",
+        "EPS": "0.65",
+        "EPS_Surprise": "14.04"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2019-01-25T02:00:00.000Z ",
+        "EPS_Estimate": "0.65",
+        "EPS": "0.75",
+        "EPS_Surprise": "15.38"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2017-11-02T20:00:00.000Z ",
+        "EPS_Estimate": "0.55",
+        "EPS": "0.55",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2018-11-01T20:05:00.000Z ",
+        "EPS_Estimate": "0.6",
+        "EPS": "0.62",
+        "EPS_Surprise": "3.33"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2019-10-30T20:05:01.000Z ",
+        "EPS_Estimate": "0.7",
+        "EPS": "0.7",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2017-07-27T20:00:00.000Z ",
+        "EPS_Estimate": "0.55",
+        "EPS": "0.55",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2018-07-26T20:05:00.000Z ",
+        "EPS_Estimate": "0.61",
+        "EPS": "0.62",
+        "EPS_Surprise": "1.64"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2019-07-25T20:05:01.000Z ",
+        "EPS_Estimate": "0.72",
+        "EPS": "0.78",
+        "EPS_Surprise": "8.33"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2017-04-27T23:00:00.000Z ",
+        "EPS_Estimate": "0.45",
+        "EPS": "0.45",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2018-04-26T20:05:00.000Z ",
+        "EPS_Estimate": "0.53",
+        "EPS": "0.53",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "SBUX ",
+        "Date": " 2019-04-25T20:05:01.000Z ",
+        "EPS_Estimate": "0.56",
+        "EPS": "0.6",
+        "EPS_Surprise": "7.14"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2020-01-22T21:01:03.000Z ",
+        "EPS_Estimate": "1.02",
+        "EPS": "1.12",
+        "EPS_Surprise": "9.8"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2018-01-23T21:00:00.000Z ",
+        "EPS_Estimate": "1.09",
+        "EPS": "1.09",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2019-01-23T21:01:03.000Z ",
+        "EPS_Estimate": "1.24",
+        "EPS": "1.27",
+        "EPS_Surprise": "2.42"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2017-10-24T20:00:00.000Z ",
+        "EPS_Estimate": "1.12",
+        "EPS": "1.26",
+        "EPS_Surprise": "12.5"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2018-10-23T20:01:03.000Z ",
+        "EPS_Estimate": "1.53",
+        "EPS": "1.58",
+        "EPS_Surprise": "3.27"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2019-10-22T20:01:02.000Z ",
+        "EPS_Estimate": "1.42",
+        "EPS": "1.49",
+        "EPS_Surprise": "4.93"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2017-07-25T20:00:00.000Z ",
+        "EPS_Estimate": "0.96",
+        "EPS": "1.03",
+        "EPS_Surprise": "7.29"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2018-07-24T20:01:03.000Z ",
+        "EPS_Estimate": "1.32",
+        "EPS": "1.4",
+        "EPS_Surprise": "6.06"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2019-07-23T20:01:03.000Z ",
+        "EPS_Estimate": "1.22",
+        "EPS": "1.36",
+        "EPS_Surprise": "11.48"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2017-04-25T20:00:00.000Z ",
+        "EPS_Estimate": "0.83",
+        "EPS": "0.97",
+        "EPS_Surprise": "16.87"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2018-04-24T20:01:03.000Z ",
+        "EPS_Estimate": "1.11",
+        "EPS": "1.35",
+        "EPS_Surprise": "21.62"
+    },
+    {
+        "Ticker": "TXN ",
+        "Date": " 2019-04-23T20:01:08.000Z ",
+        "EPS_Estimate": "1.13",
+        "EPS": "1.26",
+        "EPS_Surprise": "11.5"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2020-01-30T21:07:00.000Z ",
+        "EPS_Estimate": "1.46",
+        "EPS": "1.46",
+        "EPS_Surprise": "0"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2017-02-02T21:00:00.000Z ",
+        "EPS_Estimate": "0.78",
+        "EPS": "0.86",
+        "EPS_Surprise": "10.26"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2018-02-01T21:00:00.000Z ",
+        "EPS_Estimate": "0.99",
+        "EPS": "1.08",
+        "EPS_Surprise": "9.09"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2019-01-30T21:07:00.000Z ",
+        "EPS_Estimate": "1.25",
+        "EPS": "1.3",
+        "EPS_Surprise": "4"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2017-10-25T12:30:00.000Z ",
+        "EPS_Estimate": "0.85",
+        "EPS": "0.9",
+        "EPS_Surprise": "5.88"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2018-10-24T20:08:00.000Z ",
+        "EPS_Estimate": "1.2",
+        "EPS": "1.21",
+        "EPS_Surprise": "0.83"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2019-10-24T20:13:00.000Z ",
+        "EPS_Estimate": "1.43",
+        "EPS": "1.47",
+        "EPS_Surprise": "2.8"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2017-07-20T20:00:00.000Z ",
+        "EPS_Estimate": "0.81",
+        "EPS": "0.86",
+        "EPS_Surprise": "6.17"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2018-07-25T20:05:00.000Z ",
+        "EPS_Estimate": "1.09",
+        "EPS": "1.2",
+        "EPS_Surprise": "10.09"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2019-07-23T20:05:00.000Z ",
+        "EPS_Estimate": "1.32",
+        "EPS": "1.37",
+        "EPS_Surprise": "3.79"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2017-04-20T20:00:00.000Z ",
+        "EPS_Estimate": "0.79",
+        "EPS": "0.86",
+        "EPS_Surprise": "8.86"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2018-04-25T20:05:00.000Z ",
+        "EPS_Estimate": "1.02",
+        "EPS": "1.11",
+        "EPS_Surprise": "8.82"
+    },
+    {
+        "Ticker": "V ",
+        "Date": " 2019-04-24T20:06:00.000Z ",
+        "EPS_Estimate": "1.24",
+        "EPS": "1.31",
+        "EPS_Surprise": "5.65"
+    }
+]
