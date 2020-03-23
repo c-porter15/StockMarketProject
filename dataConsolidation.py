@@ -15,13 +15,13 @@ def csv2json():
             jsonFile.write('\n')
 
 
-#The following code snippet crossreferenced two json files. If both json files had the same date and ticker
+#The following code snippet crossreferences two json files. If both json files had the same date and ticker
 #added the the EPS object elements to the respective 10Q object then adding the object to consolidatedData.json
 
-with open('Code/PythonCode/StockMarketProject/10Qdata.json', 'r') as outfile:
+with open('StockMarketProject/10Qdata.json', 'r') as outfile:
     filingData = json.load(outfile)
 
-with open('Code/PythonCode/StockMarketProject/epsData.json', 'r') as outfile2:
+with open('StockMarketProject/EPSData.json', 'r') as outfile2:
     epsData = json.load(outfile2)
     
 newdata = []
@@ -43,8 +43,11 @@ for obj in filingData:
                 obj['data']['attributes']['result']['EPS'] = float(eps['EPS'])
                 obj['data']['attributes']['result']['EPS_Estimate'] = float(eps['EPS_Estimate'])
                 obj['data']['attributes']['result']['EPS_Surprise'] = float(eps['EPS_Surprise'])
+                obj['data']['attributes']['filing']['filingDate'] = eps['Date']
                 newdata.append(obj)
         eps['Date'] = temp
 
-with open('Code/PythonCode/StockMarketProject/consolidatedData.json', 'a') as outfile3:
+with open('StockMarketProject/consolidatedData.json', 'a') as outfile3:
     json.dump(newdata,outfile3, indent=4)
+    
+    
