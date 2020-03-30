@@ -2,7 +2,6 @@ import datetime
 import xlsxwriter
 from yahoo_earnings_calendar import YahooEarningsCalendar
 
-
 companies = ['MSFT', 'AMZN', 'AAPL', 'NFLX', 'FB', 'JNJ', 'V', 
             'PYPL', 'PG', 'INTC', 'AMD', 'PFE', 'HON', 'SBUX', 
             'KO', 'C', 'MCD', 'MA', 'TXN', 'AMGN']
