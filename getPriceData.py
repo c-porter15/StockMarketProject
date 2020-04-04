@@ -19,7 +19,7 @@ def getHistoricalData(consolidatedData, PriceData, companies):
                         x['data']['attributes']['result']['%Change'] = dates['changePercent']
                         x['data']['attributes']['result']['NextDayOpen'] = histprices['historical'][y+1]['open']
                         x['data']['attributes']['result']['NextDay%Change'] = histprices['historical'][y+1]['changePercent']
-                        x['data']['attributes']['result']['%OvernightMovement(CloseVsOpen)'] = (float(histprices['historical'][y+1]['open'])  / float(dates['close'])) - 1
+                        x['data']['attributes']['result']['%OvernightMovement(CloseVsOpen)'] = ((float(histprices['historical'][y+1]['open'])  / float(dates['close'])) - 1)*100
                         PriceData.append(x)
                         break
                 y+=1
@@ -40,7 +40,6 @@ def getKeyMetrics(PriceData, companies):
                         x['data']['attributes']['result']['Enterprise Value over EBITDA'] = float(obj['Enterprise Value over EBITDA'])
                         x['data']['attributes']['result']['EV to Operating cash flow'] = float(obj['EV to Operating cash flow'])
                         x['data']['attributes']['result']['EV to Free cash flow'] = float(obj['EV to Free cash flow'])
-                        #x['data']['attributes']['result']['PE ratio'] = float(obj['PE ratio'][:-8])
                         break
     return PriceData
 
@@ -57,14 +56,9 @@ def getGrowthAndIncomeStatement(PriceData, companies):
                     if x['data']['attributes']['company']['ticker'] == item:
                         x['data']['attributes']['result']['Revenue'] = float(obj['Revenue'])
                         x['data']['attributes']['result']['Net Income'] = float(obj['Net Income'])
-                        try:
-                            x['data']['attributes']['result']['%RevenueGrowth'] = (float(obj['Revenue']) / float(income_statement['financials'][y+1]['Revenue'])) - 1
-                            x['data']['attributes']['result']['%Net Income Growth'] = (float(obj['Net Income']) / float(income_statement['financials'][y+1]['Net Income'])) - 1
-                            x['data']['attributes']['result']['EPS Growth %'] = (float(obj['EPS Diluted']) / float(income_statement['financials'][y+1]['EPS Diluted'])) - 1
-                        except: #expected error when calculating final iteration
-                            x['data']['attributes']['result']['%RevenueGrowth'] = 0
-                            x['data']['attributes']['result']['%Net Income Growth'] = 0 
-                            x['data']['attributes']['result']['EPS Growth %'] = 0
+                        x['data']['attributes']['result']['%RevenueGrowth'] = ((float(obj['Revenue']) / float(income_statement['financials'][y+1]['Revenue'])) - 1)*100
+                        x['data']['attributes']['result']['%Net Income Growth'] = ((float(obj['Net Income']) / float(income_statement['financials'][y+1]['Net Income'])) - 1)*100
+                        x['data']['attributes']['result']['EPS Growth %'] = ((float(obj['EPS Diluted']) / float(income_statement['financials'][y+1]['EPS Diluted'])) - 1)*100
                         break
                 y+=1
     return PriceData

@@ -62,15 +62,15 @@
                     "%Change": -0.119,
                     "NextDayOpen": 174.05,
                     "NextDay%Change": 0.73,
-                    "%OvernightMovement(CloseVsOpen)": 0.03576529397762451,
+                    "%OvernightMovement(CloseVsOpen)": 3.5765293977624513,
                     "Enterprise Value over EBITDA": 70.2884871884872,
                     "EV to Operating cash flow": 112.50106741573033,
                     "EV to Free cash flow": 168.39683251576736,
                     "Revenue": 36906000000.0,
                     "Net Income": 11649000000.0,
-                    "%RevenueGrowth": 0.11650279836635913,
-                    "%Net Income Growth": 0.09093463195354934,
-                    "EPS Growth %": 0.10144927536231885
+                    "%RevenueGrowth": 11.650279836635914,
+                    "%Net Income Growth": 9.093463195354934,
+                    "EPS Growth %": 10.144927536231885
                 }
             },
             "type": "statement",
@@ -140,15 +140,15 @@
                     "%Change": -0.263,
                     "NextDayOpen": 139.39,
                     "NextDay%Change": -0.395,
-                    "%OvernightMovement(CloseVsOpen)": 0.015665986592829917,
+                    "%OvernightMovement(CloseVsOpen)": 1.5665986592829917,
                     "Enterprise Value over EBITDA": 69.93085265376509,
                     "EV to Operating cash flow": 79.2377594442032,
                     "EV to Free cash flow": 104.94655036902138,
                     "Revenue": 33055000000.0,
                     "Net Income": 10678000000.0,
-                    "%RevenueGrowth": -0.019634012515941546,
-                    "%Net Income Growth": -0.19026313793887917,
-                    "EPS Growth %": -0.18823529411764706
+                    "%RevenueGrowth": -1.9634012515941546,
+                    "%Net Income Growth": -19.026313793887915,
+                    "EPS Growth %": -18.823529411764707
                 }
             },
             "type": "statement",
@@ -218,15 +218,15 @@
                     "%Change": 0.62,
                     "NextDayOpen": 130.06,
                     "NextDay%Change": 0.7,
-                    "%OvernightMovement(CloseVsOpen)": 0.04039676825853933,
+                    "%OvernightMovement(CloseVsOpen)": 4.039676825853933,
                     "Enterprise Value over EBITDA": 69.79768372653953,
                     "EV to Operating cash flow": 68.49155843195267,
                     "EV to Free cash flow": 84.52814879050662,
                     "Revenue": 30571000000.0,
                     "Net Income": 8809000000.0,
-                    "%RevenueGrowth": -0.05851375073142184,
-                    "%Net Income Growth": 0.04619952494061752,
-                    "EPS Growth %": 0.05555555555555536
+                    "%RevenueGrowth": -5.851375073142185,
+                    "%Net Income Growth": 4.619952494061752,
+                    "EPS Growth %": 5.555555555555536
                 }
             },
             "type": "statement",
@@ -296,15 +296,15 @@
                     "%Change": -1.682,
                     "NextDayOpen": 103.8,
                     "NextDay%Change": -0.607,
-                    "%OvernightMovement(CloseVsOpen)": -0.02425267907501405,
+                    "%OvernightMovement(CloseVsOpen)": -2.425267907501405,
                     "Enterprise Value over EBITDA": 70.000639100581,
                     "EV to Operating cash flow": 104.23803033707865,
                     "EV to Free cash flow": 178.6478856152513,
                     "Revenue": 32471000000.0,
                     "Net Income": 8420000000.0,
-                    "%RevenueGrowth": 0.11645578324852157,
-                    "%Net Income Growth": -0.045784224841341814,
-                    "EPS Growth %": -0.05263157894736825
+                    "%RevenueGrowth": 11.645578324852156,
+                    "%Net Income Growth": -4.578422484134181,
+                    "EPS Growth %": -5.263157894736825
                 }
             },
             "type": "statement",
@@ -374,14 +374,14 @@
                     "%Change": 5.618,
                     "NextDayOpen": 106.55,
                     "NextDay%Change": -1.642,
-                    "%OvernightMovement(CloseVsOpen)": 0.041340891321344886,
+                    "%OvernightMovement(CloseVsOpen)": 4.134089132134489,
                     "Enterprise Value over EBITDA": 72.15455675422139,
                     "EV to Operating cash flow": 67.58446877059383,
                     "EV to Free cash flow": 91.79523520636499,
                     "Revenue": 29084000000.0,
                     "Net Income": 8824000000.0,
-                    "%RevenueGrowth": -0.033272394881170064,
-                    "%Net Income Growth": -0.005522371238589008,
+                    "%RevenueGrowth": -3.3272394881170064,
+                    "%Net Income Growth": -0.5522371238589008,
                     "EPS Growth %": 0.0
                 }
             },
@@ -453,15 +453,15 @@
                     "%Change": -0.759,
                     "NextDayOpen": 97.6,
                     "NextDay%Change": 1.824,
-                    "%OvernightMovement(CloseVsOpen)": 0.035433906216846944,
+                    "%OvernightMovement(CloseVsOpen)": 3.5433906216846944,
                     "Enterprise Value over EBITDA": 71.18779312852209,
                     "EV to Operating cash flow": 64.45626697391161,
                     "EV to Free cash flow": 84.97429749376153,
                     "Revenue": 26819000000.0,
                     "Net Income": 7424000000.0,
-                    "%RevenueGrowth": -0.0725845494155889,
-                    "%Net Income Growth": -2.1780387178673437,
-                    "EPS Growth %": -2.1875
+                    "%RevenueGrowth": -7.25845494155889,
+                    "%Net Income Growth": -217.80387178673436,
+                    "EPS Growth %": -218.75
                 }
             },
             "type": "statement",
@@ -533,15 +533,15 @@
                     "%Change": -1.344,
                     "NextDayOpen": 94.79,
                     "NextDay%Change": 0.559,
-                    "%OvernightMovement(CloseVsOpen)": -0.0023155457320281903,
+                    "%OvernightMovement(CloseVsOpen)": -0.23155457320281903,
                     "Enterprise Value over EBITDA": 63.61973606776638,
                     "EV to Operating cash flow": 90.60258285714286,
                     "EV to Free cash flow": 134.90174702212138,
                     "Revenue": 28918000000.0,
                     "Net Income": -6302000000.0,
-                    "%RevenueGrowth": 0.17849865514711882,
-                    "%Net Income Growth": -1.9583333333333335,
-                    "EPS Growth %": -1.9523809523809526
+                    "%RevenueGrowth": 17.849865514711883,
+                    "%Net Income Growth": -195.83333333333334,
+                    "EPS Growth %": -195.23809523809524
                 }
             },
             "type": "statement",
@@ -612,14 +612,14 @@
                     "%Change": 0.556,
                     "NextDayOpen": 84.37,
                     "NextDay%Change": 0.664,
-                    "%OvernightMovement(CloseVsOpen)": 0.07122905027932958,
+                    "%OvernightMovement(CloseVsOpen)": 7.1229050279329575,
                     "Enterprise Value over EBITDA": 63.363197805427646,
                     "EV to Operating cash flow": 51.98940192926045,
                     "EV to Free cash flow": 62.74235157159488,
                     "Revenue": 24538000000.0,
                     "Net Income": 6576000000.0,
-                    "%RevenueGrowth": 0.05236522708753277,
-                    "%Net Income Growth": 0.009672961768770083,
+                    "%RevenueGrowth": 5.236522708753277,
+                    "%Net Income Growth": 0.9672961768770083,
                     "EPS Growth %": 0.0
                 }
             },
@@ -689,15 +689,15 @@
                     "%Change": -0.176,
                     "NextDayOpen": 68.91,
                     "NextDay%Change": 0.653,
-                    "%OvernightMovement(CloseVsOpen)": 0.009374542258678842,
+                    "%OvernightMovement(CloseVsOpen)": 0.9374542258678842,
                     "Enterprise Value over EBITDA": 71.30391947309556,
                     "EV to Operating cash flow": 53.825763602251406,
                     "EV to Free cash flow": 64.00252537646402,
                     "Revenue": 22090000000.0,
                     "Net Income": 4801000000.0,
-                    "%RevenueGrowth": -0.08302200083022004,
-                    "%Net Income Growth": -0.07673076923076927,
-                    "EPS Growth %": -0.0757575757575758
+                    "%RevenueGrowth": -8.302200083022004,
+                    "%Net Income Growth": -7.673076923076927,
+                    "EPS Growth %": -7.57575757575758
                 }
             },
             "type": "statement",
@@ -758,15 +758,15 @@
                     "%Change": -0.547,
                     "NextDayOpen": 1697.55,
                     "NextDay%Change": -3.757,
-                    "%OvernightMovement(CloseVsOpen)": -0.046737946293197385,
+                    "%OvernightMovement(CloseVsOpen)": -4.6737946293197385,
                     "Enterprise Value over EBITDA": 101.41602109849788,
                     "EV to Operating cash flow": 112.0690724784592,
                     "EV to Free cash flow": 276.82288575899844,
                     "Revenue": 69982000000.0,
                     "Net Income": 2134000000.0,
-                    "%RevenueGrowth": 0.10374739764052743,
-                    "%Net Income Growth": -0.18704761904761902,
-                    "EPS Growth %": -0.1915708812260537
+                    "%RevenueGrowth": 10.374739764052743,
+                    "%Net Income Growth": -18.704761904761902,
+                    "EPS Growth %": -19.15708812260537
                 }
             },
             "type": "statement",
@@ -827,15 +827,15 @@
                     "%Change": 1.358,
                     "NextDayOpen": 1942.0,
                     "NextDay%Change": -0.054,
-                    "%OvernightMovement(CloseVsOpen)": -0.016121024206867896,
+                    "%OvernightMovement(CloseVsOpen)": -1.6121024206867896,
                     "Enterprise Value over EBITDA": 105.68228819695872,
                     "EV to Operating cash flow": 96.04951628825272,
                     "EV to Free cash flow": 157.63878307830782,
                     "Revenue": 63404000000.0,
                     "Net Income": 2625000000.0,
-                    "%RevenueGrowth": 0.06204355108877713,
-                    "%Net Income Growth": -0.2628475147430497,
-                    "EPS Growth %": -0.26375176304654446
+                    "%RevenueGrowth": 6.204355108877713,
+                    "%Net Income Growth": -26.28475147430497,
+                    "EPS Growth %": -26.375176304654445
                 }
             },
             "type": "statement",
@@ -896,15 +896,15 @@
                     "%Change": 0.769,
                     "NextDayOpen": 1929.0,
                     "NextDay%Change": -1.121,
-                    "%OvernightMovement(CloseVsOpen)": 0.014062294651071117,
+                    "%OvernightMovement(CloseVsOpen)": 1.4062294651071117,
                     "Enterprise Value over EBITDA": 88.7033027819711,
                     "EV to Operating cash flow": 445.6307854821235,
                     "EV to Free cash flow": -569.6914335180055,
                     "Revenue": 59700000000.0,
                     "Net Income": 3561000000.0,
-                    "%RevenueGrowth": -0.1752207009933272,
-                    "%Net Income Growth": 0.17641228939544096,
-                    "EPS Growth %": 0.17384105960264895
+                    "%RevenueGrowth": -17.52207009933272,
+                    "%Net Income Growth": 17.641228939544096,
+                    "EPS Growth %": 17.384105960264897
                 }
             },
             "type": "statement",
@@ -963,15 +963,15 @@
                     "%Change": -4.628,
                     "NextDayOpen": 1649.59,
                     "NextDay%Change": 0.411,
-                    "%OvernightMovement(CloseVsOpen)": -0.07439245414298312,
+                    "%OvernightMovement(CloseVsOpen)": -7.439245414298313,
                     "Enterprise Value over EBITDA": 130.96241802186083,
                     "EV to Operating cash flow": 114.40149743828599,
                     "EV to Free cash flow": -889.1222262443439,
                     "Revenue": 56576000000.0,
                     "Net Income": 2883000000.0,
-                    "%RevenueGrowth": 0.0697727186779109,
-                    "%Net Income Growth": 0.1377269139700079,
-                    "EPS Growth %": 0.13609467455621282
+                    "%RevenueGrowth": 6.9772718677910905,
+                    "%Net Income Growth": 13.772691397000791,
+                    "EPS Growth %": 13.609467455621282
                 }
             },
             "type": "statement",
@@ -1030,15 +1030,15 @@
                     "%Change": 1.686,
                     "NextDayOpen": 1876.05,
                     "NextDay%Change": 3.133,
-                    "%OvernightMovement(CloseVsOpen)": 0.037638274336283084,
+                    "%OvernightMovement(CloseVsOpen)": 3.7638274336283084,
                     "Enterprise Value over EBITDA": 120.23158451768975,
                     "EV to Operating cash flow": 106.75415492012351,
                     "EV to Free cash flow": 106.75415492012351,
                     "Revenue": 52886000000.0,
                     "Net Income": 2534000000.0,
-                    "%RevenueGrowth": 0.036127111006621915,
-                    "%Net Income Growth": 0.5555555555555556,
-                    "EPS Growth %": 0.5504587155963303
+                    "%RevenueGrowth": 3.6127111006621915,
+                    "%Net Income Growth": 55.55555555555556,
+                    "EPS Growth %": 55.04587155963303
                 }
             },
             "type": "statement",
@@ -1097,15 +1097,15 @@
                     "%Change": -2.219,
                     "NextDayOpen": 1634.01,
                     "NextDay%Change": 3.757,
-                    "%OvernightMovement(CloseVsOpen)": 0.07645128988906169,
+                    "%OvernightMovement(CloseVsOpen)": 7.645128988906169,
                     "Enterprise Value over EBITDA": 130.5549839228296,
                     "EV to Operating cash flow": -408.06633165829146,
                     "EV to Free cash flow": -408.06633165829146,
                     "Revenue": 51042000000.0,
                     "Net Income": 1629000000.0,
-                    "%RevenueGrowth": -0.15567465634459832,
-                    "%Net Income Growth": -0.12277867528271402,
-                    "EPS Growth %": -0.13031914893617014
+                    "%RevenueGrowth": -15.567465634459833,
+                    "%Net Income Growth": -12.277867528271402,
+                    "EPS Growth %": -13.031914893617014
                 }
             },
             "type": "statement",
@@ -1164,15 +1164,15 @@
                     "%Change": 0.806,
                     "NextDayOpen": 1058.14,
                     "NextDay%Change": -4.046,
-                    "%OvernightMovement(CloseVsOpen)": 0.08814002036136293,
+                    "%OvernightMovement(CloseVsOpen)": 8.814002036136293,
                     "Enterprise Value over EBITDA": 148.10905185639766,
                     "EV to Operating cash flow": 125.3407945988055,
                     "EV to Free cash flow": 125.3407945988055,
                     "Revenue": 43744000000.0,
                     "Net Income": 255000000.0,
-                    "%RevenueGrowth": 0.15252272427875124,
-                    "%Net Income Growth": 0.29441624365482233,
-                    "EPS Growth %": 0.33333333333333326
+                    "%RevenueGrowth": 15.252272427875123,
+                    "%Net Income Growth": 29.441624365482234,
+                    "EPS Growth %": 33.33333333333333
                 }
             },
             "type": "statement",
@@ -1231,15 +1231,15 @@
                     "%Change": 2.202,
                     "NextDayOpen": 1012.14,
                     "NextDay%Change": -0.781,
-                    "%OvernightMovement(CloseVsOpen)": -0.032370936902485714,
+                    "%OvernightMovement(CloseVsOpen)": -3.2370936902485714,
                     "Enterprise Value over EBITDA": 144.46974233128833,
                     "EV to Operating cash flow": 123.00113867850614,
                     "EV to Free cash flow": 82.77176801405976,
                     "Revenue": 37955000000.0,
                     "Net Income": 197000000.0,
-                    "%RevenueGrowth": 0.06274850198801585,
-                    "%Net Income Growth": -0.7279005524861879,
-                    "EPS Growth %": -0.7364864864864864
+                    "%RevenueGrowth": 6.274850198801585,
+                    "%Net Income Growth": -72.79005524861878,
+                    "EPS Growth %": -73.64864864864865
                 }
             },
             "type": "statement",
@@ -1299,15 +1299,15 @@
                     "%Change": -0.436,
                     "NextDayOpen": 948.83,
                     "NextDay%Change": 2.513,
-                    "%OvernightMovement(CloseVsOpen)": 0.033156209847775564,
+                    "%OvernightMovement(CloseVsOpen)": 3.3156209847775564,
                     "Enterprise Value over EBITDA": 116.34277906976745,
                     "EV to Operating cash flow": -251.71016352201258,
                     "EV to Free cash flow": -115.97193856853086,
                     "Revenue": 35714000000.0,
                     "Net Income": 724000000.0,
-                    "%RevenueGrowth": -0.18351203676184813,
-                    "%Net Income Growth": -0.03337783711615483,
-                    "EPS Growth %": -0.038961038961038974
+                    "%RevenueGrowth": -18.351203676184813,
+                    "%Net Income Growth": -3.337783711615483,
+                    "EPS Growth %": -3.8961038961038974
                 }
             },
             "type": "statement",
@@ -1371,15 +1371,15 @@
                     "%Change": -1.628,
                     "NextDayOpen": 324.45,
                     "NextDay%Change": 0.034,
-                    "%OvernightMovement(CloseVsOpen)": 0.021278604929333644,
+                    "%OvernightMovement(CloseVsOpen)": 2.1278604929333644,
                     "Enterprise Value over EBITDA": 43.80660348775762,
                     "EV to Operating cash flow": 40.74749115218246,
                     "EV to Free cash flow": 43.76959555070576,
                     "Revenue": 91819000000.0,
                     "Net Income": 22236000000.0,
-                    "%RevenueGrowth": 0.4337757651467833,
-                    "%Net Income Growth": 0.6247259973695747,
-                    "EPS Growth %": 0.6468646864686471
+                    "%RevenueGrowth": 43.37757651467833,
+                    "%Net Income Growth": 62.47259973695747,
+                    "EPS Growth %": 64.68646864686471
                 }
             },
             "type": "statement",
@@ -1443,15 +1443,15 @@
                     "%Change": -0.01,
                     "NextDayOpen": 216.42,
                     "NextDay%Change": 1.562,
-                    "%OvernightMovement(CloseVsOpen)": 0.03659354344285837,
+                    "%OvernightMovement(CloseVsOpen)": 3.6593543442858367,
                     "Enterprise Value over EBITDA": 60.70623765282863,
                     "EV to Operating cash flow": 75.52803390340323,
                     "EV to Free cash flow": 91.2042551369863,
                     "Revenue": 53809000000.0,
                     "Net Income": 10044000000.0,
-                    "%RevenueGrowth": -0.07249849176936995,
-                    "%Net Income Growth": -0.13121702274889713,
-                    "EPS Growth %": -0.11290322580645151
+                    "%RevenueGrowth": -7.249849176936996,
+                    "%Net Income Growth": -13.121702274889714,
+                    "EPS Growth %": -11.290322580645151
                 }
             },
             "type": "statement",
@@ -1515,15 +1515,15 @@
                     "%Change": 1.177,
                     "NextDayOpen": 209.88,
                     "NextDay%Change": -0.305,
-                    "%OvernightMovement(CloseVsOpen)": 0.04589624757063837,
+                    "%OvernightMovement(CloseVsOpen)": 4.589624757063837,
                     "Enterprise Value over EBITDA": 53.319916545123064,
                     "EV to Operating cash flow": 78.65344928283281,
                     "EV to Free cash flow": 99.79290568130118,
                     "Revenue": 58015000000.0,
                     "Net Income": 11561000000.0,
-                    "%RevenueGrowth": -0.3118847111849128,
-                    "%Net Income Growth": -0.42093663911845725,
-                    "EPS Growth %": -0.40669856459330145
+                    "%RevenueGrowth": -31.18847111849128,
+                    "%Net Income Growth": -42.093663911845724,
+                    "EPS Growth %": -40.66985645933015
                 }
             },
             "type": "statement",
@@ -1587,15 +1587,15 @@
                     "%Change": 1.005,
                     "NextDayOpen": 163.25,
                     "NextDay%Change": -1.225,
-                    "%OvernightMovement(CloseVsOpen)": 0.05540470649081963,
+                    "%OvernightMovement(CloseVsOpen)": 5.540470649081963,
                     "Enterprise Value over EBITDA": 33.96681055308328,
                     "EV to Operating cash flow": 34.031715286624205,
                     "EV to Free cash flow": 38.92464028283694,
                     "Revenue": 84310000000.0,
                     "Net Income": 19965000000.0,
-                    "%RevenueGrowth": 0.3403815580286169,
-                    "%Net Income Growth": 0.4134513274336282,
-                    "EPS Growth %": 0.43150684931506844
+                    "%RevenueGrowth": 34.038155802861695,
+                    "%Net Income Growth": 41.345132743362825,
+                    "EPS Growth %": 43.150684931506845
                 }
             },
             "type": "statement",
@@ -1658,15 +1658,15 @@
                     "%Change": 0.005,
                     "NextDayOpen": 199.13,
                     "NextDay%Change": -1.19,
-                    "%OvernightMovement(CloseVsOpen)": 0.046455410163434685,
+                    "%OvernightMovement(CloseVsOpen)": 4.6455410163434685,
                     "Enterprise Value over EBITDA": 65.86671576880278,
                     "EV to Operating cash flow": 69.45374218663721,
                     "EV to Free cash flow": 89.67523543356207,
                     "Revenue": 53265000000.0,
                     "Net Income": 11519000000.0,
-                    "%RevenueGrowth": -0.12875999803719518,
-                    "%Net Income Growth": -0.16661843437997392,
-                    "EPS Growth %": -0.13868613138686148
+                    "%RevenueGrowth": -12.875999803719518,
+                    "%Net Income Growth": -16.66184343799739,
+                    "EPS Growth %": -13.868613138686147
                 }
             },
             "type": "statement",
@@ -1729,15 +1729,15 @@
                     "%Change": -1.616,
                     "NextDayOpen": 175.23,
                     "NextDay%Change": -0.765,
-                    "%OvernightMovement(CloseVsOpen)": 0.03625073920756949,
+                    "%OvernightMovement(CloseVsOpen)": 3.6250739207569493,
                     "Enterprise Value over EBITDA": 51.08433827080985,
                     "EV to Operating cash flow": 62.91173000660938,
                     "EV to Free cash flow": 85.83771981242673,
                     "Revenue": 61137000000.0,
                     "Net Income": 13822000000.0,
-                    "%RevenueGrowth": -0.3075668512792633,
-                    "%Net Income Growth": -0.31113879890356344,
-                    "EPS Growth %": -0.2956298200514138
+                    "%RevenueGrowth": -30.756685127926332,
+                    "%Net Income Growth": -31.113879890356344,
+                    "EPS Growth %": -29.56298200514138
                 }
             },
             "type": "statement",
@@ -1802,15 +1802,15 @@
                     "%Change": -0.365,
                     "NextDayOpen": 166.0,
                     "NextDay%Change": 3.313,
-                    "%OvernightMovement(CloseVsOpen)": -0.010609131004887362,
+                    "%OvernightMovement(CloseVsOpen)": -1.0609131004887362,
                     "Enterprise Value over EBITDA": 33.13611469899032,
                     "EV to Operating cash flow": 33.986389299473366,
                     "EV to Free cash flow": 37.963477138852696,
                     "Revenue": 88293000000.0,
                     "Net Income": 20065000000.0,
-                    "%RevenueGrowth": 0.6792445653207555,
-                    "%Net Income Growth": 0.8727832742206458,
-                    "EPS Growth %": 0.8792270531400967
+                    "%RevenueGrowth": 67.92445653207555,
+                    "%Net Income Growth": 87.27832742206458,
+                    "EPS Growth %": 87.92270531400968
                 }
             },
             "type": "statement",
@@ -1875,15 +1875,15 @@
                     "%Change": -0.637,
                     "NextDayOpen": 159.28,
                     "NextDay%Change": 1.344,
-                    "%OvernightMovement(CloseVsOpen)": 0.061512829056980856,
+                    "%OvernightMovement(CloseVsOpen)": 6.151282905698086,
                     "Enterprise Value over EBITDA": 67.09554667428746,
                     "EV to Operating cash flow": 105.27654710749731,
                     "EV to Free cash flow": 146.6646282625354,
                     "Revenue": 45408000000.0,
                     "Net Income": 8717000000.0,
-                    "%RevenueGrowth": -0.14156079854809434,
-                    "%Net Income Growth": -0.20962915948862093,
-                    "EPS Growth %": -0.20000000000000007
+                    "%RevenueGrowth": -14.156079854809434,
+                    "%Net Income Growth": -20.962915948862094,
+                    "EPS Growth %": -20.000000000000007
                 }
             },
             "type": "statement",
@@ -1948,15 +1948,15 @@
                     "%Change": 0.02,
                     "NextDayOpen": 145.59,
                     "NextDay%Change": -1.01,
-                    "%OvernightMovement(CloseVsOpen)": -0.013016066707341789,
+                    "%OvernightMovement(CloseVsOpen)": -1.301606670734179,
                     "Enterprise Value over EBITDA": 48.97510042972792,
                     "EV to Operating cash flow": 64.25073264872634,
                     "EV to Free cash flow": 84.62472917122423,
                     "Revenue": 52896000000.0,
                     "Net Income": 11029000000.0,
-                    "%RevenueGrowth": -0.32488417505839107,
-                    "%Net Income Growth": -0.3835447990609804,
-                    "EPS Growth %": -0.375
+                    "%RevenueGrowth": -32.48841750583911,
+                    "%Net Income Growth": -38.354479906098035,
+                    "EPS Growth %": -37.5
                 }
             },
             "type": "statement",
@@ -2011,15 +2011,15 @@
                     "%Change": -1.116,
                     "NextDayOpen": 304.49,
                     "NextDay%Change": 3.659,
-                    "%OvernightMovement(CloseVsOpen)": 0.06360905407293571,
+                    "%OvernightMovement(CloseVsOpen)": 6.360905407293571,
                     "Enterprise Value over EBITDA": 40.906897683185505,
                     "EV to Operating cash flow": -268.4964240903638,
                     "EV to Free cash flow": -246.2497640036043,
                     "Revenue": 5244905000.0,
                     "Net Income": 665244000.0,
-                    "%RevenueGrowth": 0.06536287180720501,
-                    "%Net Income Growth": 1.4579493811195272,
-                    "EPS Growth %": 1.4500000000000002
+                    "%RevenueGrowth": 6.536287180720501,
+                    "%Net Income Growth": 145.79493811195272,
+                    "EPS Growth %": 145.00000000000003
                 }
             },
             "type": "statement",
@@ -2074,15 +2074,15 @@
                     "%Change": 1.04,
                     "NextDayOpen": 323.76,
                     "NextDay%Change": -0.448,
-                    "%OvernightMovement(CloseVsOpen)": -0.10672111245999338,
+                    "%OvernightMovement(CloseVsOpen)": -10.67211124599934,
                     "Enterprise Value over EBITDA": 53.11611896539307,
                     "EV to Operating cash flow": -290.2669293099453,
                     "EV to Free cash flow": -270.57007066229187,
                     "Revenue": 4923116000.0,
                     "Net Income": 270650000.0,
-                    "%RevenueGrowth": 0.08894596584112513,
-                    "%Net Income Growth": -0.21334565705184105,
-                    "EPS Growth %": -0.21052631578947367
+                    "%RevenueGrowth": 8.894596584112513,
+                    "%Net Income Growth": -21.334565705184104,
+                    "EPS Growth %": -21.052631578947366
                 }
             },
             "type": "statement",
@@ -2137,15 +2137,15 @@
                     "%Change": -1.256,
                     "NextDayOpen": 365.05,
                     "NextDay%Change": 2.824,
-                    "%OvernightMovement(CloseVsOpen)": 0.01555110443442942,
+                    "%OvernightMovement(CloseVsOpen)": 1.555110443442942,
                     "Enterprise Value over EBITDA": 62.392526316594285,
                     "EV to Operating cash flow": -429.7243174415941,
                     "EV to Free cash flow": -370.7775592712072,
                     "Revenue": 4520992000.0,
                     "Net Income": 344052000.0,
-                    "%RevenueGrowth": 0.0798098136518679,
-                    "%Net Income Growth": 1.5688174772649215,
-                    "EPS Growth %": 1.6206896551724141
+                    "%RevenueGrowth": 7.98098136518679,
+                    "%Net Income Growth": 156.88174772649214,
+                    "EPS Growth %": 162.06896551724142
                 }
             },
             "type": "statement",
@@ -2200,15 +2200,15 @@
                     "%Change": -2.716,
                     "NextDayOpen": 378.33,
                     "NextDay%Change": 3.603,
-                    "%OvernightMovement(CloseVsOpen)": 0.09217667436489618,
+                    "%OvernightMovement(CloseVsOpen)": 9.217667436489618,
                     "Enterprise Value over EBITDA": 68.17340041385485,
                     "EV to Operating cash flow": -239.30960752363447,
                     "EV to Free cash flow": -226.4108857900853,
                     "Revenue": 3999374000.0,
                     "Net Income": 402835000.0,
-                    "%RevenueGrowth": 0.023572468756958287,
-                    "%Net Income Growth": 0.048096911921196694,
-                    "EPS Growth %": 0.03488372093023262
+                    "%RevenueGrowth": 2.3572468756958287,
+                    "%Net Income Growth": 4.8096911921196694,
+                    "EPS Growth %": 3.488372093023262
                 }
             },
             "type": "statement",
@@ -2263,15 +2263,15 @@
                     "%Change": -0.376,
                     "NextDayOpen": 346.95,
                     "NextDay%Change": -9.376,
-                    "%OvernightMovement(CloseVsOpen)": -0.1336646024770276,
+                    "%OvernightMovement(CloseVsOpen)": -13.366460247702761,
                     "Enterprise Value over EBITDA": 68.04840963772004,
                     "EV to Operating cash flow": -303.43997807961193,
                     "EV to Free cash flow": -288.2430059278322,
                     "Revenue": 3907270000.0,
                     "Net Income": 384349000.0,
-                    "%RevenueGrowth": 0.05577466402367448,
-                    "%Net Income Growth": 0.3247749238256745,
-                    "EPS Growth %": 0.34375
+                    "%RevenueGrowth": 5.577466402367448,
+                    "%Net Income Growth": 32.477492382567455,
+                    "EPS Growth %": 34.375
                 }
             },
             "type": "statement",
@@ -2326,15 +2326,15 @@
                     "%Change": 2.598,
                     "NextDayOpen": 329.66,
                     "NextDay%Change": -1.941,
-                    "%OvernightMovement(CloseVsOpen)": 0.07108973942426422,
+                    "%OvernightMovement(CloseVsOpen)": 7.108973942426422,
                     "Enterprise Value over EBITDA": 58.424096932193926,
                     "EV to Operating cash flow": -549.2065487398472,
                     "EV to Free cash flow": -474.6830172272175,
                     "Revenue": 3700856000.0,
                     "Net Income": 290124000.0,
-                    "%RevenueGrowth": 0.12633352151940724,
-                    "%Net Income Growth": 0.5638674622810846,
-                    "EPS Growth %": 0.5609756097560976
+                    "%RevenueGrowth": 12.633352151940723,
+                    "%Net Income Growth": 56.386746228108464,
+                    "EPS Growth %": 56.09756097560976
                 }
             },
             "type": "statement",
@@ -2390,15 +2390,15 @@
                     "%Change": -0.361,
                     "NextDayOpen": 200.11,
                     "NextDay%Change": 0.315,
-                    "%OvernightMovement(CloseVsOpen)": -0.012680086836392324,
+                    "%OvernightMovement(CloseVsOpen)": -1.2680086836392324,
                     "Enterprise Value over EBITDA": 42.023397092263146,
                     "EV to Operating cash flow": -187.1393037532739,
                     "EV to Free cash flow": -173.12644537778073,
                     "Revenue": 2984859000.0,
                     "Net Income": 129590000.0,
-                    "%RevenueGrowth": 0.07158412386589807,
-                    "%Net Income Growth": 0.9754573170731706,
-                    "EPS Growth %": 0.9333333333333333
+                    "%RevenueGrowth": 7.1584123865898075,
+                    "%Net Income Growth": 97.54573170731706,
+                    "EPS Growth %": 93.33333333333333
                 }
             },
             "type": "statement",
@@ -2454,15 +2454,15 @@
                     "%Change": 0.743,
                     "NextDayOpen": 176.12,
                     "NextDay%Change": -4.247,
-                    "%OvernightMovement(CloseVsOpen)": 0.08917748917748924,
+                    "%OvernightMovement(CloseVsOpen)": 8.917748917748924,
                     "Enterprise Value over EBITDA": 42.71603868438544,
                     "EV to Operating cash flow": -136.94492150083812,
                     "EV to Free cash flow": -122.05051529030827,
                     "Revenue": 2785464000.0,
                     "Net Income": 65600000.0,
-                    "%RevenueGrowth": 0.05644656920658342,
-                    "%Net Income Growth": -0.6319197405483049,
-                    "EPS Growth %": -0.625
+                    "%RevenueGrowth": 5.644656920658342,
+                    "%Net Income Growth": -63.19197405483049,
+                    "EPS Growth %": -62.5
                 }
             },
             "type": "statement",
@@ -2518,15 +2518,15 @@
                     "%Change": -1.953,
                     "NextDayOpen": 147.34,
                     "NextDay%Change": 2.701,
-                    "%OvernightMovement(CloseVsOpen)": 0.0006112054329372452,
+                    "%OvernightMovement(CloseVsOpen)": 0.061120543293724516,
                     "Enterprise Value over EBITDA": 39.91343392604769,
                     "EV to Operating cash flow": -185.28889128007071,
                     "EV to Free cash flow": -160.736812495112,
                     "Revenue": 2636635000.0,
                     "Net Income": 178222000.0,
-                    "%RevenueGrowth": 0.06421447717716888,
-                    "%Net Income Growth": 1.6700725115359263,
-                    "EPS Growth %": 1.5
+                    "%RevenueGrowth": 6.421447717716888,
+                    "%Net Income Growth": 167.00725115359262,
+                    "EPS Growth %": 150.0
                 }
             },
             "type": "statement",
@@ -2589,15 +2589,15 @@
                     "%Change": 0.691,
                     "NextDayOpen": 196.7,
                     "NextDay%Change": 2.567,
-                    "%OvernightMovement(CloseVsOpen)": 0.04488711819389102,
+                    "%OvernightMovement(CloseVsOpen)": 4.488711819389102,
                     "Enterprise Value over EBITDA": 59.74612835716776,
                     "EV to Operating cash flow": 55.21397335338992,
                     "EV to Free cash flow": 88.98293506493505,
                     "Revenue": 17652000000.0,
                     "Net Income": 6091000000.0,
-                    "%RevenueGrowth": 0.04536302262229075,
-                    "%Net Income Growth": 1.3283639143730888,
-                    "EPS Growth %": 1.3186813186813184
+                    "%RevenueGrowth": 4.536302262229075,
+                    "%Net Income Growth": 132.83639143730886,
+                    "EPS Growth %": 131.86813186813185
                 }
             },
             "type": "statement",
@@ -2660,15 +2660,15 @@
                     "%Change": -3.557,
                     "NextDayOpen": 206.7,
                     "NextDay%Change": 2.898,
-                    "%OvernightMovement(CloseVsOpen)": 0.00996775139255357,
+                    "%OvernightMovement(CloseVsOpen)": 0.996775139255357,
                     "Enterprise Value over EBITDA": 76.86217762856707,
                     "EV to Operating cash flow": 58.45843198700093,
                     "EV to Free cash flow": 101.07923941400763,
                     "Revenue": 16886000000.0,
                     "Net Income": 2616000000.0,
-                    "%RevenueGrowth": 0.11998408171386887,
-                    "%Net Income Growth": 0.07698641416220675,
-                    "EPS Growth %": 0.07058823529411762
+                    "%RevenueGrowth": 11.998408171386888,
+                    "%Net Income Growth": 7.698641416220675,
+                    "EPS Growth %": 7.058823529411762
                 }
             },
             "type": "statement",
@@ -2731,15 +2731,15 @@
                     "%Change": 1.035,
                     "NextDayOpen": 196.98,
                     "NextDay%Change": 1.889,
-                    "%OvernightMovement(CloseVsOpen)": 0.078869536641472,
+                    "%OvernightMovement(CloseVsOpen)": 7.8869536641472004,
                     "Enterprise Value over EBITDA": 140.74877298763943,
                     "EV to Operating cash flow": 50.157249677696605,
                     "EV to Free cash flow": 85.3342496801316,
                     "Revenue": 15077000000.0,
                     "Net Income": 2429000000.0,
-                    "%RevenueGrowth": -0.1086082535177959,
-                    "%Net Income Growth": -0.6470502760825341,
-                    "EPS Growth %": -0.6413502109704642
+                    "%RevenueGrowth": -10.86082535177959,
+                    "%Net Income Growth": -64.7050276082534,
+                    "EPS Growth %": -64.13502109704642
                 }
             },
             "type": "statement",
@@ -2799,15 +2799,15 @@
                     "%Change": -4.488,
                     "NextDayOpen": 155.0,
                     "NextDay%Change": 2.071,
-                    "%OvernightMovement(CloseVsOpen)": 0.0600465052660375,
+                    "%OvernightMovement(CloseVsOpen)": 6.00465052660375,
                     "Enterprise Value over EBITDA": 72.47006679250762,
                     "EV to Operating cash flow": 66.56459722592692,
                     "EV to Free cash flow": 120.09175890279114,
                     "Revenue": 13727000000.0,
                     "Net Income": 5137000000.0,
-                    "%RevenueGrowth": 0.037487718237472656,
-                    "%Net Income Growth": 0.006268364348677835,
-                    "EPS Growth %": 0.01724137931034475
+                    "%RevenueGrowth": 3.7487718237472656,
+                    "%Net Income Growth": 0.6268364348677835,
+                    "EPS Growth %": 1.724137931034475
                 }
             },
             "type": "statement",
@@ -2867,15 +2867,15 @@
                     "%Change": -0.825,
                     "NextDayOpen": 174.89,
                     "NextDay%Change": -0.783,
-                    "%OvernightMovement(CloseVsOpen)": -0.1959080459770115,
+                    "%OvernightMovement(CloseVsOpen)": -19.59080459770115,
                     "Enterprise Value over EBITDA": 78.95187010727747,
                     "EV to Operating cash flow": 86.47348364560177,
                     "EV to Free cash flow": 191.89922480620154,
                     "Revenue": 13231000000.0,
                     "Net Income": 5105000000.0,
-                    "%RevenueGrowth": 0.10571619588835035,
-                    "%Net Income Growth": 0.02345629510825975,
-                    "EPS Growth %": 0.029585798816567976
+                    "%RevenueGrowth": 10.571619588835034,
+                    "%Net Income Growth": 2.345629510825975,
+                    "EPS Growth %": 2.9585798816567976
                 }
             },
             "type": "statement",
@@ -2935,15 +2935,15 @@
                     "%Change": 0.281,
                     "NextDayOpen": 173.22,
                     "NextDay%Change": -0.543,
-                    "%OvernightMovement(CloseVsOpen)": 0.08472665789968059,
+                    "%OvernightMovement(CloseVsOpen)": 8.472665789968058,
                     "Enterprise Value over EBITDA": 78.024326351985,
                     "EV to Operating cash flow": 63.51140458015267,
                     "EV to Free cash flow": 98.89057844690967,
                     "Revenue": 11966000000.0,
                     "Net Income": 4988000000.0,
-                    "%RevenueGrowth": -0.07755164970706141,
-                    "%Net Income Growth": 0.16842351838838132,
-                    "EPS Growth %": 0.17361111111111116
+                    "%RevenueGrowth": -7.755164970706141,
+                    "%Net Income Growth": 16.842351838838134,
+                    "EPS Growth %": 17.361111111111114
                 }
             },
             "type": "statement",
@@ -3003,15 +3003,15 @@
                     "%Change": -0.165,
                     "NextDayOpen": 180.63,
                     "NextDay%Change": 0.947,
-                    "%OvernightMovement(CloseVsOpen)": -0.011113544289937605,
+                    "%OvernightMovement(CloseVsOpen)": -1.1113544289937605,
                     "Enterprise Value over EBITDA": 83.33356973193078,
                     "EV to Operating cash flow": 80.16452750122409,
                     "EV to Free cash flow": 112.34402104300092,
                     "Revenue": 10328000000.0,
                     "Net Income": 4706000000.0,
-                    "%RevenueGrowth": 0.10803561849586951,
-                    "%Net Income Growth": 0.20821566110397938,
-                    "EPS Growth %": 0.20454545454545459
+                    "%RevenueGrowth": 10.803561849586952,
+                    "%Net Income Growth": 20.82156611039794,
+                    "EPS Growth %": 20.45454545454546
                 }
             },
             "type": "statement",
@@ -3071,15 +3071,15 @@
                     "%Change": 0.241,
                     "NextDayOpen": 174.7,
                     "NextDay%Change": 2.438,
-                    "%OvernightMovement(CloseVsOpen)": 0.05488798985568488,
+                    "%OvernightMovement(CloseVsOpen)": 5.488798985568488,
                     "Enterprise Value over EBITDA": 84.23790684077179,
                     "EV to Operating cash flow": 80.63893656716418,
                     "EV to Free cash flow": 110.37402962206333,
                     "Revenue": 9321000000.0,
                     "Net Income": 3895000000.0,
-                    "%RevenueGrowth": 0.1604830677290836,
-                    "%Net Income Growth": 0.27121409921671025,
-                    "EPS Growth %": 0.26923076923076916
+                    "%RevenueGrowth": 16.04830677290836,
+                    "%Net Income Growth": 27.121409921671024,
+                    "EPS Growth %": 26.923076923076916
                 }
             },
             "type": "statement",
@@ -3139,15 +3139,15 @@
                     "%Change": 1.172,
                     "NextDayOpen": 150.17,
                     "NextDay%Change": -0.453,
-                    "%OvernightMovement(CloseVsOpen)": -0.010737812911726152,
+                    "%OvernightMovement(CloseVsOpen)": -1.0737812911726152,
                     "Enterprise Value over EBITDA": 97.59310155077537,
                     "EV to Operating cash flow": 77.14061289047054,
                     "EV to Free cash flow": 103.03068919989435,
                     "Revenue": 8032000000.0,
                     "Net Income": 3064000000.0,
-                    "%RevenueGrowth": -0.08820524463616752,
-                    "%Net Income Growth": -0.2829393868476481,
-                    "EPS Growth %": -0.2777777777777777
+                    "%RevenueGrowth": -8.820524463616753,
+                    "%Net Income Growth": -28.293938684764807,
+                    "EPS Growth %": -27.777777777777768
                 }
             },
             "type": "statement",
@@ -3217,15 +3217,15 @@
                     "%Change": 0.12,
                     "NextDayOpen": 134.9,
                     "NextDay%Change": -0.2,
-                    "%OvernightMovement(CloseVsOpen)": 0.015507377295995273,
+                    "%OvernightMovement(CloseVsOpen)": 1.5507377295995273,
                     "Enterprise Value over EBITDA": 101.45368390804599,
                     "EV to Operating cash flow": 46.90564899694434,
                     "EV to Free cash flow": 52.0582158655264,
                     "Revenue": 20729000000.0,
                     "Net Income": 1753000000.0,
-                    "%RevenueGrowth": 0.008121778037155858,
-                    "%Net Income Growth": -0.6873550918494739,
-                    "EPS Growth %": -0.6826923076923077
+                    "%RevenueGrowth": 0.8121778037155858,
+                    "%Net Income Growth": -68.73550918494739,
+                    "EPS Growth %": -68.26923076923077
                 }
             },
             "type": "statement",
@@ -3295,15 +3295,15 @@
                     "%Change": 0.323,
                     "NextDayOpen": 132.49,
                     "NextDay%Change": 0.476,
-                    "%OvernightMovement(CloseVsOpen)": -7.5471698113172e-05,
+                    "%OvernightMovement(CloseVsOpen)": -0.0075471698113172,
                     "Enterprise Value over EBITDA": 54.747432595270375,
                     "EV to Operating cash flow": 61.10763365837256,
                     "EV to Free cash flow": 71.1148904324007,
                     "Revenue": 20562000000.0,
                     "Net Income": 5607000000.0,
-                    "%RevenueGrowth": 0.027021627291344164,
-                    "%Net Income Growth": 0.49559882635369434,
-                    "EPS Growth %": 0.49640287769784197
+                    "%RevenueGrowth": 2.7021627291344164,
+                    "%Net Income Growth": 49.55988263536943,
+                    "EPS Growth %": 49.640287769784194
                 }
             },
             "type": "statement",
@@ -3373,15 +3373,15 @@
                     "%Change": 0.217,
                     "NextDayOpen": 139.0,
                     "NextDay%Change": 0.345,
-                    "%OvernightMovement(CloseVsOpen)": 0.007100420228952187,
+                    "%OvernightMovement(CloseVsOpen)": 0.7100420228952187,
                     "Enterprise Value over EBITDA": 61.90452531133754,
                     "EV to Operating cash flow": 108.03152130962461,
                     "EV to Free cash flow": 132.57903706269485,
                     "Revenue": 20021000000.0,
                     "Net Income": 3749000000.0,
-                    "%RevenueGrowth": -0.018289693046974587,
-                    "%Net Income Growth": 0.23241288625904,
-                    "EPS Growth %": 0.24107142857142838
+                    "%RevenueGrowth": -1.8289693046974587,
+                    "%Net Income Growth": 23.241288625903998,
+                    "EPS Growth %": 24.10714285714284
                 }
             },
             "type": "statement",
@@ -3451,15 +3451,15 @@
                     "%Change": -1.343,
                     "NextDayOpen": 136.23,
                     "NextDay%Change": -2.371,
-                    "%OvernightMovement(CloseVsOpen)": -0.0024165202108964445,
+                    "%OvernightMovement(CloseVsOpen)": -0.24165202108964445,
                     "Enterprise Value over EBITDA": 61.18238446538837,
                     "EV to Operating cash flow": 60.03131281887755,
                     "EV to Free cash flow": 69.04756904456262,
                     "Revenue": 20348000000.0,
                     "Net Income": 3934000000.0,
-                    "%RevenueGrowth": -0.02313970235237639,
-                    "%Net Income Growth": -0.005058168942842722,
-                    "EPS Growth %": -0.006896551724137945
+                    "%RevenueGrowth": -2.313970235237639,
+                    "%Net Income Growth": -0.5058168942842722,
+                    "EPS Growth %": -0.6896551724137945
                 }
             },
             "type": "statement",
@@ -3529,15 +3529,15 @@
                     "%Change": -0.451,
                     "NextDayOpen": 128.81,
                     "NextDay%Change": 0.784,
-                    "%OvernightMovement(CloseVsOpen)": -0.002323600030981421,
+                    "%OvernightMovement(CloseVsOpen)": -0.2323600030981421,
                     "Enterprise Value over EBITDA": 50.785885201793725,
                     "EV to Operating cash flow": 55.890372100674455,
                     "EV to Free cash flow": 65.28777325134511,
                     "Revenue": 20830000000.0,
                     "Net Income": 3954000000.0,
-                    "%RevenueGrowth": 0.041031535808885966,
-                    "%Net Income Growth": -0.09457293336386541,
-                    "EPS Growth %": -0.09375000000000011
+                    "%RevenueGrowth": 4.103153580888597,
+                    "%Net Income Growth": -9.457293336386542,
+                    "EPS Growth %": -9.37500000000001
                 }
             },
             "type": "statement",
@@ -3605,15 +3605,15 @@
                     "%Change": -2.158,
                     "NextDayOpen": 134.84,
                     "NextDay%Change": -0.274,
-                    "%OvernightMovement(CloseVsOpen)": 0.0028261192919827316,
+                    "%OvernightMovement(CloseVsOpen)": 0.28261192919827316,
                     "Enterprise Value over EBITDA": 63.2585527297389,
                     "EV to Operating cash flow": 64.6394566874567,
                     "EV to Free cash flow": 73.40132677552627,
                     "Revenue": 18839000000.0,
                     "Net Income": 3827000000.0,
-                    "%RevenueGrowth": 0.06039626252392205,
-                    "%Net Income Growth": -0.13455450022614202,
-                    "EPS Growth %": -0.1366459627329194
+                    "%RevenueGrowth": 6.039626252392205,
+                    "%Net Income Growth": -13.455450022614201,
+                    "EPS Growth %": -13.66459627329194
                 }
             },
             "type": "statement",
@@ -3681,15 +3681,15 @@
                     "%Change": 1.104,
                     "NextDayOpen": 122.1,
                     "NextDay%Change": 0.598,
-                    "%OvernightMovement(CloseVsOpen)": 0.0022984731571171757,
+                    "%OvernightMovement(CloseVsOpen)": 0.22984731571171757,
                     "Enterprise Value over EBITDA": 53.41621920764606,
                     "EV to Operating cash flow": 118.95331754205287,
                     "EV to Free cash flow": 147.26349936251594,
                     "Revenue": 17766000000.0,
                     "Net Income": 4422000000.0,
-                    "%RevenueGrowth": -0.01877830553407711,
-                    "%Net Income Growth": 0.15941269008914527,
-                    "EPS Growth %": 0.16666666666666674
+                    "%RevenueGrowth": -1.877830553407711,
+                    "%Net Income Growth": 15.941269008914528,
+                    "EPS Growth %": 16.666666666666675
                 }
             },
             "type": "statement",
@@ -3758,15 +3758,15 @@
                     "%Change": -2.064,
                     "NextDayOpen": 201.49,
                     "NextDay%Change": 1.251,
-                    "%OvernightMovement(CloseVsOpen)": -0.03227510686326307,
+                    "%OvernightMovement(CloseVsOpen)": -3.227510686326307,
                     "Enterprise Value over EBITDA": 1.3319878910191725,
                     "EV to Operating cash flow": 2.0438709677419356,
                     "EV to Free cash flow": 2.1498371335504887,
                     "Revenue": 6054000000.0,
                     "Net Income": 3272000000.0,
-                    "%RevenueGrowth": -0.013524523382760334,
-                    "%Net Income Growth": 0.08165289256198349,
-                    "EPS Growth %": -1.0
+                    "%RevenueGrowth": -1.3524523382760334,
+                    "%Net Income Growth": 8.16528925619835,
+                    "EPS Growth %": -100.0
                 }
             },
             "type": "statement",
@@ -3834,15 +3834,15 @@
                     "%Change": -0.006,
                     "NextDayOpen": 180.79,
                     "NextDay%Change": -1.405,
-                    "%OvernightMovement(CloseVsOpen)": -0.000608070757324608,
+                    "%OvernightMovement(CloseVsOpen)": -0.0608070757324608,
                     "Enterprise Value over EBITDA": 51.750638903719526,
                     "EV to Operating cash flow": 85.92991725768321,
                     "EV to Free cash flow": 91.15574921630095,
                     "Revenue": 5840000000.0,
                     "Net Income": 3101000000.0,
-                    "%RevenueGrowth": 0.06297779395704395,
-                    "%Net Income Growth": 0.04165267047363108,
-                    "EPS Growth %": 0.03816793893129766
+                    "%RevenueGrowth": 6.297779395704395,
+                    "%Net Income Growth": 4.165267047363108,
+                    "EPS Growth %": 3.8167938931297662
                 }
             },
             "type": "statement",
@@ -3911,15 +3911,15 @@
                     "%Change": 0.161,
                     "NextDayOpen": 160.52,
                     "NextDay%Change": -0.311,
-                    "%OvernightMovement(CloseVsOpen)": -0.0060065638739240645,
+                    "%OvernightMovement(CloseVsOpen)": -0.6006563873924065,
                     "Enterprise Value over EBITDA": 51.364345519984845,
                     "EV to Operating cash flow": 131.37227713178294,
                     "EV to Free cash flow": 142.1134067085954,
                     "Revenue": 5494000000.0,
                     "Net Income": 2977000000.0,
-                    "%RevenueGrowth": -0.002179440610243333,
+                    "%RevenueGrowth": -0.21794406102433328,
                     "%Net Income Growth": 0.0,
-                    "EPS Growth %": 0.007692307692307665
+                    "EPS Growth %": 0.7692307692307665
                 }
             },
             "type": "statement",
@@ -3988,15 +3988,15 @@
                     "%Change": -1.102,
                     "NextDayOpen": 134.39,
                     "NextDay%Change": -0.461,
-                    "%OvernightMovement(CloseVsOpen)": -0.023328488372093115,
+                    "%OvernightMovement(CloseVsOpen)": -2.3328488372093115,
                     "Enterprise Value over EBITDA": 49.42685671417854,
                     "EV to Operating cash flow": 80.00728597449908,
                     "EV to Free cash flow": 84.01147593241951,
                     "Revenue": 5506000000.0,
                     "Net Income": 2977000000.0,
-                    "%RevenueGrowth": 0.013249907986750076,
-                    "%Net Income Growth": 0.046397188049209115,
-                    "EPS Growth %": 0.05691056910569103
+                    "%RevenueGrowth": 1.3249907986750076,
+                    "%Net Income Growth": 4.6397188049209115,
+                    "EPS Growth %": 5.691056910569103
                 }
             },
             "type": "statement",
@@ -4067,15 +4067,15 @@
                     "%Change": -1.639,
                     "NextDayOpen": 141.61,
                     "NextDay%Change": -0.628,
-                    "%OvernightMovement(CloseVsOpen)": -0.007220975883342473,
+                    "%OvernightMovement(CloseVsOpen)": -0.7220975883342473,
                     "Enterprise Value over EBITDA": 55.12504194060304,
                     "EV to Operating cash flow": 66.85635413802585,
                     "EV to Free cash flow": 70.11434832756632,
                     "Revenue": 5240000000.0,
                     "Net Income": 2329000000.0,
-                    "%RevenueGrowth": 0.03291937709442139,
-                    "%Net Income Growth": -0.10595009596928984,
-                    "EPS Growth %": -0.1071428571428572
+                    "%RevenueGrowth": 3.2919377094421387,
+                    "%Net Income Growth": -10.595009596928984,
+                    "EPS Growth %": -10.71428571428572
                 }
             },
             "type": "statement",
@@ -4146,15 +4146,15 @@
                     "%Change": -0.058,
                     "NextDayOpen": 125.14,
                     "NextDay%Change": -1.55,
-                    "%OvernightMovement(CloseVsOpen)": 0.03242306740367962,
+                    "%OvernightMovement(CloseVsOpen)": 3.2423067403679617,
                     "Enterprise Value over EBITDA": 47.25910422771034,
                     "EV to Operating cash flow": 80.07234042553192,
                     "EV to Free cash flow": 86.614499424626,
                     "Revenue": 5073000000.0,
                     "Net Income": 2605000000.0,
-                    "%RevenueGrowth": 0.04339777869189643,
-                    "%Net Income Growth": 0.03291038858049178,
-                    "EPS Growth %": 0.04672897196261694
+                    "%RevenueGrowth": 4.339777869189643,
+                    "%Net Income Growth": 3.291038858049178,
+                    "EPS Growth %": 4.672897196261694
                 }
             },
             "type": "statement",
@@ -4225,15 +4225,15 @@
                     "%Change": -0.786,
                     "NextDayOpen": 123.72,
                     "NextDay%Change": 2.271,
-                    "%OvernightMovement(CloseVsOpen)": -0.01590836780146354,
+                    "%OvernightMovement(CloseVsOpen)": -1.590836780146354,
                     "Enterprise Value over EBITDA": 43.56294914547728,
                     "EV to Operating cash flow": 75.67524619840695,
                     "EV to Free cash flow": 79.74629149179702,
                     "Revenue": 4862000000.0,
                     "Net Income": 2522000000.0,
-                    "%RevenueGrowth": 0.0014418125643667068,
-                    "%Net Income Growth": 0.17850467289719618,
-                    "EPS Growth %": 0.18888888888888888
+                    "%RevenueGrowth": 0.14418125643667068,
+                    "%Net Income Growth": 17.850467289719617,
+                    "EPS Growth %": 18.88888888888889
                 }
             },
             "type": "statement",
@@ -4305,15 +4305,15 @@
                     "%Change": 1.009,
                     "NextDayOpen": 99.6,
                     "NextDay%Change": 0.0,
-                    "%OvernightMovement(CloseVsOpen)": 0.01518703496075835,
+                    "%OvernightMovement(CloseVsOpen)": 1.518703496075835,
                     "Enterprise Value over EBITDA": 42.951419939577036,
                     "EV to Operating cash flow": 52.25331071529545,
                     "EV to Free cash flow": 55.30220227408737,
                     "Revenue": 4565000000.0,
                     "Net Income": 2059000000.0,
-                    "%RevenueGrowth": 0.019656019656019597,
-                    "%Net Income Growth": 3.7883720930232556,
-                    "EPS Growth %": 3.7777777777777777
+                    "%RevenueGrowth": 1.9656019656019597,
+                    "%Net Income Growth": 378.83720930232556,
+                    "EPS Growth %": 377.77777777777777
                 }
             },
             "type": "statement",
@@ -4385,15 +4385,15 @@
                     "%Change": -1.12,
                     "NextDayOpen": 92.77,
                     "NextDay%Change": 1.746,
-                    "%OvernightMovement(CloseVsOpen)": 0.017772901810202857,
+                    "%OvernightMovement(CloseVsOpen)": 1.7772901810202857,
                     "Enterprise Value over EBITDA": 44.00892443324937,
                     "EV to Operating cash flow": 441.2005808080808,
                     "EV to Free cash flow": 698.86172,
                     "Revenue": 4477000000.0,
                     "Net Income": 430000000.0,
-                    "%RevenueGrowth": 0.00358663976686846,
-                    "%Net Income Growth": -0.7922705314009661,
-                    "EPS Growth %": -0.7906976744186047
+                    "%RevenueGrowth": 0.358663976686846,
+                    "%Net Income Growth": -79.22705314009661,
+                    "EPS Growth %": -79.06976744186048
                 }
             },
             "type": "statement",
@@ -4465,15 +4465,15 @@
                     "%Change": -0.195,
                     "NextDayOpen": 85.74,
                     "NextDay%Change": -0.397,
-                    "%OvernightMovement(CloseVsOpen)": 0.041798298906439824,
+                    "%OvernightMovement(CloseVsOpen)": 4.179829890643982,
                     "Enterprise Value over EBITDA": 35.20569162584558,
                     "EV to Operating cash flow": 60.17814992025518,
                     "EV to Free cash flow": 64.58142918271288,
                     "Revenue": 4461000000.0,
                     "Net Income": 2070000000.0,
-                    "%RevenueGrowth": 0.0469373386528984,
-                    "%Net Income Growth": 0.07198342827550497,
-                    "EPS Growth %": 0.08860759493670889
+                    "%RevenueGrowth": 4.69373386528984,
+                    "%Net Income Growth": 7.198342827550497,
+                    "EPS Growth %": 8.860759493670889
                 }
             },
             "type": "statement",
@@ -4538,15 +4538,15 @@
                     "%Change": 1.094,
                     "NextDayOpen": 104.46,
                     "NextDay%Change": -2.613,
-                    "%OvernightMovement(CloseVsOpen)": -0.004289390906491275,
+                    "%OvernightMovement(CloseVsOpen)": -0.4289390906491275,
                     "Enterprise Value over EBITDA": 133.56222943722943,
                     "EV to Operating cash flow": 112.60173357664233,
                     "EV to Free cash flow": 133.70693391115927,
                     "Revenue": 4378000000.0,
                     "Net Income": 462000000.0,
-                    "%RevenueGrowth": 0.016957026713124268,
-                    "%Net Income Growth": -0.4386391251518833,
-                    "EPS Growth %": -0.4347826086956521
+                    "%RevenueGrowth": 1.6957026713124268,
+                    "%Net Income Growth": -43.86391251518833,
+                    "EPS Growth %": -43.47826086956521
                 }
             },
             "type": "statement",
@@ -4610,15 +4610,15 @@
                     "%Change": -1.083,
                     "NextDayOpen": 116.75,
                     "NextDay%Change": 1.396,
-                    "%OvernightMovement(CloseVsOpen)": -0.03751030502885411,
+                    "%OvernightMovement(CloseVsOpen)": -3.7510305028854107,
                     "Enterprise Value over EBITDA": 138.07797427652733,
                     "EV to Operating cash flow": 109.73317717206133,
                     "EV to Free cash flow": 124.47028985507247,
                     "Revenue": 4305000000.0,
                     "Net Income": 823000000.0,
-                    "%RevenueGrowth": 0.04287790697674421,
-                    "%Net Income Growth": 0.23388305847076452,
-                    "EPS Growth %": 0.23214285714285698
+                    "%RevenueGrowth": 4.287790697674421,
+                    "%Net Income Growth": 23.388305847076452,
+                    "EPS Growth %": 23.214285714285698
                 }
             },
             "type": "statement",
@@ -4682,15 +4682,15 @@
                     "%Change": -0.103,
                     "NextDayOpen": 108.52,
                     "NextDay%Change": -1.567,
-                    "%OvernightMovement(CloseVsOpen)": 0.012124603618727914,
+                    "%OvernightMovement(CloseVsOpen)": 1.2124603618727914,
                     "Enterprise Value over EBITDA": 153.98235294117646,
                     "EV to Operating cash flow": 112.15073028237585,
                     "EV to Free cash flow": 142.3718170580964,
                     "Revenue": 4128000000.0,
                     "Net Income": 667000000.0,
-                    "%RevenueGrowth": -0.023189777567439673,
-                    "%Net Income Growth": 0.14212328767123283,
-                    "EPS Growth %": 0.14285714285714302
+                    "%RevenueGrowth": -2.3189777567439673,
+                    "%Net Income Growth": 14.212328767123283,
+                    "EPS Growth %": 14.285714285714302
                 }
             },
             "type": "statement",
@@ -4754,15 +4754,15 @@
                     "%Change": 3.355,
                     "NextDayOpen": 83.75,
                     "NextDay%Change": -1.23,
-                    "%OvernightMovement(CloseVsOpen)": 0.08092410944759942,
+                    "%OvernightMovement(CloseVsOpen)": 8.092410944759942,
                     "Enterprise Value over EBITDA": 152.57921828908553,
                     "EV to Operating cash flow": 22.151758029978588,
                     "EV to Free cash flow": 23.262583764335506,
                     "Revenue": 3683000000.0,
                     "Net Income": 436000000.0,
-                    "%RevenueGrowth": -0.045112781954887216,
-                    "%Net Income Growth": -0.1711026615969582,
-                    "EPS Growth %": -0.18181818181818188
+                    "%RevenueGrowth": -4.511278195488721,
+                    "%Net Income Growth": -17.11026615969582,
+                    "EPS Growth %": -18.181818181818187
                 }
             },
             "type": "statement",
@@ -4826,15 +4826,15 @@
                     "%Change": -0.263,
                     "NextDayOpen": 88.51,
                     "NextDay%Change": -0.712,
-                    "%OvernightMovement(CloseVsOpen)": -0.03130130239684792,
+                    "%OvernightMovement(CloseVsOpen)": -3.130130239684792,
                     "Enterprise Value over EBITDA": 131.41396276595742,
                     "EV to Operating cash flow": 3529.403571428571,
                     "EV to Free cash flow": -581.3135294117646,
                     "Revenue": 3857000000.0,
                     "Net Income": 526000000.0,
-                    "%RevenueGrowth": 0.04667571234735424,
-                    "%Net Income Growth": 0.02935420743639927,
-                    "EPS Growth %": 0.04761904761904767
+                    "%RevenueGrowth": 4.667571234735424,
+                    "%Net Income Growth": 2.935420743639927,
+                    "EPS Growth %": 4.761904761904767
                 }
             },
             "type": "statement",
@@ -4898,15 +4898,15 @@
                     "%Change": 1.844,
                     "NextDayOpen": 76.32,
                     "NextDay%Change": 0.38,
-                    "%OvernightMovement(CloseVsOpen)": 0.03135135135135125,
+                    "%OvernightMovement(CloseVsOpen)": 3.1351351351351253,
                     "Enterprise Value over EBITDA": 134.71471488178025,
                     "EV to Operating cash flow": -277.5354727793696,
                     "EV to Free cash flow": -183.7948387096774,
                     "Revenue": 3685000000.0,
                     "Net Income": 511000000.0,
-                    "%RevenueGrowth": -0.015758547008547064,
-                    "%Net Income Growth": -0.1758064516129032,
-                    "EPS Growth %": -0.17647058823529416
+                    "%RevenueGrowth": -1.5758547008547064,
+                    "%Net Income Growth": -17.58064516129032,
+                    "EPS Growth %": -17.647058823529417
                 }
             },
             "type": "statement",
@@ -4968,15 +4968,15 @@
                     "%Change": 0.074,
                     "NextDayOpen": 71.33,
                     "NextDay%Change": 0.505,
-                    "%OvernightMovement(CloseVsOpen)": 0.060669144981412515,
+                    "%OvernightMovement(CloseVsOpen)": 6.0669144981412515,
                     "Enterprise Value over EBITDA": 119.07786061588331,
                     "EV to Operating cash flow": 73.03284294234592,
                     "EV to Free cash flow": 87.36152199762188,
                     "Revenue": 3239000000.0,
                     "Net Income": 380000000.0,
-                    "%RevenueGrowth": 0.03284438775510212,
-                    "%Net Income Growth": -0.07542579075425793,
-                    "EPS Growth %": -0.06060606060606066
+                    "%RevenueGrowth": 3.2844387755102122,
+                    "%Net Income Growth": -7.542579075425793,
+                    "EPS Growth %": -6.060606060606066
                 }
             },
             "type": "statement",
@@ -5038,15 +5038,15 @@
                     "%Change": -0.53,
                     "NextDayOpen": 61.0,
                     "NextDay%Change": 1.393,
-                    "%OvernightMovement(CloseVsOpen)": 0.037591427113454756,
+                    "%OvernightMovement(CloseVsOpen)": 3.7591427113454756,
                     "Enterprise Value over EBITDA": 97.52397781299524,
                     "EV to Operating cash flow": 66.81610206297503,
                     "EV to Free cash flow": 82.37969210174029,
                     "Revenue": 3136000000.0,
                     "Net Income": 411000000.0,
-                    "%RevenueGrowth": 0.054117647058823604,
-                    "%Net Income Growth": 0.0703125,
-                    "EPS Growth %": 0.03125
+                    "%RevenueGrowth": 5.41176470588236,
+                    "%Net Income Growth": 7.03125,
+                    "EPS Growth %": 3.125
                 }
             },
             "type": "statement",
@@ -5108,14 +5108,14 @@
                     "%Change": 1.399,
                     "NextDayOpen": 47.25,
                     "NextDay%Change": 0.212,
-                    "%OvernightMovement(CloseVsOpen)": 0.06394956090970516,
+                    "%OvernightMovement(CloseVsOpen)": 6.394956090970516,
                     "Enterprise Value over EBITDA": 81.11285016286645,
                     "EV to Operating cash flow": 66.315965379494,
                     "EV to Free cash flow": 82.5925207296849,
                     "Revenue": 2975000000.0,
                     "Net Income": 384000000.0,
-                    "%RevenueGrowth": -0.002012747400201298,
-                    "%Net Income Growth": -0.01538461538461533,
+                    "%RevenueGrowth": -0.2012747400201298,
+                    "%Net Income Growth": -1.538461538461533,
                     "EPS Growth %": 0.0
                 }
             },
@@ -5185,15 +5185,15 @@
                     "%Change": -0.555,
                     "NextDayOpen": 125.22,
                     "NextDay%Change": 0.064,
-                    "%OvernightMovement(CloseVsOpen)": 0.0018401472117770545,
+                    "%OvernightMovement(CloseVsOpen)": 0.18401472117770545,
                     "Enterprise Value over EBITDA": 63.598906764876915,
                     "EV to Operating cash flow": 75.1848670944088,
                     "EV to Free cash flow": 87.28565043894653,
                     "Revenue": 18240000000.0,
                     "Net Income": 3717000000.0,
-                    "%RevenueGrowth": 0.02483425103944259,
-                    "%Net Income Growth": 0.034511550236571154,
-                    "EPS Growth %": 0.03676470588235281
+                    "%RevenueGrowth": 2.483425103944259,
+                    "%Net Income Growth": 3.4511550236571154,
+                    "EPS Growth %": 3.676470588235281
                 }
             },
             "type": "statement",
@@ -5262,15 +5262,15 @@
                     "%Change": 1.468,
                     "NextDayOpen": 121.99,
                     "NextDay%Change": -0.828,
-                    "%OvernightMovement(CloseVsOpen)": -0.0015550826649206595,
+                    "%OvernightMovement(CloseVsOpen)": -0.15550826649206595,
                     "Enterprise Value over EBITDA": 64.65079593058049,
                     "EV to Operating cash flow": 77.7391316862557,
                     "EV to Free cash flow": 104.88493203883495,
                     "Revenue": 17798000000.0,
                     "Net Income": 3593000000.0,
-                    "%RevenueGrowth": 0.041184041184041176,
-                    "%Net Income Growth": -1.685556191566495,
-                    "EPS Growth %": -1.6634146341463416
+                    "%RevenueGrowth": 4.118404118404118,
+                    "%Net Income Growth": -168.5556191566495,
+                    "EPS Growth %": -166.34146341463415
                 }
             },
             "type": "statement",
@@ -5339,15 +5339,15 @@
                     "%Change": 0.817,
                     "NextDayOpen": 103.32,
                     "NextDay%Change": -0.358,
-                    "%OvernightMovement(CloseVsOpen)": 0.0015509887553315505,
+                    "%OvernightMovement(CloseVsOpen)": 0.15509887553315505,
                     "Enterprise Value over EBITDA": 69.48722335025381,
                     "EV to Operating cash flow": 77.84465737844754,
                     "EV to Free cash flow": 99.01615189873418,
                     "Revenue": 16462000000.0,
                     "Net Income": 2745000000.0,
-                    "%RevenueGrowth": -0.05596972129831401,
-                    "%Net Income Growth": -0.14057608015028178,
-                    "EPS Growth %": -0.14754098360655732
+                    "%RevenueGrowth": -5.596972129831402,
+                    "%Net Income Growth": -14.057608015028178,
+                    "EPS Growth %": -14.754098360655732
                 }
             },
             "type": "statement",
@@ -5416,14 +5416,14 @@
                     "%Change": -0.701,
                     "NextDayOpen": 94.29,
                     "NextDay%Change": -0.011,
-                    "%OvernightMovement(CloseVsOpen)": -0.005799240826655394,
+                    "%OvernightMovement(CloseVsOpen)": -0.5799240826655394,
                     "Enterprise Value over EBITDA": 57.85871007479102,
                     "EV to Operating cash flow": 65.6415512852508,
                     "EV to Free cash flow": 79.56010163339381,
                     "Revenue": 17438000000.0,
                     "Net Income": 3194000000.0,
-                    "%RevenueGrowth": 0.04481725584182139,
-                    "%Net Income Growth": -0.0015629884338855815,
+                    "%RevenueGrowth": 4.481725584182139,
+                    "%Net Income Growth": -0.15629884338855815,
                     "EPS Growth %": 0.0
                 }
             },
@@ -5493,15 +5493,15 @@
                     "%Change": -2.875,
                     "NextDayOpen": 86.73,
                     "NextDay%Change": 0.15,
-                    "%OvernightMovement(CloseVsOpen)": -0.006529209621993104,
+                    "%OvernightMovement(CloseVsOpen)": -0.6529209621993104,
                     "Enterprise Value over EBITDA": 56.17550869668811,
                     "EV to Operating cash flow": 66.09717129240258,
                     "EV to Free cash flow": 94.80040611178126,
                     "Revenue": 16690000000.0,
                     "Net Income": 3199000000.0,
-                    "%RevenueGrowth": 0.011331273101860218,
-                    "%Net Income Growth": 0.6916975145425701,
-                    "EPS Growth %": 0.6712328767123288
+                    "%RevenueGrowth": 1.1331273101860218,
+                    "%Net Income Growth": 69.16975145425701,
+                    "EPS Growth %": 67.12328767123287
                 }
             },
             "type": "statement",
@@ -5570,14 +5570,14 @@
                     "%Change": 0.584,
                     "NextDayOpen": 74.04,
                     "NextDay%Change": 0.324,
-                    "%OvernightMovement(CloseVsOpen)": -0.012141427618412193,
+                    "%OvernightMovement(CloseVsOpen)": -1.2141427618412193,
                     "Enterprise Value over EBITDA": 57.21151296111665,
                     "EV to Operating cash flow": 68.4558872651357,
                     "EV to Free cash flow": 93.95521489971347,
                     "Revenue": 16281000000.0,
                     "Net Income": 2511000000.0,
-                    "%RevenueGrowth": -0.06404139120436902,
-                    "%Net Income Growth": 0.006412825651302523,
+                    "%RevenueGrowth": -6.404139120436902,
+                    "%Net Income Growth": 0.6412825651302523,
                     "EPS Growth %": 0.0
                 }
             },
@@ -5647,15 +5647,15 @@
                     "%Change": 0.857,
                     "NextDayOpen": 89.06,
                     "NextDay%Change": 0.842,
-                    "%OvernightMovement(CloseVsOpen)": 0.0001122964626614209,
+                    "%OvernightMovement(CloseVsOpen)": 0.01122964626614209,
                     "Enterprise Value over EBITDA": 55.570462064543705,
                     "EV to Operating cash flow": 70.57931378935939,
                     "EV to Free cash flow": 89.16810425240055,
                     "Revenue": 17395000000.0,
                     "Net Income": 2495000000.0,
-                    "%RevenueGrowth": 0.04455653635981505,
-                    "%Net Income Growth": -0.12548194882579744,
-                    "EPS Growth %": -0.1132075471698114
+                    "%RevenueGrowth": 4.455653635981505,
+                    "%Net Income Growth": -12.548194882579743,
+                    "EPS Growth %": -11.32075471698114
                 }
             },
             "type": "statement",
@@ -5724,15 +5724,15 @@
                     "%Change": 1.638,
                     "NextDayOpen": 88.63,
                     "NextDay%Change": 1.501,
-                    "%OvernightMovement(CloseVsOpen)": 0.004305949008498455,
+                    "%OvernightMovement(CloseVsOpen)": 0.43059490084984553,
                     "Enterprise Value over EBITDA": 59.75257171899706,
                     "EV to Operating cash flow": 72.85173092811898,
                     "EV to Free cash flow": 105.85219487795118,
                     "Revenue": 16653000000.0,
                     "Net Income": 2853000000.0,
-                    "%RevenueGrowth": 0.03569873748367436,
-                    "%Net Income Growth": 0.2880361173814898,
-                    "EPS Growth %": 0.2771084337349399
+                    "%RevenueGrowth": 3.569873748367436,
+                    "%Net Income Growth": 28.80361173814898,
+                    "EPS Growth %": 27.710843373493987
                 }
             },
             "type": "statement",
@@ -5804,15 +5804,15 @@
                     "%Change": 2.348,
                     "NextDayOpen": 87.58,
                     "NextDay%Change": -0.126,
-                    "%OvernightMovement(CloseVsOpen)": -0.0018235696375654697,
+                    "%OvernightMovement(CloseVsOpen)": -0.18235696375654697,
                     "Enterprise Value over EBITDA": 65.58188571428572,
                     "EV to Operating cash flow": 86.83127960526316,
                     "EV to Free cash flow": 117.8950826261724,
                     "Revenue": 15605000000.0,
                     "Net Income": 2522000000.0,
-                    "%RevenueGrowth": -0.07421689606074988,
-                    "%Net Income Growth": -0.6797460317460318,
-                    "EPS Growth %": -0.6666666666666667
+                    "%RevenueGrowth": -7.421689606074988,
+                    "%Net Income Growth": -67.97460317460317,
+                    "EPS Growth %": -66.66666666666667
                 }
             },
             "type": "statement",
@@ -5879,15 +5879,15 @@
                     "%Change": -4.189,
                     "NextDayOpen": 56.38,
                     "NextDay%Change": -0.674,
-                    "%OvernightMovement(CloseVsOpen)": -0.001416932341480659,
+                    "%OvernightMovement(CloseVsOpen)": -0.1416932341480659,
                     "Enterprise Value over EBITDA": 25.59100372561911,
                     "EV to Operating cash flow": 21.80407991784147,
                     "EV to Free cash flow": 38.6725451233648,
                     "Revenue": 19190000000.0,
                     "Net Income": 5990000000.0,
-                    "%RevenueGrowth": 0.16267797637079662,
-                    "%Net Income Growth": 0.4333572625029911,
-                    "EPS Growth %": 0.46739130434782616
+                    "%RevenueGrowth": 16.26779763707966,
+                    "%Net Income Growth": 43.33572625029911,
+                    "EPS Growth %": 46.739130434782616
                 }
             },
             "type": "statement",
@@ -5954,15 +5954,15 @@
                     "%Change": 2.088,
                     "NextDayOpen": 51.53,
                     "NextDay%Change": -1.902,
-                    "%OvernightMovement(CloseVsOpen)": -0.0011630160883893126,
+                    "%OvernightMovement(CloseVsOpen)": -0.11630160883893126,
                     "Enterprise Value over EBITDA": 31.55678008645935,
                     "EV to Operating cash flow": 29.826501911163835,
                     "EV to Free cash flow": 56.11050582692785,
                     "Revenue": 16505000000.0,
                     "Net Income": 4179000000.0,
-                    "%RevenueGrowth": 0.027644604943652284,
-                    "%Net Income Growth": 0.051585304479114136,
-                    "EPS Growth %": 0.05747126436781613
+                    "%RevenueGrowth": 2.7644604943652284,
+                    "%Net Income Growth": 5.158530447911414,
+                    "EPS Growth %": 5.747126436781613
                 }
             },
             "type": "statement",
@@ -6029,15 +6029,15 @@
                     "%Change": 0.588,
                     "NextDayOpen": 52.17,
                     "NextDay%Change": 2.032,
-                    "%OvernightMovement(CloseVsOpen)": -0.00495899294297153,
+                    "%OvernightMovement(CloseVsOpen)": -0.49589929429715296,
                     "Enterprise Value over EBITDA": 38.7158876305339,
                     "EV to Operating cash flow": 53.08112925993144,
                     "EV to Free cash flow": 160.70166056166056,
                     "Revenue": 16061000000.0,
                     "Net Income": 3974000000.0,
-                    "%RevenueGrowth": -0.13914348501902774,
-                    "%Net Income Growth": -0.23503368623676613,
-                    "EPS Growth %": -0.23008849557522115
+                    "%RevenueGrowth": -13.914348501902774,
+                    "%Net Income Growth": -23.503368623676614,
+                    "EPS Growth %": -23.008849557522115
                 }
             },
             "type": "statement",
@@ -6105,15 +6105,15 @@
                     "%Change": -0.219,
                     "NextDayOpen": 46.5,
                     "NextDay%Change": 2.366,
-                    "%OvernightMovement(CloseVsOpen)": 0.017728168089297558,
+                    "%OvernightMovement(CloseVsOpen)": 1.7728168089297558,
                     "Enterprise Value over EBITDA": 25.762722643666216,
                     "EV to Operating cash flow": 28.060518392756084,
                     "EV to Free cash flow": 49.74211075441413,
                     "Revenue": 19163000000.0,
                     "Net Income": 6398000000.0,
-                    "%RevenueGrowth": 0.1297606414337933,
-                    "%Net Income Growth": 0.2780663204155014,
-                    "EPS Growth %": 0.3047619047619048
+                    "%RevenueGrowth": 12.976064143379329,
+                    "%Net Income Growth": 27.806632041550138,
+                    "EPS Growth %": 30.476190476190478
                 }
             },
             "type": "statement",
@@ -6181,15 +6181,15 @@
                     "%Change": 2.215,
                     "NextDayOpen": 47.63,
                     "NextDay%Change": -0.126,
-                    "%OvernightMovement(CloseVsOpen)": -0.0010486577181207934,
+                    "%OvernightMovement(CloseVsOpen)": -0.10486577181207934,
                     "Enterprise Value over EBITDA": 38.244110885733605,
                     "EV to Operating cash flow": 38.15124780790503,
                     "EV to Free cash flow": 98.0975372875477,
                     "Revenue": 16962000000.0,
                     "Net Income": 5006000000.0,
-                    "%RevenueGrowth": 0.055769948960537885,
-                    "%Net Income Growth": 0.1239335428828019,
-                    "EPS Growth %": 0.12903225806451601
+                    "%RevenueGrowth": 5.5769948960537885,
+                    "%Net Income Growth": 12.39335428828019,
+                    "EPS Growth %": 12.903225806451601
                 }
             },
             "type": "statement",
@@ -6257,15 +6257,15 @@
                     "%Change": 4.888,
                     "NextDayOpen": 52.56,
                     "NextDay%Change": 1.788,
-                    "%OvernightMovement(CloseVsOpen)": -0.003223971173904716,
+                    "%OvernightMovement(CloseVsOpen)": -0.3223971173904716,
                     "Enterprise Value over EBITDA": 37.30305430543055,
                     "EV to Operating cash flow": 39.570681094844055,
                     "EV to Free cash flow": 73.69951393005336,
                     "Revenue": 16066000000.0,
                     "Net Income": 4454000000.0,
-                    "%RevenueGrowth": -0.05787837917082039,
-                    "%Net Income Growth": -7.483260553129549,
-                    "EPS Growth %": -8.153846153846153
+                    "%RevenueGrowth": -5.787837917082039,
+                    "%Net Income Growth": -748.3260553129548,
+                    "EPS Growth %": -815.3846153846154
                 }
             },
             "type": "statement",
@@ -6335,15 +6335,15 @@
                     "%Change": -1.076,
                     "NextDayOpen": 43.3,
                     "NextDay%Change": -2.54,
-                    "%OvernightMovement(CloseVsOpen)": 0.047158403869407284,
+                    "%OvernightMovement(CloseVsOpen)": 4.715840386940728,
                     "Enterprise Value over EBITDA": 26.17008228730823,
                     "EV to Operating cash flow": 29.9552187100894,
                     "EV to Free cash flow": 57.120088280060884,
                     "Revenue": 16149000000.0,
                     "Net Income": 4516000000.0,
-                    "%RevenueGrowth": 0.09388335704125184,
-                    "%Net Income Growth": 0.6082621082621082,
-                    "EPS Growth %": 0.6034482758620692
+                    "%RevenueGrowth": 9.388335704125183,
+                    "%Net Income Growth": 60.826210826210826,
+                    "EPS Growth %": 60.34482758620692
                 }
             },
             "type": "statement",
@@ -6413,15 +6413,15 @@
                     "%Change": -0.546,
                     "NextDayOpen": 35.13,
                     "NextDay%Change": -0.512,
-                    "%OvernightMovement(CloseVsOpen)": 0.004575350300257464,
+                    "%OvernightMovement(CloseVsOpen)": 0.45753503002574636,
                     "Enterprise Value over EBITDA": 32.790376612209805,
                     "EV to Operating cash flow": 40.509037603569155,
                     "EV to Free cash flow": 93.28573385518591,
                     "Revenue": 14763000000.0,
                     "Net Income": 2808000000.0,
-                    "%RevenueGrowth": -0.0022303325223033132,
-                    "%Net Income Growth": -0.052631578947368474,
-                    "EPS Growth %": -0.049180327868852514
+                    "%RevenueGrowth": -0.22303325223033132,
+                    "%Net Income Growth": -5.263157894736848,
+                    "EPS Growth %": -4.918032786885251
                 }
             },
             "type": "statement",
@@ -6491,15 +6491,15 @@
                     "%Change": -1.519,
                     "NextDayOpen": 36.1,
                     "NextDay%Change": -0.139,
-                    "%OvernightMovement(CloseVsOpen)": -0.035532994923857864,
+                    "%OvernightMovement(CloseVsOpen)": -3.5532994923857864,
                     "Enterprise Value over EBITDA": 34.3408349864743,
                     "EV to Operating cash flow": 48.8506747049769,
                     "EV to Free cash flow": 103.99777717094483,
                     "Revenue": 14796000000.0,
                     "Net Income": 2964000000.0,
-                    "%RevenueGrowth": -0.09637229754488819,
-                    "%Net Income Growth": -0.16788321167883213,
-                    "EPS Growth %": -0.1643835616438356
+                    "%RevenueGrowth": -9.637229754488818,
+                    "%Net Income Growth": -16.788321167883215,
+                    "EPS Growth %": -16.43835616438356
                 }
             },
             "type": "statement",
@@ -6565,15 +6565,15 @@
                     "%Change": 2.075,
                     "NextDayOpen": 32.93,
                     "NextDay%Change": -0.607,
-                    "%OvernightMovement(CloseVsOpen)": -0.003027550711474425,
+                    "%OvernightMovement(CloseVsOpen)": -0.3027550711474425,
                     "Enterprise Value over EBITDA": 127.95706106870229,
                     "EV to Operating cash flow": 143.26816239316238,
                     "EV to Free cash flow": 187.2891061452514,
                     "Revenue": 1801000000.0,
                     "Net Income": 120000000.0,
-                    "%RevenueGrowth": 0.17635532331809278,
-                    "%Net Income Growth": 2.4285714285714284,
-                    "EPS Growth %": 1.5
+                    "%RevenueGrowth": 17.63553233180928,
+                    "%Net Income Growth": 242.85714285714283,
+                    "EPS Growth %": 150.0
                 }
             },
             "type": "statement",
@@ -6639,15 +6639,15 @@
                     "%Change": -1.987,
                     "NextDayOpen": 32.08,
                     "NextDay%Change": 5.081,
-                    "%OvernightMovement(CloseVsOpen)": -0.052849129022733976,
+                    "%OvernightMovement(CloseVsOpen)": -5.284912902273398,
                     "Enterprise Value over EBITDA": 216.60811594202897,
                     "EV to Operating cash flow": 996.3973333333333,
                     "EV to Free cash flow": -1067.5685714285714,
                     "Revenue": 1531000000.0,
                     "Net Income": 35000000.0,
-                    "%RevenueGrowth": 0.20361635220125796,
-                    "%Net Income Growth": 1.1875,
-                    "EPS Growth %": 3.0
+                    "%RevenueGrowth": 20.361635220125795,
+                    "%Net Income Growth": 118.75,
+                    "EPS Growth %": 300.0
                 }
             },
             "type": "statement",
@@ -6714,15 +6714,15 @@
                     "%Change": -0.145,
                     "NextDayOpen": 28.95,
                     "NextDay%Change": 7.392,
-                    "%OvernightMovement(CloseVsOpen)": 0.04777415852334421,
+                    "%OvernightMovement(CloseVsOpen)": 4.777415852334421,
                     "Enterprise Value over EBITDA": 265.3905376344086,
                     "EV to Operating cash flow": -115.87474178403755,
                     "EV to Free cash flow": -89.75025454545454,
                     "Revenue": 1272000000.0,
                     "Net Income": 16000000.0,
-                    "%RevenueGrowth": -0.10359408033826634,
-                    "%Net Income Growth": -0.5789473684210527,
-                    "EPS Growth %": -0.75
+                    "%RevenueGrowth": -10.359408033826634,
+                    "%Net Income Growth": -57.89473684210527,
+                    "EPS Growth %": -75.0
                 }
             },
             "type": "statement",
@@ -6787,15 +6787,15 @@
                     "%Change": 8.986,
                     "NextDayOpen": 17.92,
                     "NextDay%Change": -7.533,
-                    "%OvernightMovement(CloseVsOpen)": -0.2136902150065817,
+                    "%OvernightMovement(CloseVsOpen)": -21.36902150065817,
                     "Enterprise Value over EBITDA": 122.7482,
                     "EV to Operating cash flow": 258.41726315789475,
                     "EV to Free cash flow": 395.96193548387095,
                     "Revenue": 1653000000.0,
                     "Net Income": 102000000.0,
-                    "%RevenueGrowth": -0.05865603644646922,
-                    "%Net Income Growth": -0.12068965517241381,
-                    "EPS Growth %": -0.18181818181818188
+                    "%RevenueGrowth": -5.865603644646922,
+                    "%Net Income Growth": -12.06896551724138,
+                    "EPS Growth %": -18.181818181818187
                 }
             },
             "type": "statement",
@@ -6860,15 +6860,15 @@
                     "%Change": 1.534,
                     "NextDayOpen": 17.16,
                     "NextDay%Change": -6.935,
-                    "%OvernightMovement(CloseVsOpen)": 0.06915887850467284,
+                    "%OvernightMovement(CloseVsOpen)": 6.915887850467284,
                     "Enterprise Value over EBITDA": 67.13707317073171,
                     "EV to Operating cash flow": -305.8466666666667,
                     "EV to Free cash flow": -156.39886363636364,
                     "Revenue": 1756000000.0,
                     "Net Income": 116000000.0,
-                    "%RevenueGrowth": 0.06618093503339395,
-                    "%Net Income Growth": 0.4320987654320987,
-                    "EPS Growth %": 0.375
+                    "%RevenueGrowth": 6.618093503339395,
+                    "%Net Income Growth": 43.209876543209866,
+                    "EPS Growth %": 37.5
                 }
             },
             "type": "statement",
@@ -6932,15 +6932,15 @@
                     "%Change": 3.479,
                     "NextDayOpen": 10.87,
                     "NextDay%Change": -1.564,
-                    "%OvernightMovement(CloseVsOpen)": 0.1194644696189493,
+                    "%OvernightMovement(CloseVsOpen)": 11.94644696189493,
                     "Enterprise Value over EBITDA": 68.17356321839081,
                     "EV to Operating cash flow": -137.93255813953488,
                     "EV to Free cash flow": -89.86515151515151,
                     "Revenue": 1647000000.0,
                     "Net Income": 81000000.0,
-                    "%RevenueGrowth": 0.11283783783783785,
-                    "%Net Income Growth": 0.3278688524590163,
-                    "EPS Growth %": 0.3333333333333335
+                    "%RevenueGrowth": 11.283783783783786,
+                    "%Net Income Growth": 32.78688524590163,
+                    "EPS Growth %": 33.33333333333335
                 }
             },
             "type": "statement",
@@ -7005,15 +7005,15 @@
                     "%Change": -0.352,
                     "NextDayOpen": 12.95,
                     "NextDay%Change": 4.788,
-                    "%OvernightMovement(CloseVsOpen)": -0.09122807017543866,
+                    "%OvernightMovement(CloseVsOpen)": -9.122807017543867,
                     "Enterprise Value over EBITDA": 75.19298245614036,
                     "EV to Operating cash flow": 194.8181818181818,
                     "EV to Free cash flow": 401.8125,
                     "Revenue": 1643000000.0,
                     "Net Income": 71000000.0,
-                    "%RevenueGrowth": 0.3445171849427169,
-                    "%Net Income Growth": -5.4375,
-                    "EPS Growth %": -8.0
+                    "%RevenueGrowth": 34.45171849427169,
+                    "%Net Income Growth": -543.75,
+                    "EPS Growth %": -800.0
                 }
             },
             "type": "statement",
@@ -7079,15 +7079,15 @@
                     "%Change": 1.26,
                     "NextDayOpen": 15.13,
                     "NextDay%Change": 2.445,
-                    "%OvernightMovement(CloseVsOpen)": 0.07228915662650603,
+                    "%OvernightMovement(CloseVsOpen)": 7.2289156626506035,
                     "Enterprise Value over EBITDA": 158.74,
                     "EV to Operating cash flow": -133.57390243902438,
                     "EV to Free cash flow": -116.52191489361702,
                     "Revenue": 1222000000.0,
                     "Net Income": -16000000.0,
-                    "%RevenueGrowth": 0.24186991869918706,
-                    "%Net Income Growth": -0.7808219178082192,
-                    "EPS Growth %": -0.875
+                    "%RevenueGrowth": 24.186991869918707,
+                    "%Net Income Growth": -78.08219178082192,
+                    "EPS Growth %": -87.5
                 }
             },
             "type": "statement",
@@ -7152,15 +7152,15 @@
                     "%Change": -1.415,
                     "NextDayOpen": 11.73,
                     "NextDay%Change": 12.02,
-                    "%OvernightMovement(CloseVsOpen)": -0.13876651982378851,
+                    "%OvernightMovement(CloseVsOpen)": -13.876651982378851,
                     "Enterprise Value over EBITDA": 986.0785714285714,
                     "EV to Operating cash flow": -46.17090301003344,
                     "EV to Free cash flow": -42.872981366459626,
                     "Revenue": 984000000.0,
                     "Net Income": -73000000.0,
-                    "%RevenueGrowth": -0.11030741410488243,
-                    "%Net Income Growth": 0.43137254901960786,
-                    "EPS Growth %": 1.0
+                    "%RevenueGrowth": -11.030741410488243,
+                    "%Net Income Growth": 43.13725490196079,
+                    "EPS Growth %": 100.0
                 }
             },
             "type": "statement",
@@ -7236,15 +7236,15 @@
                     "%Change": -0.553,
                     "NextDayOpen": 38.41,
                     "NextDay%Change": -0.182,
-                    "%OvernightMovement(CloseVsOpen)": 0.005234231876471984,
+                    "%OvernightMovement(CloseVsOpen)": 0.5234231876471984,
                     "Enterprise Value over EBITDA": 19.063074104234524,
                     "EV to Operating cash flow": 51.90566518847006,
                     "EV to Free cash flow": 60.83538201663201,
                     "Revenue": 12680000000.0,
                     "Net Income": 7680000000.0,
-                    "%RevenueGrowth": -0.04402895054282263,
-                    "%Net Income Growth": 0.5222993062438057,
-                    "EPS Growth %": 0.5454545454545456
+                    "%RevenueGrowth": -4.402895054282263,
+                    "%Net Income Growth": 52.22993062438057,
+                    "EPS Growth %": 54.54545454545456
                 }
             },
             "type": "statement",
@@ -7319,15 +7319,15 @@
                     "%Change": 1.707,
                     "NextDayOpen": 39.83,
                     "NextDay%Change": 2.611,
-                    "%OvernightMovement(CloseVsOpen)": -0.03908323281061532,
+                    "%OvernightMovement(CloseVsOpen)": -3.908323281061532,
                     "Enterprise Value over EBITDA": 47.45094565984475,
                     "EV to Operating cash flow": 103.0072615855994,
                     "EV to Free cash flow": 132.94708848245182,
                     "Revenue": 13264000000.0,
                     "Net Income": 5045000000.0,
-                    "%RevenueGrowth": 0.011129745388016365,
-                    "%Net Income Growth": 0.298918640576725,
-                    "EPS Growth %": 0.2941176470588234
+                    "%RevenueGrowth": 1.1129745388016365,
+                    "%Net Income Growth": 29.8918640576725,
+                    "EPS Growth %": 29.411764705882337
                 }
             },
             "type": "statement",
@@ -7402,15 +7402,15 @@
                     "%Change": -0.52,
                     "NextDayOpen": 40.59,
                     "NextDay%Change": -0.443,
-                    "%OvernightMovement(CloseVsOpen)": -0.0004924895345972402,
+                    "%OvernightMovement(CloseVsOpen)": -0.04924895345972402,
                     "Enterprise Value over EBITDA": 48.15961145194274,
                     "EV to Operating cash flow": 166.43144876325087,
                     "EV to Free cash flow": 261.6672222222222,
                     "Revenue": 13118000000.0,
                     "Net Income": 3884000000.0,
-                    "%RevenueGrowth": -0.061458109751735046,
-                    "%Net Income Growth": -10.882951653944021,
-                    "EPS Growth %": -14.6
+                    "%RevenueGrowth": -6.145810975173505,
+                    "%Net Income Growth": -1088.2951653944021,
+                    "EPS Growth %": -1460.0
                 }
             },
             "type": "statement",
@@ -7483,15 +7483,15 @@
                     "%Change": -2.241,
                     "NextDayOpen": 43.01,
                     "NextDay%Change": -0.116,
-                    "%OvernightMovement(CloseVsOpen)": 0.0027978549778502337,
+                    "%OvernightMovement(CloseVsOpen)": 0.2797854977850234,
                     "Enterprise Value over EBITDA": 48.225605249525124,
                     "EV to Operating cash flow": 53.104103441718955,
                     "EV to Free cash flow": 59.45805407707047,
                     "Revenue": 13297000000.0,
                     "Net Income": 4114000000.0,
-                    "%RevenueGrowth": -0.012623449914606066,
-                    "%Net Income Growth": 0.06277447687935944,
-                    "EPS Growth %": 0.04615384615384621
+                    "%RevenueGrowth": -1.2623449914606066,
+                    "%Net Income Growth": 6.277447687935944,
+                    "EPS Growth %": 4.615384615384621
                 }
             },
             "type": "statement",
@@ -7564,15 +7564,15 @@
                     "%Change": -4.501,
                     "NextDayOpen": 39.63,
                     "NextDay%Change": -1.615,
-                    "%OvernightMovement(CloseVsOpen)": -0.007513148009015702,
+                    "%OvernightMovement(CloseVsOpen)": -0.7513148009015702,
                     "Enterprise Value over EBITDA": 40.19818525209394,
                     "EV to Operating cash flow": 63.6253574213673,
                     "EV to Free cash flow": 72.18128870539664,
                     "Revenue": 13467000000.0,
                     "Net Income": 3871000000.0,
-                    "%RevenueGrowth": 0.04346815434681539,
-                    "%Net Income Growth": 0.08705419825891614,
-                    "EPS Growth %": 0.10169491525423746
+                    "%RevenueGrowth": 4.346815434681539,
+                    "%Net Income Growth": 8.705419825891614,
+                    "EPS Growth %": 10.169491525423746
                 }
             },
             "type": "statement",
@@ -7646,15 +7646,15 @@
                     "%Change": 0.506,
                     "NextDayOpen": 35.17,
                     "NextDay%Change": 0.796,
-                    "%OvernightMovement(CloseVsOpen)": -0.006497175141242817,
+                    "%OvernightMovement(CloseVsOpen)": -0.6497175141242817,
                     "Enterprise Value over EBITDA": 43.632973305233584,
                     "EV to Operating cash flow": 125.28802319717602,
                     "EV to Free cash flow": 155.57053850970573,
                     "Revenue": 12906000000.0,
                     "Net Income": 3561000000.0,
-                    "%RevenueGrowth": -0.0581624461796687,
-                    "%Net Income Growth": -0.7098745315300635,
-                    "EPS Growth %": -0.7093596059113301
+                    "%RevenueGrowth": -5.81624461796687,
+                    "%Net Income Growth": -70.98745315300636,
+                    "EPS Growth %": -70.93596059113301
                 }
             },
             "type": "statement",
@@ -7728,14 +7728,14 @@
                     "%Change": -0.121,
                     "NextDayOpen": 32.87,
                     "NextDay%Change": -0.152,
-                    "%OvernightMovement(CloseVsOpen)": -0.0063482466747279975,
+                    "%OvernightMovement(CloseVsOpen)": -0.6348246674727998,
                     "Enterprise Value over EBITDA": 42.54773283858998,
                     "EV to Operating cash flow": 70.52038130381304,
                     "EV to Free cash flow": 83.00118711545421,
                     "Revenue": 12896000000.0,
                     "Net Income": 3073000000.0,
-                    "%RevenueGrowth": 0.00915564598168861,
-                    "%Net Income Growth": -0.015379685998077486,
+                    "%RevenueGrowth": 0.9155645981688609,
+                    "%Net Income Growth": -1.5379685998077486,
                     "EPS Growth %": 0.0
                 }
             },
@@ -7807,15 +7807,15 @@
                     "%Change": -0.734,
                     "NextDayOpen": 167.15,
                     "NextDay%Change": 0.945,
-                    "%OvernightMovement(CloseVsOpen)": -0.0022086914995225193,
+                    "%OvernightMovement(CloseVsOpen)": -0.22086914995225193,
                     "Enterprise Value over EBITDA": 54.97531614349776,
                     "EV to Operating cash flow": 83.34123385452074,
                     "EV to Free cash flow": 95.8521931196247,
                     "Revenue": 9086000000.0,
                     "Net Income": 1624000000.0,
-                    "%RevenueGrowth": -0.01698582711240937,
-                    "%Net Income Growth": 0.05386112913692398,
-                    "EPS Growth %": 0.06190476190476191
+                    "%RevenueGrowth": -1.6985827112409368,
+                    "%Net Income Growth": 5.386112913692398,
+                    "EPS Growth %": 6.190476190476191
                 }
             },
             "type": "statement",
@@ -7886,15 +7886,15 @@
                     "%Change": -1.923,
                     "NextDayOpen": 174.04,
                     "NextDay%Change": 0.603,
-                    "%OvernightMovement(CloseVsOpen)": 0.000920174833218379,
+                    "%OvernightMovement(CloseVsOpen)": 0.0920174833218379,
                     "Enterprise Value over EBITDA": 54.34992709705753,
                     "EV to Operating cash flow": 73.7513611442193,
                     "EV to Free cash flow": 82.11996284007962,
                     "Revenue": 9243000000.0,
                     "Net Income": 1541000000.0,
-                    "%RevenueGrowth": 0.04040972534894194,
-                    "%Net Income Growth": 0.08827683615819204,
-                    "EPS Growth %": 0.09375
+                    "%RevenueGrowth": 4.040972534894194,
+                    "%Net Income Growth": 8.827683615819204,
+                    "EPS Growth %": 9.375
                 }
             },
             "type": "statement",
@@ -7965,15 +7965,15 @@
                     "%Change": -0.919,
                     "NextDayOpen": 168.25,
                     "NextDay%Change": 0.006,
-                    "%OvernightMovement(CloseVsOpen)": -0.004791198391103757,
+                    "%OvernightMovement(CloseVsOpen)": -0.4791198391103757,
                     "Enterprise Value over EBITDA": 55.92100998573466,
                     "EV to Operating cash flow": 103.70536507936508,
                     "EV to Free cash flow": 118.43090030211481,
                     "Revenue": 8884000000.0,
                     "Net Income": 1416000000.0,
-                    "%RevenueGrowth": -0.0868537362524412,
-                    "%Net Income Growth": -0.1772225450319581,
-                    "EPS Growth %": -0.1688311688311689
+                    "%RevenueGrowth": -8.68537362524412,
+                    "%Net Income Growth": -17.72225450319581,
+                    "EPS Growth %": -16.883116883116887
                 }
             },
             "type": "statement",
@@ -8044,15 +8044,15 @@
                     "%Change": 1.686,
                     "NextDayOpen": 149.0,
                     "NextDay%Change": 0.752,
-                    "%OvernightMovement(CloseVsOpen)": 0.00195010422970876,
+                    "%OvernightMovement(CloseVsOpen)": 0.195010422970876,
                     "Enterprise Value over EBITDA": 55.10428904428904,
                     "EV to Operating cash flow": 62.93860489882853,
                     "EV to Free cash flow": 69.73374631268436,
                     "Revenue": 10762000000.0,
                     "Net Income": 2339000000.0,
-                    "%RevenueGrowth": -0.014378606099459623,
-                    "%Net Income Growth": 0.8460931333859512,
-                    "EPS Growth %": 0.8452380952380953
+                    "%RevenueGrowth": -1.4378606099459623,
+                    "%Net Income Growth": 84.60931333859511,
+                    "EPS Growth %": 84.52380952380953
                 }
             },
             "type": "statement",
@@ -8123,15 +8123,15 @@
                     "%Change": -2.644,
                     "NextDayOpen": 146.76,
                     "NextDay%Change": -0.375,
-                    "%OvernightMovement(CloseVsOpen)": -6.813381481240999e-05,
+                    "%OvernightMovement(CloseVsOpen)": -0.006813381481240999,
                     "Enterprise Value over EBITDA": 48.356571928290336,
                     "EV to Operating cash flow": 59.42583557227297,
                     "EV to Free cash flow": 66.54120336943441,
                     "Revenue": 10919000000.0,
                     "Net Income": 1267000000.0,
-                    "%RevenueGrowth": 0.05071208622016932,
-                    "%Net Income Growth": -0.11891515994436719,
-                    "EPS Growth %": -0.11111111111111105
+                    "%RevenueGrowth": 5.071208622016932,
+                    "%Net Income Growth": -11.89151599443672,
+                    "EPS Growth %": -11.111111111111105
                 }
             },
             "type": "statement",
@@ -8202,15 +8202,15 @@
                     "%Change": 0.138,
                     "NextDayOpen": 144.45,
                     "NextDay%Change": 1.391,
-                    "%OvernightMovement(CloseVsOpen)": 0.0009701337398655419,
+                    "%OvernightMovement(CloseVsOpen)": 0.09701337398655419,
                     "Enterprise Value over EBITDA": 50.47162221210742,
                     "EV to Operating cash flow": 97.61105105633803,
                     "EV to Free cash flow": 111.33147991967871,
                     "Revenue": 10392000000.0,
                     "Net Income": 1438000000.0,
-                    "%RevenueGrowth": -0.0415936548925574,
-                    "%Net Income Growth": -1.5964330153463293,
-                    "EPS Growth %": -1.6057692307692308
+                    "%RevenueGrowth": -4.159365489255739,
+                    "%Net Income Growth": -159.64330153463294,
+                    "EPS Growth %": -160.5769230769231
                 }
             },
             "type": "statement",
@@ -8281,15 +8281,15 @@
                     "%Change": 0.0,
                     "NextDayOpen": 123.02,
                     "NextDay%Change": -1.122,
-                    "%OvernightMovement(CloseVsOpen)": 0.010016420361247835,
+                    "%OvernightMovement(CloseVsOpen)": 1.0016420361247835,
                     "Enterprise Value over EBITDA": 49.027406516290725,
                     "EV to Operating cash flow": 104.05284680851064,
                     "EV to Free cash flow": 126.69647150259067,
                     "Revenue": 9492000000.0,
                     "Net Income": 1326000000.0,
-                    "%RevenueGrowth": -0.049374061091637444,
-                    "%Net Income Growth": 0.28239845261121865,
-                    "EPS Growth %": 0.2761194029850744
+                    "%RevenueGrowth": -4.937406109163744,
+                    "%Net Income Growth": 28.239845261121864,
+                    "EPS Growth %": 27.61194029850744
                 }
             },
             "type": "statement",
@@ -8365,15 +8365,15 @@
                     "%Change": 0.505,
                     "NextDayOpen": 88.15,
                     "NextDay%Change": 1.622,
-                    "%OvernightMovement(CloseVsOpen)": -0.005079006772008898,
+                    "%OvernightMovement(CloseVsOpen)": -0.5079006772008898,
                     "Enterprise Value over EBITDA": 68.5670056639396,
                     "EV to Operating cash flow": 59.33934535156038,
                     "EV to Free cash flow": 75.5673269524206,
                     "Revenue": 5780700000.0,
                     "Net Income": 885700000.0,
-                    "%RevenueGrowth": -0.14321920853712766,
-                    "%Net Income Growth": 0.1032635774788242,
-                    "EPS Growth %": 0.10447761194029836
+                    "%RevenueGrowth": -14.321920853712767,
+                    "%Net Income Growth": 10.326357747882419,
+                    "EPS Growth %": 10.447761194029837
                 }
             },
             "type": "statement",
@@ -8443,15 +8443,15 @@
                     "%Change": 0.557,
                     "NextDayOpen": 96.4,
                     "NextDay%Change": -2.811,
-                    "%OvernightMovement(CloseVsOpen)": 0.05957353264453724,
+                    "%OvernightMovement(CloseVsOpen)": 5.957353264453724,
                     "Enterprise Value over EBITDA": 67.51532302707082,
                     "EV to Operating cash flow": 85.52287326834274,
                     "EV to Free cash flow": 136.1983494484543,
                     "Revenue": 6822900000.0,
                     "Net Income": 1372800000.0,
-                    "%RevenueGrowth": 0.0819695528068507,
-                    "%Net Income Growth": 1.0705882352941178,
-                    "EPS Growth %": 1.0943396226415096
+                    "%RevenueGrowth": 8.19695528068507,
+                    "%Net Income Growth": 107.05882352941178,
+                    "EPS Growth %": 109.43396226415096
                 }
             },
             "type": "statement",
@@ -8521,15 +8521,15 @@
                     "%Change": -1.314,
                     "NextDayOpen": 76.95,
                     "NextDay%Change": -0.65,
-                    "%OvernightMovement(CloseVsOpen)": -0.002074957852418624,
+                    "%OvernightMovement(CloseVsOpen)": -0.2074957852418624,
                     "Enterprise Value over EBITDA": 77.1967734070221,
                     "EV to Operating cash flow": 243.29638831967213,
                     "EV to Free cash flow": -3990.8785714285714,
                     "Revenue": 6306000000.0,
                     "Net Income": 663000000.0,
-                    "%RevenueGrowth": -0.04925595911167402,
-                    "%Net Income Growth": -0.1283197475677097,
-                    "EPS Growth %": -0.13114754098360648
+                    "%RevenueGrowth": -4.925595911167402,
+                    "%Net Income Growth": -12.83197475677097,
+                    "EPS Growth %": -13.114754098360649
                 }
             },
             "type": "statement",
@@ -8598,15 +8598,15 @@
                     "%Change": -0.09,
                     "NextDayOpen": 66.19,
                     "NextDay%Change": -1.073,
-                    "%OvernightMovement(CloseVsOpen)": -0.013414815918915024,
+                    "%OvernightMovement(CloseVsOpen)": -1.3414815918915024,
                     "Enterprise Value over EBITDA": 63.83852177094768,
                     "EV to Operating cash flow": 36.66891130727196,
                     "EV to Free cash flow": 44.791199424933254,
                     "Revenue": 6632700000.0,
                     "Net Income": 760600000.0,
-                    "%RevenueGrowth": 0.052208261945554835,
-                    "%Net Income Growth": 0.006750496360026448,
-                    "EPS Growth %": 0.07017543859649122
+                    "%RevenueGrowth": 5.2208261945554835,
+                    "%Net Income Growth": 0.6750496360026448,
+                    "EPS Growth %": 7.017543859649122
                 }
             },
             "type": "statement",
@@ -8675,15 +8675,15 @@
                     "%Change": 0.445,
                     "NextDayOpen": 51.5,
                     "NextDay%Change": -1.262,
-                    "%OvernightMovement(CloseVsOpen)": 0.0009718172983479434,
+                    "%OvernightMovement(CloseVsOpen)": 0.09718172983479434,
                     "Enterprise Value over EBITDA": 60.88113659383591,
                     "EV to Operating cash flow": 69.20791759190723,
                     "EV to Free cash flow": 119.3954412599319,
                     "Revenue": 6310400000.0,
                     "Net Income": 852500000.0,
-                    "%RevenueGrowth": 0.04618853410258961,
-                    "%Net Income Growth": 0.2914709892440539,
-                    "EPS Growth %": 0.29166666666666674
+                    "%RevenueGrowth": 4.618853410258961,
+                    "%Net Income Growth": 29.14709892440539,
+                    "EPS Growth %": 29.166666666666675
                 }
             },
             "type": "statement",
@@ -8751,15 +8751,15 @@
                     "%Change": -2.186,
                     "NextDayOpen": 58.07,
                     "NextDay%Change": -0.499,
-                    "%OvernightMovement(CloseVsOpen)": -0.022061300101044123,
+                    "%OvernightMovement(CloseVsOpen)": -2.2061300101044123,
                     "Enterprise Value over EBITDA": 75.64153797977991,
                     "EV to Operating cash flow": 186.01660506050604,
                     "EV to Free cash flow": -6553.840852713179,
                     "Revenue": 6031800000.0,
                     "Net Income": 660100000.0,
-                    "%RevenueGrowth": -0.006898595584240219,
-                    "%Net Income Growth": -0.7066482979290729,
-                    "EPS Growth %": -0.694267515923567
+                    "%RevenueGrowth": -0.6898595584240219,
+                    "%Net Income Growth": -70.66482979290728,
+                    "EPS Growth %": -69.4267515923567
                 }
             },
             "type": "statement",
@@ -8827,15 +8827,15 @@
                     "%Change": 0.786,
                     "NextDayOpen": 57.94,
                     "NextDay%Change": -0.086,
-                    "%OvernightMovement(CloseVsOpen)": -0.043104872006606065,
+                    "%OvernightMovement(CloseVsOpen)": -4.3104872006606065,
                     "Enterprise Value over EBITDA": 59.565516744688516,
                     "EV to Operating cash flow": 45.096357688113414,
                     "EV to Free cash flow": 58.878564818110625,
                     "Revenue": 6073700000.0,
                     "Net Income": 2250200000.0,
-                    "%RevenueGrowth": 0.06587929733429276,
-                    "%Net Income Growth": 1.853411108293178,
-                    "EPS Growth %": 1.9074074074074074
+                    "%RevenueGrowth": 6.587929733429276,
+                    "%Net Income Growth": 185.34111082931778,
+                    "EPS Growth %": 190.74074074074073
                 }
             },
             "type": "statement",
@@ -8903,15 +8903,15 @@
                     "%Change": -2.146,
                     "NextDayOpen": 55.23,
                     "NextDay%Change": 2.227,
-                    "%OvernightMovement(CloseVsOpen)": -0.07176470588235295,
+                    "%OvernightMovement(CloseVsOpen)": -7.176470588235295,
                     "Enterprise Value over EBITDA": 72.51724358974357,
                     "EV to Operating cash flow": 82.58873283504258,
                     "EV to Free cash flow": 124.51073899371067,
                     "Revenue": 5661500000.0,
                     "Net Income": 691200000.0,
-                    "%RevenueGrowth": 0.0693980091044748,
-                    "%Net Income Growth": 0.058337161231051926,
-                    "EPS Growth %": 0.04444444444444429
+                    "%RevenueGrowth": 6.93980091044748,
+                    "%Net Income Growth": 5.833716123105193,
+                    "EPS Growth %": 4.444444444444429
                 }
             },
             "type": "statement",
@@ -8980,15 +8980,15 @@
                     "%Change": 0.535,
                     "NextDayOpen": 59.41,
                     "NextDay%Change": -1.094,
-                    "%OvernightMovement(CloseVsOpen)": -0.030831973898858056,
+                    "%OvernightMovement(CloseVsOpen)": -3.0831973898858056,
                     "Enterprise Value over EBITDA": 70.59488480412543,
                     "EV to Operating cash flow": 191.46453868711933,
                     "EV to Free cash flow": 752.4488475177305,
                     "Revenue": 5294100000.0,
                     "Net Income": 653100000.0,
-                    "%RevenueGrowth": -0.07654066877147692,
-                    "%Net Income Growth": -0.13128491620111726,
-                    "EPS Growth %": -0.11764705882352944
+                    "%RevenueGrowth": -7.654066877147692,
+                    "%Net Income Growth": -13.128491620111726,
+                    "EPS Growth %": -11.764705882352944
                 }
             },
             "type": "statement",
@@ -9064,15 +9064,15 @@
                     "%Change": 0.4,
                     "NextDayOpen": 54.45,
                     "NextDay%Change": 0.404,
-                    "%OvernightMovement(CloseVsOpen)": -0.0060240963855421326,
+                    "%OvernightMovement(CloseVsOpen)": -0.6024096385542133,
                     "Enterprise Value over EBITDA": 90.65619496855346,
                     "EV to Operating cash flow": 79.34496330275229,
                     "EV to Free cash flow": 91.64889791593076,
                     "Revenue": 9507000000.0,
                     "Net Income": 2593000000.0,
-                    "%RevenueGrowth": -0.10908068597132414,
-                    "%Net Income Growth": -0.005370157268891451,
-                    "EPS Growth %": -0.016393442622950838
+                    "%RevenueGrowth": -10.908068597132415,
+                    "%Net Income Growth": -0.5370157268891451,
+                    "EPS Growth %": -1.6393442622950838
                 }
             },
             "type": "statement",
@@ -9148,15 +9148,15 @@
                     "%Change": -2.028,
                     "NextDayOpen": 54.12,
                     "NextDay%Change": 0.628,
-                    "%OvernightMovement(CloseVsOpen)": -0.003865267807841022,
+                    "%OvernightMovement(CloseVsOpen)": -0.3865267807841022,
                     "Enterprise Value over EBITDA": 68.21285881663738,
                     "EV to Operating cash flow": 61.25163072067333,
                     "EV to Free cash flow": 68.51388643718741,
                     "Revenue": 10671000000.0,
                     "Net Income": 2607000000.0,
-                    "%RevenueGrowth": 0.3305486284289276,
-                    "%Net Income Growth": 0.5536352800953517,
-                    "EPS Growth %": 0.5641025641025641
+                    "%RevenueGrowth": 33.05486284289276,
+                    "%Net Income Growth": 55.363528009535166,
+                    "EPS Growth %": 56.41025641025641
                 }
             },
             "type": "statement",
@@ -9233,15 +9233,15 @@
                     "%Change": -0.25,
                     "NextDayOpen": 48.03,
                     "NextDay%Change": 0.104,
-                    "%OvernightMovement(CloseVsOpen)": -0.0037336652146857663,
+                    "%OvernightMovement(CloseVsOpen)": -0.37336652146857663,
                     "Enterprise Value over EBITDA": 10.360854821424741,
                     "EV to Operating cash flow": 38.70127602108727,
                     "EV to Free cash flow": 80.75281175743282,
                     "Revenue": 8020000000.0,
                     "Net Income": 1678000000.0,
-                    "%RevenueGrowth": 0.1362992349107397,
-                    "%Net Income Growth": 0.928735632183908,
-                    "EPS Growth %": 0.8571428571428572
+                    "%RevenueGrowth": 13.62992349107397,
+                    "%Net Income Growth": 92.8735632183908,
+                    "EPS Growth %": 85.71428571428572
                 }
             },
             "type": "statement",
@@ -9319,15 +9319,15 @@
                     "%Change": -2.166,
                     "NextDayOpen": 47.5,
                     "NextDay%Change": -0.8,
-                    "%OvernightMovement(CloseVsOpen)": -0.002729372244383854,
+                    "%OvernightMovement(CloseVsOpen)": -0.2729372244383854,
                     "Enterprise Value over EBITDA": 8.201148566597123,
                     "EV to Operating cash flow": 7.938437679366295,
                     "EV to Free cash flow": 8.881649012520452,
                     "Revenue": 8245000000.0,
                     "Net Income": 1880000000.0,
-                    "%RevenueGrowth": -0.07639744595048725,
-                    "%Net Income Growth": -0.1882556131260794,
-                    "EPS Growth %": -0.20370370370370372
+                    "%RevenueGrowth": -7.639744595048725,
+                    "%Net Income Growth": -18.82556131260794,
+                    "EPS Growth %": -20.370370370370374
                 }
             },
             "type": "statement",
@@ -9404,15 +9404,15 @@
                     "%Change": -0.196,
                     "NextDayOpen": 46.36,
                     "NextDay%Change": 0.259,
-                    "%OvernightMovement(CloseVsOpen)": 0.005858103710132179,
+                    "%OvernightMovement(CloseVsOpen)": 0.5858103710132179,
                     "Enterprise Value over EBITDA": 8.010360044451827,
                     "EV to Operating cash flow": 12.085806382857143,
                     "EV to Free cash flow": 14.55110665890163,
                     "Revenue": 8927000000.0,
                     "Net Income": 2316000000.0,
-                    "%RevenueGrowth": 0.17060057697351172,
-                    "%Net Income Growth": 0.6929824561403508,
-                    "EPS Growth %": 0.6875
+                    "%RevenueGrowth": 17.060057697351173,
+                    "%Net Income Growth": 69.29824561403508,
+                    "EPS Growth %": 68.75
                 }
             },
             "type": "statement",
@@ -9489,15 +9489,15 @@
                     "%Change": 2.069,
                     "NextDayOpen": 42.74,
                     "NextDay%Change": 0.725,
-                    "%OvernightMovement(CloseVsOpen)": -0.007661945669839798,
+                    "%OvernightMovement(CloseVsOpen)": -0.7661945669839798,
                     "Enterprise Value over EBITDA": 12.432092423498318,
                     "EV to Operating cash flow": 42.20421587814029,
                     "EV to Free cash flow": 76.31617797433628,
                     "Revenue": 7626000000.0,
                     "Net Income": 1368000000.0,
-                    "%RevenueGrowth": 0.015175718849840258,
-                    "%Net Income Growth": -1.497093023255814,
-                    "EPS Growth %": -1.507936507936508
+                    "%RevenueGrowth": 1.5175718849840258,
+                    "%Net Income Growth": -149.7093023255814,
+                    "EPS Growth %": -150.79365079365078
                 }
             },
             "type": "statement",
@@ -9567,15 +9567,15 @@
                     "%Change": 0.69,
                     "NextDayOpen": 46.32,
                     "NextDay%Change": 0.194,
-                    "%OvernightMovement(CloseVsOpen)": 0.005863192182410382,
+                    "%OvernightMovement(CloseVsOpen)": 0.5863192182410382,
                     "Enterprise Value over EBITDA": 89.87019031857675,
                     "EV to Operating cash flow": 85.95815195884448,
                     "EV to Free cash flow": 100.33083140877598,
                     "Revenue": 9078000000.0,
                     "Net Income": 1447000000.0,
-                    "%RevenueGrowth": -0.06431663574520718,
-                    "%Net Income Growth": 0.05543398978847547,
-                    "EPS Growth %": 0.03125
+                    "%RevenueGrowth": -6.4316635745207185,
+                    "%Net Income Growth": 5.543398978847547,
+                    "EPS Growth %": 3.125
                 }
             },
             "type": "statement",
@@ -9645,15 +9645,15 @@
                     "%Change": -2.671,
                     "NextDayOpen": 45.8,
                     "NextDay%Change": -0.699,
-                    "%OvernightMovement(CloseVsOpen)": 0.0013117621337996876,
+                    "%OvernightMovement(CloseVsOpen)": 0.13117621337996876,
                     "Enterprise Value over EBITDA": 91.70937368642286,
                     "EV to Operating cash flow": 83.81736457933154,
                     "EV to Free cash flow": 98.58861274288296,
                     "Revenue": 9702000000.0,
                     "Net Income": 1371000000.0,
-                    "%RevenueGrowth": 0.06404913358192577,
-                    "%Net Income Growth": 0.15989847715736039,
-                    "EPS Growth %": 0.18518518518518512
+                    "%RevenueGrowth": 6.404913358192577,
+                    "%Net Income Growth": 15.989847715736039,
+                    "EPS Growth %": 18.518518518518512
                 }
             },
             "type": "statement",
@@ -9723,15 +9723,15 @@
                     "%Change": -0.607,
                     "NextDayOpen": 43.06,
                     "NextDay%Change": -0.418,
-                    "%OvernightMovement(CloseVsOpen)": -0.001159823706796459,
+                    "%OvernightMovement(CloseVsOpen)": -0.1159823706796459,
                     "Enterprise Value over EBITDA": 87.59433766233767,
                     "EV to Operating cash flow": 256.78035532994926,
                     "EV to Free cash flow": 584.80612716763,
                     "Revenue": 9118000000.0,
                     "Net Income": 1182000000.0,
-                    "%RevenueGrowth": -0.030927835051546393,
-                    "%Net Income Growth": 1.149090909090909,
-                    "EPS Growth %": 1.2500000000000004
+                    "%RevenueGrowth": -3.0927835051546393,
+                    "%Net Income Growth": 114.90909090909089,
+                    "EPS Growth %": 125.00000000000004
                 }
             },
             "type": "statement",
@@ -9802,15 +9802,15 @@
                     "%Change": -1.496,
                     "NextDayOpen": 70.82,
                     "NextDay%Change": 1.864,
-                    "%OvernightMovement(CloseVsOpen)": -0.005616399887672041,
+                    "%OvernightMovement(CloseVsOpen)": -0.5616399887672041,
                     "Enterprise Value over EBITDA": 41.15908280781557,
                     "EV to Operating cash flow": 166.0266088407006,
                     "EV to Free cash flow": 287.0452833453497,
                     "Revenue": 18574000000.0,
                     "Net Income": 4913000000.0,
-                    "%RevenueGrowth": -0.009809148096811993,
-                    "%Net Income Growth": 0.023754948947697363,
-                    "EPS Growth %": 0.06153846153846154
+                    "%RevenueGrowth": -0.9809148096811993,
+                    "%Net Income Growth": 2.3754948947697363,
+                    "EPS Growth %": 6.153846153846154
                 }
             },
             "type": "statement",
@@ -9881,15 +9881,15 @@
                     "%Change": 0.028,
                     "NextDayOpen": 71.7,
                     "NextDay%Change": 0.53,
-                    "%OvernightMovement(CloseVsOpen)": -0.0001394505647747124,
+                    "%OvernightMovement(CloseVsOpen)": -0.01394505647747124,
                     "Enterprise Value over EBITDA": 71.88304294905234,
                     "EV to Operating cash flow": -2952.8527142857142,
                     "EV to Free cash flow": -139.1448603163918,
                     "Revenue": 18758000000.0,
                     "Net Income": 4799000000.0,
-                    "%RevenueGrowth": 0.009797588285960446,
-                    "%Net Income Growth": 0.0188959660297241,
-                    "EPS Growth %": 0.04278074866310155
+                    "%RevenueGrowth": 0.9797588285960446,
+                    "%Net Income Growth": 1.8895966029724098,
+                    "EPS Growth %": 4.278074866310155
                 }
             },
             "type": "statement",
@@ -9960,15 +9960,15 @@
                     "%Change": 0.015,
                     "NextDayOpen": 67.5,
                     "NextDay%Change": -2.681,
-                    "%OvernightMovement(CloseVsOpen)": 0.0017809439002671734,
+                    "%OvernightMovement(CloseVsOpen)": 0.17809439002671734,
                     "Enterprise Value over EBITDA": 72.56259315724162,
                     "EV to Operating cash flow": -10.881688324117397,
                     "EV to Free cash flow": -10.733874967220853,
                     "Revenue": 18576000000.0,
                     "Net Income": 4710000000.0,
-                    "%RevenueGrowth": 0.08479327259985991,
-                    "%Net Income Growth": 0.09204729886389984,
-                    "EPS Growth %": 0.14024390243902451
+                    "%RevenueGrowth": 8.479327259985991,
+                    "%Net Income Growth": 9.204729886389984,
+                    "EPS Growth %": 14.024390243902452
                 }
             },
             "type": "statement",
@@ -10041,15 +10041,15 @@
                     "%Change": 0.866,
                     "NextDayOpen": 70.13,
                     "NextDay%Change": 1.312,
-                    "%OvernightMovement(CloseVsOpen)": 0.004152348224513158,
+                    "%OvernightMovement(CloseVsOpen)": 0.4152348224513158,
                     "Enterprise Value over EBITDA": 60.02693772166265,
                     "EV to Operating cash flow": 19.45693125488573,
                     "EV to Free cash flow": 20.386889135148156,
                     "Revenue": 18389000000.0,
                     "Net Income": 4622000000.0,
-                    "%RevenueGrowth": -0.004331582652011501,
-                    "%Net Income Growth": 0.029398663697104643,
-                    "EPS Growth %": 0.06134969325153383
+                    "%RevenueGrowth": -0.4331582652011501,
+                    "%Net Income Growth": 2.9398663697104643,
+                    "EPS Growth %": 6.134969325153383
                 }
             },
             "type": "statement",
@@ -10122,15 +10122,15 @@
                     "%Change": 1.456,
                     "NextDayOpen": 67.36,
                     "NextDay%Change": -3.118,
-                    "%OvernightMovement(CloseVsOpen)": 0.005373134328358287,
+                    "%OvernightMovement(CloseVsOpen)": 0.5373134328358287,
                     "Enterprise Value over EBITDA": 61.50481204538842,
                     "EV to Operating cash flow": 310.18641085840056,
                     "EV to Free cash flow": 658.5421775700935,
                     "Revenue": 18469000000.0,
                     "Net Income": 4490000000.0,
-                    "%RevenueGrowth": -0.02135438745231033,
-                    "%Net Income Growth": -0.02813852813852813,
-                    "EPS Growth %": -0.029761904761904767
+                    "%RevenueGrowth": -2.135438745231033,
+                    "%Net Income Growth": -2.813852813852813,
+                    "EPS Growth %": -2.9761904761904767
                 }
             },
             "type": "statement",
@@ -10202,15 +10202,15 @@
                     "%Change": 3.005,
                     "NextDayOpen": 71.09,
                     "NextDay%Change": 1.435,
-                    "%OvernightMovement(CloseVsOpen)": 0.001126601887058154,
+                    "%OvernightMovement(CloseVsOpen)": 0.1126601887058154,
                     "Enterprise Value over EBITDA": 62.837721778791334,
                     "EV to Operating cash flow": 63.37973778033353,
                     "EV to Free cash flow": 73.63779121429765,
                     "Revenue": 18872000000.0,
                     "Net Income": 4620000000.0,
-                    "%RevenueGrowth": 0.09371196754563904,
-                    "%Net Income Growth": -1.244535012967766,
-                    "EPS Growth %": -1.2389758179231865
+                    "%RevenueGrowth": 9.371196754563904,
+                    "%Net Income Growth": -124.4535012967766,
+                    "EPS Growth %": -123.89758179231865
                 }
             },
             "type": "statement",
@@ -10282,15 +10282,15 @@
                     "%Change": 4.55,
                     "NextDayOpen": 72.1,
                     "NextDay%Change": -0.014,
-                    "%OvernightMovement(CloseVsOpen)": -0.00373082769103239,
+                    "%OvernightMovement(CloseVsOpen)": -0.373082769103239,
                     "Enterprise Value over EBITDA": 62.674025566950746,
                     "EV to Operating cash flow": 23.83237828188509,
                     "EV to Free cash flow": 25.006759206962133,
                     "Revenue": 18173000000.0,
                     "Net Income": 4133000000.0,
-                    "%RevenueGrowth": 0.015194681861348425,
-                    "%Net Income Growth": 0.06740702479338845,
-                    "EPS Growth %": 0.109375
+                    "%RevenueGrowth": 1.5194681861348425,
+                    "%Net Income Growth": 6.740702479338845,
+                    "EPS Growth %": 10.9375
                 }
             },
             "type": "statement",
@@ -10362,15 +10362,15 @@
                     "%Change": -0.603,
                     "NextDayOpen": 66.76,
                     "NextDay%Change": -0.105,
-                    "%OvernightMovement(CloseVsOpen)": 0.0005995203836930418,
+                    "%OvernightMovement(CloseVsOpen)": 0.059952038369304184,
                     "Enterprise Value over EBITDA": 61.920685210518315,
                     "EV to Operating cash flow": -22.01438465279654,
                     "EV to Free cash flow": -21.035639161416917,
                     "Revenue": 17901000000.0,
                     "Net Income": 3872000000.0,
-                    "%RevenueGrowth": -0.012086092715231755,
-                    "%Net Income Growth": -0.053300733496332464,
-                    "EPS Growth %": -0.05185185185185193
+                    "%RevenueGrowth": -1.2086092715231755,
+                    "%Net Income Growth": -5.330073349633246,
+                    "EPS Growth %": -5.185185185185192
                 }
             },
             "type": "statement",
@@ -10442,15 +10442,15 @@
                     "%Change": 0.446,
                     "NextDayOpen": 58.36,
                     "NextDay%Change": -1.08,
-                    "%OvernightMovement(CloseVsOpen)": 0.005513439007581056,
+                    "%OvernightMovement(CloseVsOpen)": 0.5513439007581056,
                     "Enterprise Value over EBITDA": 55.629135087974404,
                     "EV to Operating cash flow": -127.2659886892881,
                     "EV to Free cash flow": -100.8864878691983,
                     "Revenue": 18120000000.0,
                     "Net Income": 4090000000.0,
-                    "%RevenueGrowth": 0.06513049612038557,
-                    "%Net Income Growth": 0.1446963336132101,
-                    "EPS Growth %": 0.1842105263157896
+                    "%RevenueGrowth": 6.513049612038557,
+                    "%Net Income Growth": 14.46963336132101,
+                    "EPS Growth %": 18.42105263157896
                 }
             },
             "type": "statement",
@@ -10521,15 +10521,15 @@
                     "%Change": 2.838,
                     "NextDayOpen": 200.11,
                     "NextDay%Change": 0.45,
-                    "%OvernightMovement(CloseVsOpen)": 0.004215386159482026,
+                    "%OvernightMovement(CloseVsOpen)": 0.42153861594820263,
                     "Enterprise Value over EBITDA": 70.0158511354377,
                     "EV to Operating cash flow": 86.42749070713255,
                     "EV to Free cash flow": 88.00540722269226,
                     "Revenue": 5430600000.0,
                     "Net Income": 1607900000.0,
-                    "%RevenueGrowth": 0.01671877632786023,
-                    "%Net Income Growth": 0.059990770650669045,
-                    "EPS Growth %": 0.07106598984771573
+                    "%RevenueGrowth": 1.671877632786023,
+                    "%Net Income Growth": 5.9990770650669045,
+                    "EPS Growth %": 7.106598984771573
                 }
             },
             "type": "statement",
@@ -10599,15 +10599,15 @@
                     "%Change": 1.087,
                     "NextDayOpen": 216.0,
                     "NextDay%Change": 0.472,
-                    "%OvernightMovement(CloseVsOpen)": 0.0019482326746451673,
+                    "%OvernightMovement(CloseVsOpen)": 0.19482326746451673,
                     "Enterprise Value over EBITDA": 68.70843911383878,
                     "EV to Operating cash flow": 95.3532542196832,
                     "EV to Free cash flow": 119.16835918738236,
                     "Revenue": 5341300000.0,
                     "Net Income": 1516900000.0,
-                    "%RevenueGrowth": 0.07783114052788753,
-                    "%Net Income Growth": 0.14190003011141217,
-                    "EPS Growth %": 0.14534883720930236
+                    "%RevenueGrowth": 7.783114052788753,
+                    "%Net Income Growth": 14.190003011141217,
+                    "EPS Growth %": 14.534883720930235
                 }
             },
             "type": "statement",
@@ -10677,15 +10677,15 @@
                     "%Change": 0.644,
                     "NextDayOpen": 195.87,
                     "NextDay%Change": 0.868,
-                    "%OvernightMovement(CloseVsOpen)": -0.008604545224477289,
+                    "%OvernightMovement(CloseVsOpen)": -0.8604545224477289,
                     "Enterprise Value over EBITDA": 69.53894675460468,
                     "EV to Operating cash flow": 85.57633623676136,
                     "EV to Free cash flow": 85.9592090872937,
                     "Revenue": 4955600000.0,
                     "Net Income": 1328400000.0,
-                    "%RevenueGrowth": -0.040170443540577194,
-                    "%Net Income Growth": -0.061400409807108036,
-                    "EPS Growth %": -0.05494505494505497
+                    "%RevenueGrowth": -4.017044354057719,
+                    "%Net Income Growth": -6.140040980710804,
+                    "EPS Growth %": -5.494505494505497
                 }
             },
             "type": "statement",
@@ -10752,15 +10752,15 @@
                     "%Change": -3.475,
                     "NextDayOpen": 176.13,
                     "NextDay%Change": -0.693,
-                    "%OvernightMovement(CloseVsOpen)": -0.005757832345470004,
+                    "%OvernightMovement(CloseVsOpen)": -0.5757832345470004,
                     "Enterprise Value over EBITDA": 55.87753365797766,
                     "EV to Operating cash flow": 63.15194690623609,
                     "EV to Free cash flow": 64.19629602204945,
                     "Revenue": 5369400000.0,
                     "Net Income": 1637300000.0,
-                    "%RevenueGrowth": 0.002895085825286303,
-                    "%Net Income Growth": 0.09423244001871289,
-                    "EPS Growth %": 0.10526315789473695
+                    "%RevenueGrowth": 0.2895085825286303,
+                    "%Net Income Growth": 9.42324400187129,
+                    "EPS Growth %": 10.526315789473696
                 }
             },
             "type": "statement",
@@ -10827,15 +10827,15 @@
                     "%Change": 1.321,
                     "NextDayOpen": 156.58,
                     "NextDay%Change": -0.575,
-                    "%OvernightMovement(CloseVsOpen)": 0.00281798386063814,
+                    "%OvernightMovement(CloseVsOpen)": 0.281798386063814,
                     "Enterprise Value over EBITDA": 59.00668138393027,
                     "EV to Operating cash flow": 115.79642515685688,
                     "EV to Free cash flow": 116.80850964436408,
                     "Revenue": 5353900000.0,
                     "Net Income": 1496300000.0,
-                    "%RevenueGrowth": 0.041837747377843515,
-                    "%Net Income Growth": 0.08790170132325148,
-                    "EPS Growth %": 0.10465116279069764
+                    "%RevenueGrowth": 4.1837747377843515,
+                    "%Net Income Growth": 8.790170132325148,
+                    "EPS Growth %": 10.465116279069765
                 }
             },
             "type": "statement",
@@ -10901,15 +10901,15 @@
                     "%Change": -1.67,
                     "NextDayOpen": 166.38,
                     "NextDay%Change": 1.767,
-                    "%OvernightMovement(CloseVsOpen)": -0.006330625895843323,
+                    "%OvernightMovement(CloseVsOpen)": -0.6330625895843323,
                     "Enterprise Value over EBITDA": 60.47271747805267,
                     "EV to Operating cash flow": 92.11319596401653,
                     "EV to Free cash flow": 93.45953129818069,
                     "Revenue": 5138900000.0,
                     "Net Income": 1375400000.0,
-                    "%RevenueGrowth": -0.037695217407587744,
-                    "%Net Income Growth": 0.9685129526263061,
-                    "EPS Growth %": 0.9325842696629212
+                    "%RevenueGrowth": -3.7695217407587744,
+                    "%Net Income Growth": 96.85129526263061,
+                    "EPS Growth %": 93.25842696629212
                 }
             },
             "type": "statement",
@@ -10978,15 +10978,15 @@
                     "%Change": 0.835,
                     "NextDayOpen": 163.41,
                     "NextDay%Change": -0.104,
-                    "%OvernightMovement(CloseVsOpen)": -0.0028679521601171487,
+                    "%OvernightMovement(CloseVsOpen)": -0.28679521601171487,
                     "Enterprise Value over EBITDA": 45.35713961341406,
                     "EV to Operating cash flow": 92.49679192638766,
                     "EV to Free cash flow": 93.65321031435955,
                     "Revenue": 5754600000.0,
                     "Net Income": 1883700000.0,
-                    "%RevenueGrowth": -0.04877927831132123,
-                    "%Net Income Growth": 0.3502257902659307,
-                    "EPS Growth %": 0.35882352941176476
+                    "%RevenueGrowth": -4.877927831132123,
+                    "%Net Income Growth": 35.02257902659307,
+                    "EPS Growth %": 35.88235294117648
                 }
             },
             "type": "statement",
@@ -11054,15 +11054,15 @@
                     "%Change": -0.837,
                     "NextDayOpen": 158.76,
                     "NextDay%Change": 1.417,
-                    "%OvernightMovement(CloseVsOpen)": -0.0019488275601936556,
+                    "%OvernightMovement(CloseVsOpen)": -0.19488275601936556,
                     "Enterprise Value over EBITDA": 56.54517877476657,
                     "EV to Operating cash flow": 122.77396406790835,
                     "EV to Free cash flow": 124.31068758344459,
                     "Revenue": 6049700000.0,
                     "Net Income": 1395100000.0,
-                    "%RevenueGrowth": 0.06585739706478266,
-                    "%Net Income Growth": 0.14841949292064527,
-                    "EPS Growth %": 0.15646258503401356
+                    "%RevenueGrowth": 6.585739706478266,
+                    "%Net Income Growth": 14.841949292064527,
+                    "EPS Growth %": 15.646258503401356
                 }
             },
             "type": "statement",
@@ -11136,9 +11136,9 @@
                     "EV to Free cash flow": 84.66548121227855,
                     "Revenue": 5675900000.0,
                     "Net Income": 1214800000.0,
-                    "%RevenueGrowth": -0.05855131118446155,
-                    "%Net Income Growth": 0.017931959108429707,
-                    "EPS Growth %": 0.027972027972027913
+                    "%RevenueGrowth": -5.855131118446155,
+                    "%Net Income Growth": 1.7931959108429707,
+                    "EPS Growth %": 2.7972027972027913
                 }
             },
             "type": "statement",
@@ -11209,15 +11209,15 @@
                     "%Change": 1.192,
                     "NextDayOpen": 274.64,
                     "NextDay%Change": -0.914,
-                    "%OvernightMovement(CloseVsOpen)": 0.0012760217288270148,
+                    "%OvernightMovement(CloseVsOpen)": 0.12760217288270148,
                     "Enterprise Value over EBITDA": 94.63281916639318,
                     "EV to Operating cash flow": 122.44,
                     "EV to Free cash flow": 129.71039136302295,
                     "Revenue": 4467000000.0,
                     "Net Income": 2108000000.0,
-                    "%RevenueGrowth": 0.08606856309263322,
-                    "%Net Income Growth": 0.029296875,
-                    "EPS Growth %": 0.03499999999999992
+                    "%RevenueGrowth": 8.606856309263321,
+                    "%Net Income Growth": 2.9296875,
+                    "EPS Growth %": 3.499999999999992
                 }
             },
             "type": "statement",
@@ -11288,15 +11288,15 @@
                     "%Change": 0.422,
                     "NextDayOpen": 278.67,
                     "NextDay%Change": 2.297,
-                    "%OvernightMovement(CloseVsOpen)": 0.0018334771354615587,
+                    "%OvernightMovement(CloseVsOpen)": 0.18334771354615587,
                     "Enterprise Value over EBITDA": 92.73838755809797,
                     "EV to Operating cash flow": 168.87322265625,
                     "EV to Free cash flow": 179.50814532871973,
                     "Revenue": 4113000000.0,
                     "Net Income": 2048000000.0,
-                    "%RevenueGrowth": 0.057598354332733415,
-                    "%Net Income Growth": 0.0998925886143931,
-                    "EPS Growth %": 0.11111111111111116
+                    "%RevenueGrowth": 5.7598354332733415,
+                    "%Net Income Growth": 9.98925886143931,
+                    "EPS Growth %": 11.111111111111116
                 }
             },
             "type": "statement",
@@ -11367,15 +11367,15 @@
                     "%Change": -1.255,
                     "NextDayOpen": 254.9,
                     "NextDay%Change": 2.413,
-                    "%OvernightMovement(CloseVsOpen)": 0.0025959723096287135,
+                    "%OvernightMovement(CloseVsOpen)": 0.25959723096287135,
                     "Enterprise Value over EBITDA": 87.32728971962617,
                     "EV to Operating cash flow": 178.04916158536585,
                     "EV to Free cash flow": 190.07363710333604,
                     "Revenue": 3889000000.0,
                     "Net Income": 1862000000.0,
-                    "%RevenueGrowth": 0.021539269766220226,
-                    "%Net Income Growth": 1.07119021134594,
-                    "EPS Growth %": 1.0689655172413794
+                    "%RevenueGrowth": 2.1539269766220226,
+                    "%Net Income Growth": 107.11902113459399,
+                    "EPS Growth %": 106.89655172413795
                 }
             },
             "type": "statement",
@@ -11446,15 +11446,15 @@
                     "%Change": 2.518,
                     "NextDayOpen": 193.25,
                     "NextDay%Change": -2.287,
-                    "%OvernightMovement(CloseVsOpen)": 0.029403931177755416,
+                    "%OvernightMovement(CloseVsOpen)": 2.9403931177755416,
                     "Enterprise Value over EBITDA": 83.00615157116451,
                     "EV to Operating cash flow": 94.85916349809887,
                     "EV to Free cash flow": 98.30632224168126,
                     "Revenue": 3898000000.0,
                     "Net Income": 1899000000.0,
-                    "%RevenueGrowth": 0.06357435197817196,
-                    "%Net Income Growth": 0.21032504780114714,
-                    "EPS Growth %": 0.21333333333333337
+                    "%RevenueGrowth": 6.357435197817196,
+                    "%Net Income Growth": 21.032504780114714,
+                    "EPS Growth %": 21.333333333333336
                 }
             },
             "type": "statement",
@@ -11524,15 +11524,15 @@
                     "%Change": 1.323,
                     "NextDayOpen": 211.69,
                     "NextDay%Change": 4.133,
-                    "%OvernightMovement(CloseVsOpen)": 0.020832328687852675,
+                    "%OvernightMovement(CloseVsOpen)": 2.0832328687852675,
                     "Enterprise Value over EBITDA": 85.49216054654141,
                     "EV to Operating cash flow": 134.46785762256548,
                     "EV to Free cash flow": 143.11839885632594,
                     "Revenue": 3665000000.0,
                     "Net Income": 1569000000.0,
-                    "%RevenueGrowth": 0.023743016759776525,
-                    "%Net Income Growth": 0.05160857908847194,
-                    "EPS Growth %": 0.06382978723404253
+                    "%RevenueGrowth": 2.3743016759776525,
+                    "%Net Income Growth": 5.160857908847194,
+                    "EPS Growth %": 6.382978723404253
                 }
             },
             "type": "statement",
@@ -11602,15 +11602,15 @@
                     "%Change": 0.204,
                     "NextDayOpen": 184.6,
                     "NextDay%Change": -1.018,
-                    "%OvernightMovement(CloseVsOpen)": -0.006565493488322027,
+                    "%OvernightMovement(CloseVsOpen)": -0.6565493488322027,
                     "Enterprise Value over EBITDA": 81.95384856630824,
                     "EV to Operating cash flow": 176.73525603864735,
                     "EV to Free cash flow": 191.94227701993705,
                     "Revenue": 3580000000.0,
                     "Net Income": 1492000000.0,
-                    "%RevenueGrowth": 0.08091787439613518,
-                    "%Net Income Growth": 5.572687224669603,
-                    "EPS Growth %": 5.409090909090908
+                    "%RevenueGrowth": 8.091787439613519,
+                    "%Net Income Growth": 557.2687224669603,
+                    "EPS Growth %": 540.9090909090909
                 }
             },
             "type": "statement",
@@ -11680,15 +11680,15 @@
                     "%Change": 1.235,
                     "NextDayOpen": 149.95,
                     "NextDay%Change": 0.707,
-                    "%OvernightMovement(CloseVsOpen)": 0.007931706661289173,
+                    "%OvernightMovement(CloseVsOpen)": 0.7931706661289173,
                     "Enterprise Value over EBITDA": 61.720438898450944,
                     "EV to Operating cash flow": 81.73122507122507,
                     "EV to Free cash flow": 86.669667673716,
                     "Revenue": 3398000000.0,
                     "Net Income": 1430000000.0,
-                    "%RevenueGrowth": 0.11300360301342938,
-                    "%Net Income Growth": 0.2149532710280373,
-                    "EPS Growth %": 0.22935779816513757
+                    "%RevenueGrowth": 11.300360301342938,
+                    "%Net Income Growth": 21.495327102803728,
+                    "EPS Growth %": 22.935779816513758
                 }
             },
             "type": "statement",
@@ -11758,15 +11758,15 @@
                     "%Change": 2.326,
                     "NextDayOpen": 128.96,
                     "NextDay%Change": 0.814,
-                    "%OvernightMovement(CloseVsOpen)": 0.00023268440238899402,
+                    "%OvernightMovement(CloseVsOpen)": 0.0232684402388994,
                     "Enterprise Value over EBITDA": 66.65502507522568,
                     "EV to Operating cash flow": 102.71261205564142,
                     "EV to Free cash flow": 106.84093247588424,
                     "Revenue": 3053000000.0,
                     "Net Income": 1177000000.0,
-                    "%RevenueGrowth": 0.11667885881492324,
-                    "%Net Income Growth": 0.08880666049953745,
-                    "EPS Growth %": 0.09000000000000008
+                    "%RevenueGrowth": 11.667885881492325,
+                    "%Net Income Growth": 8.880666049953746,
+                    "EPS Growth %": 9.000000000000007
                 }
             },
             "type": "statement",
@@ -11835,15 +11835,15 @@
                     "%Change": -0.246,
                     "NextDayOpen": 118.17,
                     "NextDay%Change": 0.711,
-                    "%OvernightMovement(CloseVsOpen)": 0.0004232983406704527,
+                    "%OvernightMovement(CloseVsOpen)": 0.04232983406704527,
                     "Enterprise Value over EBITDA": 64.91265021459228,
                     "EV to Operating cash flow": 162.412322147651,
                     "EV to Free cash flow": 177.67574155653452,
                     "Revenue": 2734000000.0,
                     "Net Income": 1081000000.0,
-                    "%RevenueGrowth": -0.0079825834542816,
-                    "%Net Income Growth": 0.1586280814576635,
-                    "EPS Growth %": 0.16279069767441867
+                    "%RevenueGrowth": -0.79825834542816,
+                    "%Net Income Growth": 15.86280814576635,
+                    "EPS Growth %": 16.279069767441868
                 }
             },
             "type": "statement",
@@ -11919,15 +11919,15 @@
                     "%Change": 1.305,
                     "NextDayOpen": 116.8,
                     "NextDay%Change": -1.841,
-                    "%OvernightMovement(CloseVsOpen)": -0.09154546161624011,
+                    "%OvernightMovement(CloseVsOpen)": -9.154546161624012,
                     "Enterprise Value over EBITDA": 62.22016094420601,
                     "EV to Operating cash flow": 58.222078313253014,
                     "EV to Free cash flow": 62.929126424308194,
                     "Revenue": 3771000000.0,
                     "Net Income": 1425000000.0,
-                    "%RevenueGrowth": 0.028080697928026144,
-                    "%Net Income Growth": 0.09195402298850586,
-                    "EPS Growth %": 0.0875912408759123
+                    "%RevenueGrowth": 2.8080697928026144,
+                    "%Net Income Growth": 9.195402298850585,
+                    "EPS Growth %": 8.75912408759123
                 }
             },
             "type": "statement",
@@ -12003,15 +12003,15 @@
                     "%Change": -0.73,
                     "NextDayOpen": 126.5,
                     "NextDay%Change": -1.976,
-                    "%OvernightMovement(CloseVsOpen)": 0.0535520946114767,
+                    "%OvernightMovement(CloseVsOpen)": 5.35520946114767,
                     "Enterprise Value over EBITDA": 56.309520586576426,
                     "EV to Operating cash flow": 55.588407572383076,
                     "EV to Free cash flow": 66.0296164021164,
                     "Revenue": 3668000000.0,
                     "Net Income": 1305000000.0,
-                    "%RevenueGrowth": 0.02058987200890372,
-                    "%Net Income Growth": 0.07230895645028768,
-                    "EPS Growth %": 0.08730158730158744
+                    "%RevenueGrowth": 2.058987200890372,
+                    "%Net Income Growth": 7.230895645028768,
+                    "EPS Growth %": 8.730158730158744
                 }
             },
             "type": "statement",
@@ -12087,15 +12087,15 @@
                     "%Change": -0.849,
                     "NextDayOpen": 115.0,
                     "NextDay%Change": -2.983,
-                    "%OvernightMovement(CloseVsOpen)": -0.011857707509881354,
+                    "%OvernightMovement(CloseVsOpen)": -1.1857707509881354,
                     "Enterprise Value over EBITDA": 62.51352474037874,
                     "EV to Operating cash flow": 92.44321589882566,
                     "EV to Free cash flow": 119.54981308411215,
                     "Revenue": 3594000000.0,
                     "Net Income": 1217000000.0,
-                    "%RevenueGrowth": -0.03309120258272802,
-                    "%Net Income Growth": -0.0177562550443906,
-                    "EPS Growth %": -0.007874015748031482
+                    "%RevenueGrowth": -3.309120258272802,
+                    "%Net Income Growth": -1.77562550443906,
+                    "EPS Growth %": -0.7874015748031482
                 }
             },
             "type": "statement",
@@ -12171,15 +12171,15 @@
                     "%Change": -3.159,
                     "NextDayOpen": 93.25,
                     "NextDay%Change": 1.33,
-                    "%OvernightMovement(CloseVsOpen)": -0.06982543640897754,
+                    "%OvernightMovement(CloseVsOpen)": -6.982543640897754,
                     "Enterprise Value over EBITDA": 51.957522935779814,
                     "EV to Operating cash flow": 53.78319088319088,
                     "EV to Free cash flow": 65.24619815668203,
                     "Revenue": 4261000000.0,
                     "Net Income": 1570000000.0,
-                    "%RevenueGrowth": 0.06074184714961417,
-                    "%Net Income Growth": 0.11743772241992878,
-                    "EPS Growth %": 0.12142857142857144
+                    "%RevenueGrowth": 6.074184714961417,
+                    "%Net Income Growth": 11.743772241992879,
+                    "EPS Growth %": 12.142857142857144
                 }
             },
             "type": "statement",
@@ -12255,15 +12255,15 @@
                     "%Change": 1.095,
                     "NextDayOpen": 113.4,
                     "NextDay%Change": 0.159,
-                    "%OvernightMovement(CloseVsOpen)": -0.0035149384885764245,
+                    "%OvernightMovement(CloseVsOpen)": -0.35149384885764245,
                     "Enterprise Value over EBITDA": 57.49038560411311,
                     "EV to Operating cash flow": 61.237020810514785,
                     "EV to Free cash flow": 70.90602409638554,
                     "Revenue": 4017000000.0,
                     "Net Income": 1405000000.0,
-                    "%RevenueGrowth": 0.0601741884402216,
-                    "%Net Income Growth": 0.0285505124450951,
-                    "EPS Growth %": 0.03703703703703698
+                    "%RevenueGrowth": 6.01741884402216,
+                    "%Net Income Growth": 2.85505124450951,
+                    "EPS Growth %": 3.703703703703698
                 }
             },
             "type": "statement",
@@ -12339,15 +12339,15 @@
                     "%Change": 1.343,
                     "NextDayOpen": 101.46,
                     "NextDay%Change": -1.518,
-                    "%OvernightMovement(CloseVsOpen)": 0.030888030888030826,
+                    "%OvernightMovement(CloseVsOpen)": 3.0888030888030826,
                     "Enterprise Value over EBITDA": 60.25885762521103,
                     "EV to Operating cash flow": 96.29495503597123,
                     "EV to Free cash flow": 116.01299024918744,
                     "Revenue": 3789000000.0,
                     "Net Income": 1366000000.0,
-                    "%RevenueGrowth": 0.010399999999999965,
-                    "%Net Income Growth": 2.9709302325581395,
-                    "EPS Growth %": 2.8571428571428577
+                    "%RevenueGrowth": 1.0399999999999965,
+                    "%Net Income Growth": 297.09302325581393,
+                    "EPS Growth %": 285.7142857142858
                 }
             },
             "type": "statement",
@@ -12423,15 +12423,15 @@
                     "%Change": -0.145,
                     "NextDayOpen": 95.0,
                     "NextDay%Change": -0.863,
-                    "%OvernightMovement(CloseVsOpen)": -0.014931563666528369,
+                    "%OvernightMovement(CloseVsOpen)": -1.493156366652837,
                     "Enterprise Value over EBITDA": 41.99069051167412,
                     "EV to Operating cash flow": 49.08667828106852,
                     "EV to Free cash flow": 55.03076822916667,
                     "Revenue": 4116000000.0,
                     "Net Income": 1285000000.0,
-                    "%RevenueGrowth": 0.11454102355808282,
-                    "%Net Income Growth": 0.21685606060606055,
-                    "EPS Growth %": 0.2233009708737863
+                    "%RevenueGrowth": 11.454102355808281,
+                    "%Net Income Growth": 21.685606060606055,
+                    "EPS Growth %": 22.330097087378633
                 }
             },
             "type": "statement",
@@ -12507,15 +12507,15 @@
                     "%Change": -0.419,
                     "NextDayOpen": 83.0,
                     "NextDay%Change": 0.566,
-                    "%OvernightMovement(CloseVsOpen)": 0.019781299913994355,
+                    "%OvernightMovement(CloseVsOpen)": 1.9781299913994355,
                     "Enterprise Value over EBITDA": 49.620551319648094,
                     "EV to Operating cash flow": 92.26067611777536,
                     "EV to Free cash flow": 110.44783289817232,
                     "Revenue": 3693000000.0,
                     "Net Income": 1056000000.0,
-                    "%RevenueGrowth": 0.08553791887125217,
-                    "%Net Income Growth": 0.05917753259779346,
-                    "EPS Growth %": 0.061855670103092786
+                    "%RevenueGrowth": 8.553791887125218,
+                    "%Net Income Growth": 5.917753259779346,
+                    "EPS Growth %": 6.185567010309279
                 }
             },
             "type": "statement",
@@ -12591,15 +12591,15 @@
                     "%Change": -1.304,
                     "NextDayOpen": 82.17,
                     "NextDay%Change": 1.29,
-                    "%OvernightMovement(CloseVsOpen)": -0.002306945118989767,
+                    "%OvernightMovement(CloseVsOpen)": -0.23069451189897672,
                     "Enterprise Value over EBITDA": 54.1691632928475,
                     "EV to Operating cash flow": 100.97949685534591,
                     "EV to Free cash flow": 120.17769461077845,
                     "Revenue": 3402000000.0,
                     "Net Income": 997000000.0,
-                    "%RevenueGrowth": -0.0035149384885764245,
-                    "%Net Income Growth": -0.15508474576271192,
-                    "EPS Growth %": -0.14912280701754377
+                    "%RevenueGrowth": -0.35149384885764245,
+                    "%Net Income Growth": -15.508474576271192,
+                    "EPS Growth %": -14.912280701754376
                 }
             },
             "type": "statement",
@@ -12660,15 +12660,15 @@
                     "%Change": -1.817,
                     "NextDayOpen": 206.35,
                     "NextDay%Change": -2.195,
-                    "%OvernightMovement(CloseVsOpen)": -0.012632183358055493,
+                    "%OvernightMovement(CloseVsOpen)": -1.2632183358055493,
                     "Enterprise Value over EBITDA": 48.102439678284185,
                     "EV to Operating cash flow": 42.50449511400652,
                     "EV to Free cash flow": 44.75761771125663,
                     "Revenue": 5737000000.0,
                     "Net Income": 1968000000.0,
-                    "%RevenueGrowth": -0.022824050417305397,
-                    "%Net Income Growth": -0.09683340982101885,
-                    "EPS Growth %": -0.08683473389355745
+                    "%RevenueGrowth": -2.2824050417305397,
+                    "%Net Income Growth": -9.683340982101885,
+                    "EPS Growth %": -8.683473389355745
                 }
             },
             "type": "statement",
@@ -12729,15 +12729,15 @@
                     "%Change": -0.875,
                     "NextDayOpen": 180.0,
                     "NextDay%Change": -3.656,
-                    "%OvernightMovement(CloseVsOpen)": 0.020119013884953407,
+                    "%OvernightMovement(CloseVsOpen)": 2.0119013884953407,
                     "Enterprise Value over EBITDA": 40.14139666561812,
                     "EV to Operating cash flow": 90.247171145686,
                     "EV to Free cash flow": 100.47992125984251,
                     "Revenue": 5871000000.0,
                     "Net Income": 2179000000.0,
-                    "%RevenueGrowth": 0.05650530861975889,
-                    "%Net Income Growth": 0.09387550200803219,
-                    "EPS Growth %": 0.12264150943396213
+                    "%RevenueGrowth": 5.650530861975889,
+                    "%Net Income Growth": 9.387550200803219,
+                    "EPS Growth %": 12.264150943396213
                 }
             },
             "type": "statement",
@@ -12798,15 +12798,15 @@
                     "%Change": 1.272,
                     "NextDayOpen": 175.4,
                     "NextDay%Change": -0.422,
-                    "%OvernightMovement(CloseVsOpen)": -0.021860361365157233,
+                    "%OvernightMovement(CloseVsOpen)": -2.1860361365157233,
                     "Enterprise Value over EBITDA": 48.72514998314796,
                     "EV to Operating cash flow": 78.35637940379404,
                     "EV to Free cash flow": 83.61337189126662,
                     "Revenue": 5557000000.0,
                     "Net Income": 1992000000.0,
-                    "%RevenueGrowth": -0.10802568218298558,
-                    "%Net Income Growth": 0.03319502074688807,
-                    "EPS Growth %": 0.056478405315614655
+                    "%RevenueGrowth": -10.802568218298559,
+                    "%Net Income Growth": 3.319502074688807,
+                    "EPS Growth %": 5.6478405315614655
                 }
             },
             "type": "statement",
@@ -12873,9 +12873,9 @@
                     "EV to Free cash flow": 50.33652159896841,
                     "Revenue": 5904000000.0,
                     "Net Income": 1859000000.0,
-                    "%RevenueGrowth": -0.025581779171480412,
-                    "%Net Income Growth": -0.19033101045296164,
-                    "EPS Growth %": -0.1724137931034483
+                    "%RevenueGrowth": -2.558177917148041,
+                    "%Net Income Growth": -19.033101045296164,
+                    "EPS Growth %": -17.24137931034483
                 }
             },
             "type": "statement",
@@ -12936,15 +12936,15 @@
                     "%Change": 0.502,
                     "NextDayOpen": 196.0,
                     "NextDay%Change": 1.816,
-                    "%OvernightMovement(CloseVsOpen)": 0.010048956454521862,
+                    "%OvernightMovement(CloseVsOpen)": 1.0048956454521862,
                     "Enterprise Value over EBITDA": 44.29036188178528,
                     "EV to Operating cash flow": 69.8700475737393,
                     "EV to Free cash flow": 76.69286684073107,
                     "Revenue": 6059000000.0,
                     "Net Income": 2296000000.0,
-                    "%RevenueGrowth": 0.09092545912855599,
-                    "%Net Income Growth": -0.006490696668109086,
-                    "EPS Growth %": 0.0707692307692307
+                    "%RevenueGrowth": 9.092545912855599,
+                    "%Net Income Growth": -0.6490696668109086,
+                    "EPS Growth %": 7.0769230769230695
                 }
             },
             "type": "statement",
@@ -13005,15 +13005,15 @@
                     "%Change": 2.056,
                     "NextDayOpen": 173.66,
                     "NextDay%Change": -0.674,
-                    "%OvernightMovement(CloseVsOpen)": 0.010003489589391679,
+                    "%OvernightMovement(CloseVsOpen)": 1.0003489589391679,
                     "Enterprise Value over EBITDA": 48.60370034407257,
                     "EV to Operating cash flow": 56.98057572423909,
                     "EV to Free cash flow": 60.414475116640745,
                     "Revenue": 5554000000.0,
                     "Net Income": 2311000000.0,
-                    "%RevenueGrowth": -0.042743881420199914,
-                    "%Net Income Growth": -1.5419793621013134,
-                    "EPS Growth %": -1.563258232235702
+                    "%RevenueGrowth": -4.274388142019991,
+                    "%Net Income Growth": -154.19793621013133,
+                    "EPS Growth %": -156.3258232235702
                 }
             },
             "type": "statement",
@@ -13074,15 +13074,15 @@
                     "%Change": 0.893,
                     "NextDayOpen": 170.87,
                     "NextDay%Change": -3.307,
-                    "%OvernightMovement(CloseVsOpen)": -0.037352112676056315,
+                    "%OvernightMovement(CloseVsOpen)": -3.7352112676056315,
                     "Enterprise Value over EBITDA": 56.176854977609366,
                     "EV to Operating cash flow": 47.21523161551824,
                     "EV to Free cash flow": 49.478583131067964,
                     "Revenue": 5773000000.0,
                     "Net Income": 2021000000.0,
-                    "%RevenueGrowth": -0.0063683304647159655,
-                    "%Net Income Growth": -0.060437006043700614,
-                    "EPS Growth %": -0.05821917808219179
+                    "%RevenueGrowth": -0.6368330464715966,
+                    "%Net Income Growth": -6.043700604370061,
+                    "EPS Growth %": -5.82191780821918
                 }
             },
             "type": "statement",
@@ -13143,15 +13143,15 @@
                     "%Change": 0.604,
                     "NextDayOpen": 160.13,
                     "NextDay%Change": -1.617,
-                    "%OvernightMovement(CloseVsOpen)": -0.02721584350889994,
+                    "%OvernightMovement(CloseVsOpen)": -2.721584350889994,
                     "Enterprise Value over EBITDA": 52.03752166934189,
                     "EV to Operating cash flow": 67.96514884696016,
                     "EV to Free cash flow": 73.11541723049166,
                     "Revenue": 5464000000.0,
                     "Net Income": 2071000000.0,
-                    "%RevenueGrowth": -0.0839899413243923,
-                    "%Net Income Growth": 0.07028423772609815,
-                    "EPS Growth %": 0.06896551724137945
+                    "%RevenueGrowth": -8.398994132439231,
+                    "%Net Income Growth": 7.028423772609815,
+                    "EPS Growth %": 6.896551724137945
                 }
             },
             "type": "statement",
